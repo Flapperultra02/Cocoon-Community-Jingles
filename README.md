@@ -2,7 +2,7 @@
 *Ethically sourced from the cocoon community*
 
 # About
-This jingle pack features a huge collection of jingles provided by creators within the cocoon community (over 1700 jingles and counting!). Unlike certain other jingle repositories, all these jingles have been contributed with full permisison and credit to their original creators and providors. We feel it's important to credit the original providors of these jingles as every creator has their own style. For that reason, we have credited each creators name on each jingle to help you choose the style you like!
+This jingle pack features a huge collection of jingles provided by creators within the cocoon community (over 1700 jingles and counting!). Unlike certain other jingle repositories, all these jingles have been contributed with full permission and credit to their original creators and providers. We feel it's important to credit the original providers of these jingles as every creator has their own style. For that reason, we have credited each creators name on each jingle to help you choose the style you like!
 
 If you would like to include these jingles in your own packs you must ask permission from the original contributors.
 
