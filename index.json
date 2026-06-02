@@ -8833,7 +8833,7 @@
             "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*wii$|^newsupermariobroswii$"
         },
         {
-            "game": "One Piece Unlimited Adventure",
+            "game": "One Piece - Unlimited Adventure",
             "file": "jingles/wii/One Piece Unlimited Adventure (somecallmesean).ogg",
             "regex": "^one[^a-z0-9]*piece[^a-z0-9]*unlimited[^a-z0-9]*adventures$|^onepieceunlimitedadventure$"
         },
