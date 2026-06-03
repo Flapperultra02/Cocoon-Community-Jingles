@@ -6789,6 +6789,11 @@
             "file": "jingles/psp/Metal Gear Solid - Portable Ops Plus (CirnoWaifu).ogg",
             "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*solid[^a-z0-9]*portable[^a-z0-9]*ops[^a-z0-9]*plus$|^metalgearsolidportableopsplus$"
         },
+           {
+            "game": "Parappa the Rapper (PSP)",
+            "file": "jingles/psp/Parappa the Rapper (PSP) (somecallmesean).ogg",
+            "regex": "^patapon$|^patapon$"
+        },
         {
             "game": "Patapon",
             "file": "jingles/psp/Patapon (CirnoWaifu).ogg",
