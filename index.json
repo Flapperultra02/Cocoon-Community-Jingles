@@ -6790,9 +6790,9 @@
             "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*solid[^a-z0-9]*portable[^a-z0-9]*ops[^a-z0-9]*plus$|^metalgearsolidportableopsplus$"
         },
            {
-            "game": "Parappa the Rapper (PSP)",
+            "game": "Parappa the Rapper",
             "file": "jingles/psp/Parappa the Rapper (PSP) (somecallmesean).ogg",
-            "regex": "^parappa[^a-z0-9]*the[^a-z0-9]*rapper[^a-z0-9]*psp$|^parappatherapperpsp$"
+            "regex": "^parappa[^a-z0-9]*the[^a-z0-9]*rapper$|^parappatherapper$"
         },
         {
             "game": "Patapon",
