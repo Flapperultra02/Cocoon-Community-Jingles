@@ -3,7 +3,7 @@ import json
 import re
 
 ROOT_DIR = "jingles"
-COLLECTION_NAME = "Cocoon Coummunity Jingles"
+COLLECTION_NAME = "Cocoon Community Jingles"
 
 AUDIO_EXTENSIONS = {".ogg", ".mp3", ".wav", ".flac", ".m4a"}
 
@@ -39,24 +39,30 @@ for platform in sorted(os.listdir(ROOT_DIR)):
 
     entries = []
 
-    for file in sorted(os.listdir(platform_path)):
-        ext = os.path.splitext(file)[1].lower()
+    for root, _, files in os.walk(platform_path):
+        for file in sorted(files):
+            ext = os.path.splitext(file)[1].lower()
 
-        if ext not in AUDIO_EXTENSIONS:
-            continue
+            if ext not in AUDIO_EXTENSIONS:
+                continue
 
-        display_name = os.path.splitext(file)[0]
-        display_name = re.sub(r"\s*\([^)]*\)\s*$", "", display_name)
+            display_name = os.path.splitext(file)[0]
+            display_name = re.sub(r"\s*\([^)]*\)\s*$", "", display_name)
 
-        entries.append({
-            "game": display_name,
-            "file": f"jingles/{platform}/{file}",
-            "regex": make_regex(display_name)
-        })
+            full_path = os.path.join(root, file)
 
-    data[platform] = entries
+            # Convert to forward slashes for JSON
+            relative_path = os.path.relpath(full_path, ".").replace("\\", "/")
+
+            entries.append({
+                "game": display_name,
+                "file": relative_path,
+                "regex": make_regex(display_name)
+            })
+
+    data[platform] = sorted(entries, key=lambda x: x["game"].lower())
 
 with open("index.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
 
-print("Generated jingles.json")
+print("Generated index.json")
