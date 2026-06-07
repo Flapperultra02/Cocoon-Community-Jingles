@@ -1041,6 +1041,26 @@
             "regex": "^disney$|^disney$"
         },
         {
+            "game": "Dragalia Lost -",
+            "file": "jingles/android/Fynaleth/Dragalia Lost - (Fynaleth).ogg",
+            "regex": "^dragalia[^a-z0-9]*lost$|^dragalialost$"
+        },
+        {
+            "game": "Dragalia Lost - (Because of You)",
+            "file": "jingles/android/Fynaleth/Dragalia Lost - (Because of You) (Fynaleth).ogg",
+            "regex": "^dragalia[^a-z0-9]*lost[^a-z0-9]*because[^a-z0-9]*of[^a-z0-9]*you$|^dragalialostbecauseofyou$"
+        },
+        {
+            "game": "Dragalia Lost - (Summon)",
+            "file": "jingles/android/Fynaleth/Dragalia Lost - (Summon) (Fynaleth).ogg",
+            "regex": "^dragalia[^a-z0-9]*lost[^a-z0-9]*summon$|^dragalialostsummon$"
+        },
+        {
+            "game": "Dragalia Lost - (Victory)",
+            "file": "jingles/android/Fynaleth/Dragalia Lost - (Victory) (Fynaleth).ogg",
+            "regex": "^dragalia[^a-z0-9]*lost[^a-z0-9]*victory$|^dragalialostvictory$"
+        },
+        {
             "game": "Fallout Shelter",
             "file": "jingles/android/CirnoWaifu/Fallout Shelter (CirnoWaifu).ogg",
             "regex": "^fallout[^a-z0-9]*shelter$|^falloutshelter$"
@@ -4533,6 +4553,21 @@
             "regex": "^another[^a-z0-9]*code[^a-z0-9]*two[^a-z0-9]*memories$|^anothercodetwomemories$"
         },
         {
+            "game": "Avalon Code Long",
+            "file": "jingles/nds/Jalmoc/Avalon Code Long (Jalmoc).ogg",
+            "regex": "^avalon[^a-z0-9]*code[^a-z0-9]*long$|^avaloncodelong$"
+        },
+        {
+            "game": "Avalon Code Lyric Ver",
+            "file": "jingles/nds/Jalmoc/Avalon Code Lyric Ver (Jalmoc).ogg",
+            "regex": "^avalon[^a-z0-9]*code[^a-z0-9]*lyric[^a-z0-9]*ver$|^avaloncodelyricver$"
+        },
+        {
+            "game": "Avalon Code Short",
+            "file": "jingles/nds/Jalmoc/Avalon Code Short (Jalmoc).ogg",
+            "regex": "^avalon[^a-z0-9]*code[^a-z0-9]*short$|^avaloncodeshort$"
+        },
+        {
             "game": "Blue Dragon Plus",
             "file": "jingles/nds/flapperultra/Blue Dragon Plus (flapperultra).ogg",
             "regex": "^blue[^a-z0-9]*dragon[^a-z0-9]*plus$|^bluedragonplus$"
@@ -4583,6 +4618,31 @@
             "regex": "^club[^a-z0-9]*penguin[^a-z0-9]*herberts[^a-z0-9]*revenge$|^clubpenguinherbertsrevenge$"
         },
         {
+            "game": "Code Lyoko",
+            "file": "jingles/nds/DJ Ki-sikil/Code Lyoko (DJ Ki-sikil).ogg",
+            "regex": "^code[^a-z0-9]*lyoko$|^codelyoko$"
+        },
+        {
+            "game": "Code Lyoko Fall of XANA",
+            "file": "jingles/nds/DJ Ki-sikil/Code Lyoko Fall of XANA (DJ Ki-sikil).ogg",
+            "regex": "^code[^a-z0-9]*lyoko[^a-z0-9]*fall[^a-z0-9]*of[^a-z0-9]*xana$|^codelyokofallofxana$"
+        },
+        {
+            "game": "Code Lyoko Long",
+            "file": "jingles/nds/Jalmoc/Code Lyoko Long (Jalmoc).ogg",
+            "regex": "^code[^a-z0-9]*lyoko[^a-z0-9]*long$|^codelyokolong$"
+        },
+        {
+            "game": "Code Lyoko Lyric Ver",
+            "file": "jingles/nds/Jalmoc/Code Lyoko Lyric Ver (Jalmoc).ogg",
+            "regex": "^code[^a-z0-9]*lyoko[^a-z0-9]*lyric[^a-z0-9]*ver$|^codelyokolyricver$"
+        },
+        {
+            "game": "Code Lyoko Short",
+            "file": "jingles/nds/Jalmoc/Code Lyoko Short (Jalmoc).ogg",
+            "regex": "^code[^a-z0-9]*lyoko[^a-z0-9]*short$|^codelyokoshort$"
+        },
+        {
             "game": "Contra 4",
             "file": "jingles/nds/flapperultra/Contra 4 (flapperultra).ogg",
             "regex": "^contra[^a-z0-9]*4$|^contra4$"
@@ -4596,6 +4656,11 @@
             "game": "Diddy Kong Racing DS",
             "file": "jingles/nds/BennyTheFirstHunter/Diddy Kong Racing DS (BennyTheFirstHunter).ogg",
             "regex": "^diddy[^a-z0-9]*kong[^a-z0-9]*racing[^a-z0-9]*ds$|^diddykongracingds$"
+        },
+        {
+            "game": "Digimon World Dawn & Dusk",
+            "file": "jingles/nds/Jalmoc/Digimon World Dawn & Dusk (Jalmoc).ogg",
+            "regex": "^digimon[^a-z0-9]*world[^a-z0-9]*dawn[^a-z0-9]*dusk$|^digimonworlddawndusk$"
         },
         {
             "game": "Disgaea DS",
@@ -4668,6 +4733,26 @@
             "regex": "^etrian[^a-z0-9]*odyssey[^a-z0-9]*iii$|^etrianodysseyiii$"
         },
         {
+            "game": "Final Fantasy Crystal Chronicles Echoes of Time Long",
+            "file": "jingles/nds/Jalmoc/Final Fantasy Crystal Chronicles Echoes of Time Long (Jalmoc).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*crystal[^a-z0-9]*chronicles[^a-z0-9]*echoes[^a-z0-9]*of[^a-z0-9]*time[^a-z0-9]*long$|^finalfantasycrystalchroniclesechoesoftimelong$"
+        },
+        {
+            "game": "Final Fantasy Crystal Chronicles Echoes of Time Short",
+            "file": "jingles/nds/Jalmoc/Final Fantasy Crystal Chronicles Echoes of Time Short (Jalmoc).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*crystal[^a-z0-9]*chronicles[^a-z0-9]*echoes[^a-z0-9]*of[^a-z0-9]*time[^a-z0-9]*short$|^finalfantasycrystalchroniclesechoesoftimeshort$"
+        },
+        {
+            "game": "Final Fantasy Crystal Chronicles Ring of Fates Long",
+            "file": "jingles/nds/Jalmoc/Final Fantasy Crystal Chronicles Ring of Fates Long (Jalmoc).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*crystal[^a-z0-9]*chronicles[^a-z0-9]*ring[^a-z0-9]*of[^a-z0-9]*fates[^a-z0-9]*long$|^finalfantasycrystalchroniclesringoffateslong$"
+        },
+        {
+            "game": "Final Fantasy Crystal Chronicles Ring of Fates Short",
+            "file": "jingles/nds/Jalmoc/Final Fantasy Crystal Chronicles Ring of Fates Short (Jalmoc).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*crystal[^a-z0-9]*chronicles[^a-z0-9]*ring[^a-z0-9]*of[^a-z0-9]*fates[^a-z0-9]*short$|^finalfantasycrystalchroniclesringoffatesshort$"
+        },
+        {
             "game": "Final Fantasy III",
             "file": "jingles/nds/flapperultra/Final Fantasy III (flapperultra).ogg",
             "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*iii$|^finalfantasyiii$"
@@ -4676,6 +4761,11 @@
             "game": "Final Fantasy Tactics A2",
             "file": "jingles/nds/flapperultra/Final Fantasy Tactics A2 (flapperultra).ogg",
             "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*tactics[^a-z0-9]*a2$|^finalfantasytacticsa2$"
+        },
+        {
+            "game": "Final Fantasy Tactics A2 Grimoire Of The Rift",
+            "file": "jingles/nds/Jalmoc/Final Fantasy Tactics A2 Grimoire Of The Rift (Jalmoc).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*tactics[^a-z0-9]*a2[^a-z0-9]*grimoire[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*rift$|^finalfantasytacticsa2grimoireoftherift$"
         },
         {
             "game": "Final Fantasy XII - Revenant Wings",
@@ -4801,6 +4891,11 @@
             "game": "Luminous Arc 2",
             "file": "jingles/nds/Jalmoc/Luminous Arc 2 (Jalmoc).ogg",
             "regex": "^luminous[^a-z0-9]*arc[^a-z0-9]*2$|^luminousarc2$"
+        },
+        {
+            "game": "Lunar Knights",
+            "file": "jingles/nds/Jalmoc/Lunar Knights (Jalmoc).ogg",
+            "regex": "^lunar[^a-z0-9]*knights$|^lunarknights$"
         },
         {
             "game": "Mario & Sonic at the Olympic Games",
@@ -6931,6 +7026,16 @@
             "regex": "^freedom[^a-z0-9]*fighters$|^freedomfighters$"
         },
         {
+            "game": "Freedom Planet",
+            "file": "jingles/pc steam & multiplat/DJ Ki-sikil/Freedom Planet (DJ Ki-sikil).ogg",
+            "regex": "^freedom[^a-z0-9]*planet$|^freedomplanet$"
+        },
+        {
+            "game": "Freedom Planet 2",
+            "file": "jingles/pc steam & multiplat/DJ Ki-sikil/Freedom Planet 2 (DJ Ki-sikil).ogg",
+            "regex": "^freedom[^a-z0-9]*planet[^a-z0-9]*2$|^freedomplanet2$"
+        },
+        {
             "game": "FUBUKI - zero in on Holoearth",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/FUBUKI - zero in on Holoearth (CirnoWaifu).ogg",
             "regex": "^fubuki[^a-z0-9]*zero[^a-z0-9]*in[^a-z0-9]*on[^a-z0-9]*holoearth$|^fubukizeroinonholoearth$"
@@ -7964,6 +8069,16 @@
             "game": "The Haunted Mansion",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/The Haunted Mansion (CirnoWaifu).ogg",
             "regex": "^the[^a-z0-9]*haunted[^a-z0-9]*mansion$|^thehauntedmansion$"
+        },
+        {
+            "game": "The Legend of Dark Witch",
+            "file": "jingles/pc steam & multiplat/DJ Ki-sikil/The Legend of Dark Witch (DJ Ki-sikil).ogg",
+            "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*dark[^a-z0-9]*witch$|^thelegendofdarkwitch$"
+        },
+        {
+            "game": "The Legend of Dark Witch Episode 2",
+            "file": "jingles/pc steam & multiplat/DJ Ki-sikil/The Legend of Dark Witch Episode 2 (DJ Ki-sikil).ogg",
+            "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*dark[^a-z0-9]*witch[^a-z0-9]*episode[^a-z0-9]*2$|^thelegendofdarkwitchepisode2$"
         },
         {
             "game": "The Messenger",
@@ -10694,6 +10809,11 @@
             "regex": "^super[^a-z0-9]*metroid$|^supermetroid$"
         },
         {
+            "game": "Super Metroid X-Fusion (hack)",
+            "file": "jingles/snes/DJ Ki-sikil/Super Metroid X-Fusion (hack) (DJ Ki-sikil).ogg",
+            "regex": "^super[^a-z0-9]*metroid[^a-z0-9]*x[^a-z0-9]*fusion[^a-z0-9]*hack$|^supermetroidxfusionhack$"
+        },
+        {
             "game": "Super Tennis",
             "file": "jingles/snes/flapperultra/Super Tennis (flapperultra).ogg",
             "regex": "^super[^a-z0-9]*tennis$|^supertennis$"
@@ -11154,6 +11274,11 @@
             "game": "Tetris 99",
             "file": "jingles/switch/Natalie/Tetris 99 (Natalie).ogg",
             "regex": "^tetris[^a-z0-9]*99$|^tetris99$"
+        },
+        {
+            "game": "The Legend of Dark Witch Episode 3",
+            "file": "jingles/switch/DJ Ki-sikil/The Legend of Dark Witch Episode 3 (DJ Ki-sikil).ogg",
+            "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*dark[^a-z0-9]*witch[^a-z0-9]*episode[^a-z0-9]*3$|^thelegendofdarkwitchepisode3$"
         },
         {
             "game": "The Legend of Zelda - Breath of the Wild",
