@@ -208,12 +208,14 @@
 - ChuChu Rocket!
 - Crazy Taxi 2
 
-### PlayStation (12)
+### PlayStation (14)
 
 - Bust a Move 2 - Arcade Edition
+- Digimon Rumble Arena
 - Driver - You Are the Wheelman
 - Gran Turismo
 - Gran Turismo 2
+- Herc's Adventure
 - Monster Rancher 2
 - Mortal Kombat 4
 - oddworld - Abes Exoddus
@@ -307,75 +309,6 @@
 ### Arcade (0)
 
 - None
-
-### PC / Steam (66)
-
-- Amber Isle
-- ARC Raiders
-- Battlefield 1
-- Black Mesa
-- Brawlhalla
-- Burnout Paradise
-- Call of Duty: Modern Warfare (2019)
-- Crash Bandicoot N. Sane Trilogy
-- Cube World
-- Cult of the Lamb
-- Diablo II
-- Diablo III
-- Diablo IV
-- Dome Keeper
-- Dr Robotniks Ring Racers
-- Dredge
-- Enter the Gungeon
-- Fable Anniversary
-- Flock Around
-- FNF Weekly
-- Fowl Damage
-- Gang Beasts
-- Golf With Your Friends
-- Hades
-- Hades 2
-- Half-Life 2
-- Hollow Knight Silksong
-- House Flipper
-- Journey
-- Left 4 Dead 2
-- Life is Strange Before the Storm
-- Look Outside
-- Megamix
-- Minecraft - Story Mode
-- Monster Hunter Rise
-- Monster Hunter Rise Sunbreak
-- Monster Hunter World
-- Monster Hunter World Iceborne
-- Mouse P.I. For Hire
-- N++
-- Nuclear Throne
-- Old School RuneScape
-- Ori and the Blind Forest
-- Ori and the Will of the Wisps
-- Pac-Man Forever
-- Persona 3 Reload
-- Portal
-- Portal 2
-- Quake
-- Rainbow Six Vegas
-- Risk of Rain
-- Risk of Rain 2
-- Rocket League
-- Skyrim
-- Sonic Frontiers
-- Sonic Legacy
-- Sonic Robo Blast 2 Kart
-- Sonic Triple Trouble (16-Bit)
-- Steamworld dig 2
-- THE FINALS
-- Tomb Raider (2013)
-- TOREE
-- Unbeatable
-- Vampire Crawlers
-- VIVIDLOPE
-- Welcome to osu!
 
 ### PICO-8 (0)
 
