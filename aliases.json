@@ -1,10 +1,725 @@
 {
-    "Star Fox": [
+    "Bros": [
+		"Bros."
+	],
+	"Dr": [
+		"Dr."
+	],
+	"Mr": [
+		"Mr."
+	],
+	"Color": [
+		"Colour",
+		"Colors",
+		"Colours"
+	],
+	"&": [
+		"and",
+		"y",
+		"e"
+	],
+	"Deluxe": [
+		"Deluxe Edition",
+		"Complete Edition",
+		"Definitive Edition",
+		"Special Edition",
+		"Director's Cut",
+		"DX"
+	],
+	"'s": [
+		"s'"
+	],
+	"vs": [
+		"vs."
+	],
+	"I": [
+		"1"
+	],
+	"II": [
+		"2"
+	],
+	"III": [
+		"3"
+	],
+	"IV": [
+		"4"
+	],
+	"V": [
+		"5"
+	],
+	"VI": [
+		"6"
+	],
+	"VII": [
+		"7"
+	],
+	"VIII": [
+		"8"
+	],
+	"IX": [
+		"9"
+	],
+	"X": [
+		"10"
+	],
+	"XI": [
+		"11"
+	],
+	"XII": [
+		"12"
+	],
+	"XIII": [
+		"13"
+	],
+	"XIV": [
+		"14"
+	],
+	"XV": [
+		"15"
+	],
+	"XVI": [
+		"16"
+	],
+	"XVII": [
+		"17"
+	],
+	"XVIII": [
+		"18"
+	],
+	"XIX": [
+		"19"
+	],
+	"XX": [
+		"20"
+	],
+	"Star Fox": [
         "Starwing",
 		"Starfox"
     ],
+	"Pokemon": [
+		"Pokémon",
+        "Pokmon",
+		"PokÃ©mon",
+		"PokÃmon",
+		"Pocket Monsters",
+		"Pocketto Monstars"
+    ],
+	"The Legend of Zelda": [
+		"Legend of Zelda, The",
+		"Zelda"
+	],
+	"Kirby": [
+		"Kirby's",
+		"Kaabi",
+		"Hoshi no Kirby",
+		"Hoshi no Kaabi"
+    ],
+	"Dream Land": [
+		"Dreamland"
+	],
+	"Yoshi": [
+		"Yoshi's"
+	],
+	"Animal Crossing": [
+		"Animal Forest",
+		"Doubutsu no Mori",
+		"Dōbutsu no Mori",
+		"Animal Crossing - Population Growing",
+		"Animal Crossing - Population Growing!"
+	],
+	"City Folk": [
+		"ACCF",
+		"Let's Go to the City",
+		"Let's Go to the City!"
+	],
+	"Animal Crossing Plaza": [
+		"Plaza Animal Crossing"
+	],
+	"Paper Mario": [
+		"Mario Story"
+	],
+	"Pac-Man": [
+		"Pac Man",
+		"Pac",
+		"Puckman"
+	],
+	"Yo-kai": [
+		"Yo Kai",
+		"Youkai",
+		"Yōkai"
+	],
+	"Yo-kai Watch": [
+		"Yo Kai Watch",
+		"Youkai Uotchi",
+		"Yōkai Uotchi"
+	],
+	"Chibi-Robo!": [
+		"Mini Robotto"
+	],
+	"Mickey": [
+		"Mickey Mouse",
+		"Topolino"
+	],
+	"Wolverine": [
+		"Lobezno"
+	],
+	"Simpsons": [
+		"The Simpsons",
+		"Simpson",
+		"The Simpsons",
+		"Simpsons, The"
+	],
+	"Family Guy": [
+		"Padre de Familia"
+	],
+	"Spider-man":[
+		"Spiderman",
+		"Spider man",
+		"Hombre Araña",
+		"Homem Aranha"
+	],
+	"X-Men": [
+		"xmen",
+		"X Men",
+		"Hombres X"
+	],
+	"El Chavo": [
+		"Chaves"
+	],
+	"Doraemon": [
+		"Gato Cosmico",
+		"Gato Cósmico"
+	],
+	"The Fast and the Furious": [
+		"Fast and the Furious, The",
+		"Rápidos y Furiosos",
+		"Rapidos y Furiosos",
+		"A Todo Gas"
+	],
+	"Addams Family": [
+		"The Addams Family",
+		"Addams Family, The",
+		"Locos Addams"
+	],
+	"SpongeBob": [
+		"SpongeBob SquarePants",
+        "Nickelodeon SpongeBob SquarePants",
+		"Sponge Bob",
+		"Sponge Bob Square Pants",
+		"Nickelodeon Sponge Bob Square Pants",
+		"SpongeBob's",
+		"SpongeBob SquarePants'",
+		"Bob Esponja",
+		"Nickelodeon Bob Esponja"
+    ],
+	"Truth or Square": [
+		"Atrapados en el Congelador"
+	],
+	"Battle for Bikini Bottom": [
+		"BFBB",
+		"Battle for Bikini Bottom - Rehydrated"
+	],
+	"The SpongeBob SquarePants Movie": [
+		"SpongeBob SquarePants Movie, The"
+	],
+	"Nicktoons": [
+		"SpongeBob SquarePants featuring Nicktoons",
+		"SpongeBob and Friends"
+	],
+	"King of Fighters": [
+		"KOF"
+	],
     "Contra III The Alien Wars": [
 		"Contra 3",
+		"Contra III",
         "Super Probotector - Alien Rebels"
-    ]
+    ],
+	"Luigi's Mansion 2": [
+        "Luigi's Mansion Dark Moon",
+		"Luigi's Mansion 2 - Dark Moon",
+		"Luigi Mansion 2",
+		"Luigi Mansion Dark Moon",
+		"Luigi Mansion 2 - Dark Moon"
+    ],
+	"Luigi's Mansion": [
+		"Luigi Mansion",
+		"Luigi's Mansion Premium Deluxe",
+		"Luigi Mansion Premium Deluxe"
+	],
+	"Sonic Colors": [
+		"Sonic Colours",
+		"Sonic Colors Ultimate",
+		"Sonic Colours Ultimate"
+    ],
+	"Epic Mickey": [
+		"Disney Epic Mickey",
+		"Epic Mickey - Rebrushed",
+		"Disney Epic Mickey - Rebrushed"
+    ],
+	"Epic Mickey 2": [
+		"Disney Epic Mickey 2",
+		"Disney Epic Mickey 2 - The Power of 2",
+		"Disney Epic Mickey 2 - El Poder de 2",
+		"Disney Epic Mickey 2 - L'avventura di Topolino e Oswald",
+		"Epic Mickey 2 - The Power of 2",
+		"Epic Mickey 2 - El Poder de 2",
+		"Epic Mickey 2 - L'avventura di Topolino e Oswald"
+    ],
+	"Sonic Unleashed": [
+		"Sonic World Adventure",
+		"Sonic Unleashed - La Malédiction du Hérisson",
+		"Sonic Unleashed - La Malediction du Herisson",
+		"UnleashedRecompiled",
+		"Unleashed Recompiled",
+		"UnleashedRecomp",
+		"Unleashed Recomp"
+	],
+	"Mario Online Rx":[
+		"Mario & Germ Buster",
+		"Mario & Bactericida"
+	],
+	"Super Mario Bros.": [
+		"Super Mario Bros",
+		"Super Mario Bros Deluxe",
+		"Super Mario Bros. Deluxe",
+		"Super Mario Bros Remastered",
+		"Super Mario Bros. Remastered"
+	],
+	"Super Mario Bros. 2": [
+		"Super Mario Bros 2",
+		"Super Mario Advance",
+		"Super Mario USA",
+		"Super Mario Bros Lost Levels",
+		"Super Mario Bros. Lost Levels",
+		"Super Mario Bros - The Lost Levels",
+		"Super Mario Bros. - The Lost Levels"
+	],
+	"Super Mario Bros. 3": [
+		"Super Mario Bros 3",
+		"Super Mario Advance 4"
+	],
+	"Super Mario World": [
+		"Super Mario Bros 4",
+		"Super Mario Bros. 4",
+		"Super Mario Advance 2"
+	],
+	"Mario Kart - Double Dash!!": [
+		"Mario Kart Double Dash",
+		"Mario Kart Double Dash Plus",
+		"Mario Kart Double Dash Deluxe",
+		"Mario Kart Double Dash Extended",
+		"Mario Kart Double Dash Retro GP"
+	],
+	"Mario Kart DS": [
+		"CTGP Nitro",
+		"Mario Kart Deluxe",
+		"Ermii Kart"
+	],
+	"Mario Kart Wii": [
+		"Mario Kart Channel",
+		"Canal Mario Kart",
+		"Mario Kart Retro Rewind",
+		"Insane Kart Wii",
+		"Mario Kart Wii Deluxe",
+		"CTGP Revolution"
+	],
+	"Mario Kart 7": [
+		"CTGP-7",
+		"CTGP 7"
+	],
+	"Mario Kart 8": [
+		"Mario Kart 8 Deluxe",
+		"Mario Kart Generations",
+		"CTGP Deluxe"
+	],
+	"New Super Mario Bros. U": [
+		"New Super Mario Bros U",
+		"New Super Mario Bros. U + New Super Luigi U",
+		"New Super Mario Bros U + New Super Luigi U",
+		"New Super Luigi U",
+		"New Super Mario Bros U Deluxe",
+		"New Super Mario Bros. U Deluxe"
+	],
+	"Super Mario 64": [
+		"Super Mario 64 Co-Op Deluxe",
+		"Super Mario 64 Plus",
+		"Super Mario 64 Coop Deluxe",
+		"Super Mario 64 Coop DX",
+		"Ghostship"
+	],
+	"Super Mario Sunshine": [
+		"Super Mario Sunburn",
+		"Super Mario Eclipse"
+	],
+	"Super Mario Galaxy": [
+		"Super Mario Wii"
+	],
+	"Kirby's Return to Dream Land": [
+		"Kirby's Adventure Wii",
+		"Kirby's Return to Dream Land Deluxe",
+		"Kirby's Adventure Wii Deluxe"
+	],
+	"Yoshi's Island": [
+		"Yoshi Island",
+		"Super Mario World 2",
+		"Super Mario Advance 3"
+	],
+	"Sonic the Hedgehog": [
+		"Sonic"
+	],
+	"Sonic the Hedgehog 3": [
+		"Sonic 3",
+		"Sonic 3 & Knuckles",
+		"Sonic 3 Complete",
+		"Sonic 3 AIR",
+		"Sonic 3 A.I.R",
+		"Sonic the Hedgehog 3 A.I.R",
+		"Sonic the Hedgehog 3 AIR",
+		"Sonic the Hedgehog 3 & Knuckles",
+		"Sonic the Hedgehog 3 Complete"
+	],
+	"Friday Night Funkin'": [
+		"Friday Night Funkin",
+		"FNF",
+		"Friday Night",
+		"Psych Engine",
+		"Psych Online",
+		"Psych Engine Online",
+		"Kade Engine",
+		"Codename Engine",
+		"V-Slice",
+		"VSlice",
+		"V Slice",
+		"P-Slice",
+		"PSlice",
+		"P Slice",
+		"ALE Psych",
+		"ALE Psych Engine",
+		"Yoshi Engine",
+		"Leather Engine",
+		"Impostor",
+		"Imposter",
+		"Sonic EXE",
+		"Sonic.EXE",
+		"Garcello",
+		"Hazy River"
+	],
+	"Twilight Princess": [
+		"Twilight Princess HD",
+		"Dusk",
+		"Dusklight",
+		"Dusk Light"
+	],
+	"Wind Waker": [
+		"The Wind Waker",
+		"The Wind Waker HD",
+		"Wind Waker HD"
+	],
+	"Skyward Sword": [
+		"Skyward Sword HD",
+		"Skyward Sword 1.1"
+	],
+	"Ocarina of Time": [
+		"Ocarina of Time 3D",
+		"Ocarina of Time HD",
+		"Ship of Harkinian",
+		"Zelda Recompiled"
+	],
+	"Majora's Mask": [
+		"Majora Mask",
+		"Majora's Mask 3D",
+		"Majora Mask 3D",
+		"Majora's Mask HD",
+		"Majora Mask HD",
+		"Zelda Recompiled",
+		"2Ship2Harkinian"
+	],
+	"Sonic Boom": [
+		"Sonic Toon"
+	],
+	"Sonic Lost World": [
+		"Sonic Lost Hex"
+	],
+	"Wii Sports": [
+		"Wii Sports + Wii Sports Resort",
+		"Wii Sports + Resort"
+	],
+	"Wii Sports Resort": [
+		"Wii Sports + Wii Sports Resort",
+		"Wii Sports + Resort"
+	],
+	"Demae Channel": [
+		"Food Channel",
+		"Food Delivery Channel",
+		"Demaecan",
+		"Delivery Channel",
+		"Canal Delivery",
+		"Canal Repartos"
+	],
+	"Minna no Theater": [
+		"Everybody's Theather",
+		"Canal Teatro"
+	],
+	"Minna no Jōshiki Ryoku TV": [
+		"Everyone's General Knowledge Power TV",
+		"Minna no Joushiki Ryoku TV"
+	],
+	"TV no Tomo Channel": [
+		"TV Guide Channel",
+		"Canal Guia de TV",
+		"Canal Guía de TV"
+	],
+	"Wii no ma": [
+		"Wii Room",
+		"Habitación Wii",
+		"Habitacion Wii"
+	],
+	"Check Mii Out Channel": [
+		"Mii Contest Channel",
+		"Canal Miirame"
+	],
+	"Everybody Votes Channel": [
+		"Canal Opiniones"
+	],
+	"Nintendo Channel": [
+		"Canal Nintendo"
+	],
+	"Mii Channel": [
+		"Canal Mii",
+		"Mii-kanal",
+		"Mii kanal"
+	],
+	"News Channel": [
+		"Canal Noticias"
+	],
+	"Forecast Channel": [
+		"Canal Tiempo"
+	],
+	"Photos Channel": [
+		"Canal Fotos"
+	],
+	"Today & Tomorrow Channel": [
+		"Canal Hoy y Mañana"
+	],
+	"Wii Shop Channel": [
+		"Canal Tienda Wii"
+	],
+	"Wii Speak Channel": [
+		"Canal Wii Speak"
+	],
+	"Wii Fit": [
+		"Wii Fit Plus",
+		"Wii Fit Channel",
+		"Canal Wii Fit",
+		"Wii Fit Plus Channel",
+		"Canal Wii Fit Plus",
+		"Wii Fit Body Measurement Channel"
+	],
+	"Wii Assistant Channel": [
+		"Wii Pre-download",
+		"Wii Recommended",
+		"Wii Recommendation"
+	],
+	"NHK Kōhaku Quiz Gassen": [
+		"NHK Red & White Quiz Battle"
+	],
+	"Takt of Magic": [
+		"Takuto Obu Majikku"
+	],
+	"Virtual Console": [
+		"Consola Virtual"
+	],
+	"Kiki Trick": [
+		"Ear Training Trick"
+	],
+	"Captain Rainbow": [
+		"Kyaputen Reinbō",
+		"Kyaputen Reinbou"
+	],
+	"Wario Land - Shake It!": [
+		"Wario Land Shake It",
+		"Wario Land - The Shake Dimension"
+	],
+	"Monster Hunter 3": [
+		"Monster Hunter Tri",
+		"Monster Hunter 3 Tri",
+		"Monster Hunter Portable",
+		"Monster Hunter Portable 3rd",
+		"Monster Hunter 3 Ultimate"
+	],
+	"Donkey Kong Country Returns": [
+		"Donkey Kong Country Returns 3D",
+		"Donkey Kong Country Returns HD"
+	],
+	"Wall-E": [
+		"Disney Pixar Wall-E",
+		"Disney Pixar Wall*E",
+		"Wall*E"
+	],
+	"Michael Jackson - The Experience": [
+		"Michael Jackson - The Experience - Special Edition"
+	],
+	"Crash Bandicoot 4 - The Wrath of Cortex": [
+		"Wrath of Cortex",
+		"Crash Bandicoot 4",
+		"Crash Bandicoot - The Wrath of Cortex",
+		"Crash Bandicoot - Wrath of Cortex",
+		"Crash Wrath of Cortex"
+	],
+	"Sonic and the Secret Rings": [
+		"Sonic y los Anillos Secretos"
+	],
+	"Sonic and the Black Knight": [
+		"Sonic y el Caballero Negro"
+	],
+	"Kirby and the Forgotten Land": [
+		"Kirby y la Tierra Olvidada"
+	],
+	"Hyrule Warriors": [
+		"Hyrule Warriors Legends",
+		"Hyrule Warriors - Definitive Edition"
+	],
+	"Rayman Legends": [
+		"Rayman Legends - Definitive Edition",
+		"Rayman Legends Retold"
+	],
+	"Super Mario 3D World": [
+		"Bowser's Fury",
+		"Bowser Fury",
+		"Bowser Furry",
+		"Super Mario 3D World + Bowser's Fury",
+		"Super Mario 3D World + Bowser Fury"
+	],
+	"Club Penguin Elite Penguin Force": [
+		"Club Penguin EPF"
+	],
+	"Club Penguin - Game Day!": [
+		"Club Penguin Game Day"
+	],
+	"Injustice - Gods Among Us": [
+		"Injustice"
+	],
+	"Need for Speed Most Wanted": [
+		"Need for Speed Most Wanted U"
+	],
+	"Zombi": [
+		"Zombi U"
+	],
+	"Wii Karaoke U": [
+		"Nintendo x Joysound"
+	],
+	"Pushmo": [
+		"Pullblox"
+	],
+	"Crashmo": [
+		"Fallblox"
+	],
+	"Stretchmo": [
+		"Fullblox"
+	],
+	"Kirby and the Rainbow Curse": [
+		"Kirby and the Rainbow Paintbrush",
+		"Kirby y el Pincel Arcoíris",
+		"Kirby y el Pincel Arcoiris"
+	],
+	"Kirby - Squeak Squad": [
+		"Kirby - Squeak Squad!",
+		"Kirby - Mouse Attack",
+		"Kirby - Mouse Attack!",
+		"Kirby - Roedores Al Ataque",
+		"Kirby - ¡Roedores Al Ataque!"
+	],
+	"Kirby and the Amazing Mirror": [
+		"Kirby & the Amazing Mirror",
+		"Kirby y el Laberinto de los Espejos"
+	],
+	"Kirby - Nightmare in Dream Land": [
+		"Kirby's Adventure",
+		"3D Classics - Kirby's Adventure",
+		"Kirby - Pesadilla en Dream Land"
+	],
+	"Kirby Canvas Curse": [
+		"Kirby Power Paintbrush"
+	],
+	"Kirby Super Star": [
+		"Kirby's Fun Pak",
+		"Kirby Super Star Ultra",
+		"Kirby's Fun Pak Ultra"
+	],
+	"Youkai uotchidansu - JUST DANCE supesharubājon": [
+		"Yo-kai Watch Dance",
+		"Yo-kai Watch Dance - Just Dance Special Edition",
+		"Yo-kai Watch Dance - Just Dance Special Version",
+		"Just Dance Yo-kai Watch",
+		"Youkai uotchidansu"
+	],
+	"Wii U Default Splash Screen": [
+		"Wii U",
+		"Wii U Default",
+		"Wii U Default Loading Screen",
+		"Wii U Default Boot Screen",
+		"Wii U Default Start-up Screen",
+		"Wii U Default Launch Screen"
+	],
+	"Shovel Knight": [
+		"Shovel Knight - Treasure Trove"
+	],
+	"Pokkén Tournament": [
+		"Pokken Tournament",
+        "Pokkn Tournament",
+		"PokkÃ©n Tournament",
+		"PokkÃn Tournament",
+
+		"Pokken Tournament DX",
+		"Pokkén Tournament DX",
+        "Pokkn Tournament DX",
+		"PokkÃ©n Tournament DX",
+		"PokkÃn Tournament DX"
+	],
+	"Persona 3": [
+		"P3",
+		"Persona 3 Portable",
+		"P3P",
+		"Persona 3 Reload",
+		"P3R",
+		"Persona 3 FES",
+		"P3FES"
+	],
+	"Persona 4": [
+		"Persona 4 Golden",
+		"P4",
+		"P4G"
+	],
+	"Persona 5": [
+		"Persona 5 Royal",
+		"P5",
+		"P5R"
+	],
+	"Project Zero": [
+		"Fatal Frame"
+	],
+	"Pokémon RBY": [
+		"Gen1Recomp",
+		"Gen 1 Recomp",
+		"RBY",
+		"RGBY",
+		"Red",
+		"Red Version",
+		"Rojo",
+		"Edición Roja",
+		"Edicion Roja",
+		"Edicin Roja",
+		"Blue",
+		"Blue Version",
+		"Azul",
+		"Edición Azul",
+		"Edicion Azul",
+		"Edicin Azul",
+		"Yellow",
+		"Yellow Version",
+		"Yellow Version - Special Pikachu Edition",
+		"Edición Amarilla",
+		"Edicion Amarilla",
+		"Edicin Amarilla"
+	]
 }
