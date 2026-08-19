@@ -7254,6 +7254,16 @@
             "regex": "(?:pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+guardian[^a-z0-9]+signs$|pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)$|pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+guardian[^a-z0-9]+signs[^a-z0-9]+flapperultra$|pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+guardian[^a-z0-9]+signs$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+guardian[^a-z0-9]+signs[^a-z0-9]+flapperultra$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Prism Light The Way",
+            "file": "jingles/nds/SJH/Prism Light The Way (V1) (SJH).ogg",
+            "regex": "(?:prism[^a-z0-9]+light[^a-z0-9]+the[^a-z0-9]+way$|prism[^a-z0-9]+light[^a-z0-9]+the[^a-z0-9]+way[^a-z0-9]+v1$|prism[^a-z0-9]+light[^a-z0-9]+the[^a-z0-9]+way[^a-z0-9]+sjh$|nds[^a-z0-9]+prism[^a-z0-9]+light[^a-z0-9]+the[^a-z0-9]+way$|nds[^a-z0-9]+prism[^a-z0-9]+light[^a-z0-9]+the[^a-z0-9]+way[^a-z0-9]+v1$|nds[^a-z0-9]+prism[^a-z0-9]+light[^a-z0-9]+the[^a-z0-9]+way[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Prism Light The Way",
+            "file": "jingles/nds/SJH/Prism Light The Way (V2) (SJH).ogg",
+            "regex": "(?:prism[^a-z0-9]+light[^a-z0-9]+the[^a-z0-9]+way$|prism[^a-z0-9]+light[^a-z0-9]+the[^a-z0-9]+way[^a-z0-9]+v2$|prism[^a-z0-9]+light[^a-z0-9]+the[^a-z0-9]+way[^a-z0-9]+sjh$|nds[^a-z0-9]+prism[^a-z0-9]+light[^a-z0-9]+the[^a-z0-9]+way$|nds[^a-z0-9]+prism[^a-z0-9]+light[^a-z0-9]+the[^a-z0-9]+way[^a-z0-9]+v2$|nds[^a-z0-9]+prism[^a-z0-9]+light[^a-z0-9]+the[^a-z0-9]+way[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Professor Layton and Pandora's Box",
             "file": "jingles/nds/CirnoWaifu/Professor Layton and Pandora's Box (CirnoWaifu).ogg",
             "regex": "(?:professor[^a-z0-9]+layton[^a-z0-9]+and[^a-z0-9]+pandora[^a-z0-9]+s[^a-z0-9]+box$|professor[^a-z0-9]+layton[^a-z0-9]+and[^a-z0-9]+pandora[^a-z0-9]+s[^a-z0-9]+box[^a-z0-9]+cirnowaifu$|nds[^a-z0-9]+professor[^a-z0-9]+layton[^a-z0-9]+and[^a-z0-9]+pandora[^a-z0-9]+s[^a-z0-9]+box$|nds[^a-z0-9]+professor[^a-z0-9]+layton[^a-z0-9]+and[^a-z0-9]+pandora[^a-z0-9]+s[^a-z0-9]+box[^a-z0-9]+cirnowaifu$)"
