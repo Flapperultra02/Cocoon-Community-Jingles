@@ -15439,6 +15439,16 @@
             "regex": "(?:animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons$|animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons[^a-z0-9]+flapperultra$|switch[^a-z0-9]+animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons$|switch[^a-z0-9]+animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Animal Crossing New Horizons",
+            "file": "jingles/switch/SJH/Animal Crossing New Horizons (V1) (SJH).ogg",
+            "regex": "(?:animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons$|animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons[^a-z0-9]+v1$|animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons[^a-z0-9]+sjh$|switch[^a-z0-9]+animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons$|switch[^a-z0-9]+animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons[^a-z0-9]+v1$|switch[^a-z0-9]+animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Animal Crossing New Horizons",
+            "file": "jingles/switch/SJH/Animal Crossing New Horizons (V2) (SJH).ogg",
+            "regex": "(?:animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons$|animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons[^a-z0-9]+v2$|animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons[^a-z0-9]+sjh$|switch[^a-z0-9]+animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons$|switch[^a-z0-9]+animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons[^a-z0-9]+v2$|switch[^a-z0-9]+animal[^a-z0-9]+crossing[^a-z0-9]+new[^a-z0-9]+horizons[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Astral Chain",
             "file": "jingles/switch/CirnoWaifu/Astral Chain (CirnoWaifu).ogg",
             "regex": "(?:astral[^a-z0-9]+chain$|astral[^a-z0-9]+chain[^a-z0-9]+cirnowaifu$|switch[^a-z0-9]+astral[^a-z0-9]+chain$|switch[^a-z0-9]+astral[^a-z0-9]+chain[^a-z0-9]+cirnowaifu$)"
