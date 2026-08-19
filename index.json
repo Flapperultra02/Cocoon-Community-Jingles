@@ -16999,6 +16999,16 @@
             "regex": "(?:triangle[^a-z0-9]+strategy$|triangle[^a-z0-9]+strategy[^a-z0-9]+flapperultra$|switch[^a-z0-9]+triangle[^a-z0-9]+strategy$|switch[^a-z0-9]+triangle[^a-z0-9]+strategy[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Trivial Pursuit LIVE 2",
+            "file": "jingles/switch/SJH/Trivial Pursuit LIVE 2 (V1) (SJH).ogg",
+            "regex": "(?:trivial[^a-z0-9]+pursuit[^a-z0-9]+live[^a-z0-9]+(?:2|ii)$|trivial[^a-z0-9]+pursuit[^a-z0-9]+live[^a-z0-9]+(?:2|ii)[^a-z0-9]+v1$|trivial[^a-z0-9]+pursuit[^a-z0-9]+live[^a-z0-9]+(?:2|ii)[^a-z0-9]+sjh$|switch[^a-z0-9]+trivial[^a-z0-9]+pursuit[^a-z0-9]+live[^a-z0-9]+(?:2|ii)$|switch[^a-z0-9]+trivial[^a-z0-9]+pursuit[^a-z0-9]+live[^a-z0-9]+(?:2|ii)[^a-z0-9]+v1$|switch[^a-z0-9]+trivial[^a-z0-9]+pursuit[^a-z0-9]+live[^a-z0-9]+(?:2|ii)[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Trivial Pursuit LIVE 2",
+            "file": "jingles/switch/SJH/Trivial Pursuit LIVE 2 (V2) (SJH).ogg",
+            "regex": "(?:trivial[^a-z0-9]+pursuit[^a-z0-9]+live[^a-z0-9]+(?:2|ii)$|trivial[^a-z0-9]+pursuit[^a-z0-9]+live[^a-z0-9]+(?:2|ii)[^a-z0-9]+v2$|trivial[^a-z0-9]+pursuit[^a-z0-9]+live[^a-z0-9]+(?:2|ii)[^a-z0-9]+sjh$|switch[^a-z0-9]+trivial[^a-z0-9]+pursuit[^a-z0-9]+live[^a-z0-9]+(?:2|ii)$|switch[^a-z0-9]+trivial[^a-z0-9]+pursuit[^a-z0-9]+live[^a-z0-9]+(?:2|ii)[^a-z0-9]+v2$|switch[^a-z0-9]+trivial[^a-z0-9]+pursuit[^a-z0-9]+live[^a-z0-9]+(?:2|ii)[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "WarioWare - Get It Together",
             "file": "jingles/switch/CirnoWaifu/WarioWare - Get It Together (CirnoWaifu).ogg",
             "regex": "(?:warioware[^a-z0-9]+get[^a-z0-9]+it[^a-z0-9]+together$|warioware$|warioware[^a-z0-9]+get[^a-z0-9]+it[^a-z0-9]+together[^a-z0-9]+cirnowaifu$|warioware[^a-z0-9]+cirnowaifu$|switch[^a-z0-9]+warioware[^a-z0-9]+get[^a-z0-9]+it[^a-z0-9]+together$|switch[^a-z0-9]+warioware$|switch[^a-z0-9]+warioware[^a-z0-9]+get[^a-z0-9]+it[^a-z0-9]+together[^a-z0-9]+cirnowaifu$|switch[^a-z0-9]+warioware[^a-z0-9]+cirnowaifu$)"
