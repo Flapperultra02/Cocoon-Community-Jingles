@@ -4067,6 +4067,11 @@
             "regex": "(?:sonic[^a-z0-9]+pinball[^a-z0-9]+party$|sonic[^a-z0-9]+pinball[^a-z0-9]+party[^a-z0-9]+bennythefirsthunter$|gba[^a-z0-9]+sonic[^a-z0-9]+pinball[^a-z0-9]+party$|gba[^a-z0-9]+sonic[^a-z0-9]+pinball[^a-z0-9]+party[^a-z0-9]+bennythefirsthunter$)"
         },
         {
+            "game": "SpongeBob Battle For Bikini Bottom",
+            "file": "jingles/gba/SJH/SpongeBob Battle For Bikini Bottom (V1) (SJH).ogg",
+            "regex": "(?:spongebob[^a-z0-9]+battle[^a-z0-9]+for[^a-z0-9]+bikini[^a-z0-9]+bottom$|spongebob[^a-z0-9]+battle[^a-z0-9]+for[^a-z0-9]+bikini[^a-z0-9]+bottom[^a-z0-9]+v1$|spongebob[^a-z0-9]+battle[^a-z0-9]+for[^a-z0-9]+bikini[^a-z0-9]+bottom[^a-z0-9]+sjh$|gba[^a-z0-9]+spongebob[^a-z0-9]+battle[^a-z0-9]+for[^a-z0-9]+bikini[^a-z0-9]+bottom$|gba[^a-z0-9]+spongebob[^a-z0-9]+battle[^a-z0-9]+for[^a-z0-9]+bikini[^a-z0-9]+bottom[^a-z0-9]+v1$|gba[^a-z0-9]+spongebob[^a-z0-9]+battle[^a-z0-9]+for[^a-z0-9]+bikini[^a-z0-9]+bottom[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Spyro - Attack of the Rhynocs",
             "file": "jingles/gba/CirnoWaifu/Spyro - Attack of the Rhynocs (CirnoWaifu).ogg",
             "regex": "(?:spyro[^a-z0-9]+attack[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+rhynocs$|spyro$|spyro[^a-z0-9]+attack[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+rhynocs[^a-z0-9]+cirnowaifu$|spyro[^a-z0-9]+cirnowaifu$|gba[^a-z0-9]+spyro[^a-z0-9]+attack[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+rhynocs$|gba[^a-z0-9]+spyro$|gba[^a-z0-9]+spyro[^a-z0-9]+attack[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+rhynocs[^a-z0-9]+cirnowaifu$|gba[^a-z0-9]+spyro[^a-z0-9]+cirnowaifu$)"
