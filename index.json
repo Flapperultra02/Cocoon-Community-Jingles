@@ -3497,6 +3497,11 @@
             "regex": "(?:gunstar[^a-z0-9]+super[^a-z0-9]+heroes$|gunstar[^a-z0-9]+super[^a-z0-9]+heroes[^a-z0-9]+flapperultra$|gba[^a-z0-9]+gunstar[^a-z0-9]+super[^a-z0-9]+heroes$|gba[^a-z0-9]+gunstar[^a-z0-9]+super[^a-z0-9]+heroes[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Hagane no Renkinjutsushi - Meisou no Rondo",
+            "file": "jingles/gba/somecallmesean/Hagane no Renkinjutsushi - Meisou no Rondo (somecallmesean).ogg",
+            "regex": "(?:hagane[^a-z0-9]+no[^a-z0-9]+renkinjutsushi[^a-z0-9]+meisou[^a-z0-9]+no[^a-z0-9]+rondo$|hagane[^a-z0-9]+no[^a-z0-9]+renkinjutsushi$|hagane[^a-z0-9]+no[^a-z0-9]+renkinjutsushi[^a-z0-9]+meisou[^a-z0-9]+no[^a-z0-9]+rondo[^a-z0-9]+somecallmesean$|hagane[^a-z0-9]+no[^a-z0-9]+renkinjutsushi[^a-z0-9]+somecallmesean$|gba[^a-z0-9]+hagane[^a-z0-9]+no[^a-z0-9]+renkinjutsushi[^a-z0-9]+meisou[^a-z0-9]+no[^a-z0-9]+rondo$|gba[^a-z0-9]+hagane[^a-z0-9]+no[^a-z0-9]+renkinjutsushi$|gba[^a-z0-9]+hagane[^a-z0-9]+no[^a-z0-9]+renkinjutsushi[^a-z0-9]+meisou[^a-z0-9]+no[^a-z0-9]+rondo[^a-z0-9]+somecallmesean$|gba[^a-z0-9]+hagane[^a-z0-9]+no[^a-z0-9]+renkinjutsushi[^a-z0-9]+somecallmesean$)"
+        },
+        {
             "game": "Hamtaro - Ham Ham Heartbreak",
             "file": "jingles/gba/flapperultra/Hamtaro - Ham Ham Heartbreak (flapperultra).ogg",
             "regex": "(?:hamtaro[^a-z0-9]+ham[^a-z0-9]+ham[^a-z0-9]+heartbreak$|hamtaro$|hamtaro[^a-z0-9]+ham[^a-z0-9]+ham[^a-z0-9]+heartbreak[^a-z0-9]+flapperultra$|hamtaro[^a-z0-9]+flapperultra$|gba[^a-z0-9]+hamtaro[^a-z0-9]+ham[^a-z0-9]+ham[^a-z0-9]+heartbreak$|gba[^a-z0-9]+hamtaro$|gba[^a-z0-9]+hamtaro[^a-z0-9]+ham[^a-z0-9]+ham[^a-z0-9]+heartbreak[^a-z0-9]+flapperultra$|gba[^a-z0-9]+hamtaro[^a-z0-9]+flapperultra$)"
