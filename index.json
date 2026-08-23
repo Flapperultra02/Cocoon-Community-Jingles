@@ -10635,6 +10635,11 @@
         },
         {
             "game": "Peggle Deluxe",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Deluxe (SFX7) (SJH).ogg",
+            "regex": "(?:peggle[^a-z0-9]+deluxe$|peggle[^a-z0-9]+deluxe[^a-z0-9]+sfx7$|peggle[^a-z0-9]+deluxe[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+deluxe$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+deluxe[^a-z0-9]+sfx7$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+deluxe[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Peggle Deluxe",
             "file": "jingles/pc steam & multiplat/SJH/Peggle Deluxe (V1) (SJH).mp3",
             "regex": "(?:peggle[^a-z0-9]+deluxe$|peggle[^a-z0-9]+deluxe[^a-z0-9]+v1$|peggle[^a-z0-9]+deluxe[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+deluxe$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+deluxe[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+deluxe[^a-z0-9]+sjh$)"
         },
@@ -10642,6 +10647,41 @@
             "game": "Peggle Deluxe",
             "file": "jingles/pc steam & multiplat/SJH/Peggle Deluxe (V2) (SJH).mp3",
             "regex": "(?:peggle[^a-z0-9]+deluxe$|peggle[^a-z0-9]+deluxe[^a-z0-9]+v2$|peggle[^a-z0-9]+deluxe[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+deluxe$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+deluxe[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+deluxe[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Peggle Nights",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Nights (SFX1) (SJH).ogg",
+            "regex": "(?:peggle[^a-z0-9]+nights$|peggle[^a-z0-9]+nights[^a-z0-9]+sfx1$|peggle[^a-z0-9]+nights[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sfx1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Peggle Nights",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Nights (SFX2) (SJH).ogg",
+            "regex": "(?:peggle[^a-z0-9]+nights$|peggle[^a-z0-9]+nights[^a-z0-9]+sfx2$|peggle[^a-z0-9]+nights[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sfx2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Peggle Nights",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Nights (SFX3) (SJH).ogg",
+            "regex": "(?:peggle[^a-z0-9]+nights$|peggle[^a-z0-9]+nights[^a-z0-9]+sfx3$|peggle[^a-z0-9]+nights[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sfx3$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Peggle Nights",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Nights (SFX4) (SJH).ogg",
+            "regex": "(?:peggle[^a-z0-9]+nights$|peggle[^a-z0-9]+nights[^a-z0-9]+sfx4$|peggle[^a-z0-9]+nights[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sfx4$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Peggle Nights",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Nights (SFX5) (SJH).ogg",
+            "regex": "(?:peggle[^a-z0-9]+nights$|peggle[^a-z0-9]+nights[^a-z0-9]+sfx5$|peggle[^a-z0-9]+nights[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sfx5$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Peggle Nights",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Nights (SFX6) (SJH).ogg",
+            "regex": "(?:peggle[^a-z0-9]+nights$|peggle[^a-z0-9]+nights[^a-z0-9]+sfx6$|peggle[^a-z0-9]+nights[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sfx6$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Peggle Nights",
+            "file": "jingles/pc steam & multiplat/SJH/Peggle Nights (SFX7) (SJH).ogg",
+            "regex": "(?:peggle[^a-z0-9]+nights$|peggle[^a-z0-9]+nights[^a-z0-9]+sfx7$|peggle[^a-z0-9]+nights[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sfx7$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+peggle[^a-z0-9]+nights[^a-z0-9]+sjh$)"
         },
         {
             "game": "Peggle Nights",
