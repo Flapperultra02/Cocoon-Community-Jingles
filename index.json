@@ -10044,6 +10044,21 @@
             "regex": "(?:just[^a-z0-9]+dance$|just[^a-z0-9]+dance[^a-z0-9]+felipne87r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+dance$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+dance[^a-z0-9]+felipne87r$)"
         },
         {
+            "game": "Just Shapes And Beats",
+            "file": "jingles/pc steam & multiplat/SJH/Just Shapes And Beats (V1) (SJH).ogg",
+            "regex": "(?:just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats$|just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+v1$|just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Just Shapes And Beats",
+            "file": "jingles/pc steam & multiplat/SJH/Just Shapes And Beats (V2) (SJH).ogg",
+            "regex": "(?:just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats$|just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+v2$|just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Just Shapes And Beats",
+            "file": "jingles/pc steam & multiplat/SJH/Just Shapes And Beats (V3) (SJH).ogg",
+            "regex": "(?:just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats$|just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+v3$|just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+v3$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Juufuutei Raden's Guide for Pixel Museum",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Juufuutei Raden's Guide for Pixel Museum (CirnoWaifu).ogg",
             "regex": "(?:juufuutei[^a-z0-9]+raden[^a-z0-9]+s[^a-z0-9]+guide[^a-z0-9]+for[^a-z0-9]+pixel[^a-z0-9]+museum$|juufuutei[^a-z0-9]+raden[^a-z0-9]+s[^a-z0-9]+guide[^a-z0-9]+for[^a-z0-9]+pixel[^a-z0-9]+museum[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+juufuutei[^a-z0-9]+raden[^a-z0-9]+s[^a-z0-9]+guide[^a-z0-9]+for[^a-z0-9]+pixel[^a-z0-9]+museum$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+juufuutei[^a-z0-9]+raden[^a-z0-9]+s[^a-z0-9]+guide[^a-z0-9]+for[^a-z0-9]+pixel[^a-z0-9]+museum[^a-z0-9]+cirnowaifu$)"
