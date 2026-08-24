@@ -4187,6 +4187,11 @@
             "regex": "(?:tetris[^a-z0-9]+worlds$|tetris[^a-z0-9]+worlds[^a-z0-9]+v4$|tetris[^a-z0-9]+worlds[^a-z0-9]+sjh$|gba[^a-z0-9]+tetris[^a-z0-9]+worlds$|gba[^a-z0-9]+tetris[^a-z0-9]+worlds[^a-z0-9]+v4$|gba[^a-z0-9]+tetris[^a-z0-9]+worlds[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Tetris Worlds",
+            "file": "jingles/gba/SJH/Tetris Worlds (V5) (SJH).ogg",
+            "regex": "(?:tetris[^a-z0-9]+worlds$|tetris[^a-z0-9]+worlds[^a-z0-9]+v5$|tetris[^a-z0-9]+worlds[^a-z0-9]+sjh$|gba[^a-z0-9]+tetris[^a-z0-9]+worlds$|gba[^a-z0-9]+tetris[^a-z0-9]+worlds[^a-z0-9]+v5$|gba[^a-z0-9]+tetris[^a-z0-9]+worlds[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "The Invincible Iron Man",
             "file": "jingles/gba/flapperultra/The Invincible Iron Man (flapperultra).ogg",
             "regex": "(?:the[^a-z0-9]+invincible[^a-z0-9]+iron[^a-z0-9]+man$|the[^a-z0-9]+invincible[^a-z0-9]+iron[^a-z0-9]+man[^a-z0-9]+flapperultra$|gba[^a-z0-9]+the[^a-z0-9]+invincible[^a-z0-9]+iron[^a-z0-9]+man$|gba[^a-z0-9]+the[^a-z0-9]+invincible[^a-z0-9]+iron[^a-z0-9]+man[^a-z0-9]+flapperultra$)"
