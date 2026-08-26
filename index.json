@@ -9629,6 +9629,21 @@
             "regex": "(?:fowl[^a-z0-9]+damage$|fowl[^a-z0-9]+damage[^a-z0-9]+rayanair$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fowl[^a-z0-9]+damage$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fowl[^a-z0-9]+damage[^a-z0-9]+rayanair$)"
         },
         {
+            "game": "Fractal Block World",
+            "file": "jingles/pc steam & multiplat/SJH/Fractal Block World (V1) (SJH).ogg",
+            "regex": "(?:fractal[^a-z0-9]+block[^a-z0-9]+world$|fractal[^a-z0-9]+block[^a-z0-9]+world[^a-z0-9]+v1$|fractal[^a-z0-9]+block[^a-z0-9]+world[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fractal[^a-z0-9]+block[^a-z0-9]+world$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fractal[^a-z0-9]+block[^a-z0-9]+world[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fractal[^a-z0-9]+block[^a-z0-9]+world[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Fractal Block World",
+            "file": "jingles/pc steam & multiplat/SJH/Fractal Block World (V2) (SJH).ogg",
+            "regex": "(?:fractal[^a-z0-9]+block[^a-z0-9]+world$|fractal[^a-z0-9]+block[^a-z0-9]+world[^a-z0-9]+v2$|fractal[^a-z0-9]+block[^a-z0-9]+world[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fractal[^a-z0-9]+block[^a-z0-9]+world$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fractal[^a-z0-9]+block[^a-z0-9]+world[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fractal[^a-z0-9]+block[^a-z0-9]+world[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Fractal Block World",
+            "file": "jingles/pc steam & multiplat/SJH/Fractal Block World (V3) (SJH).ogg",
+            "regex": "(?:fractal[^a-z0-9]+block[^a-z0-9]+world$|fractal[^a-z0-9]+block[^a-z0-9]+world[^a-z0-9]+v3$|fractal[^a-z0-9]+block[^a-z0-9]+world[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fractal[^a-z0-9]+block[^a-z0-9]+world$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fractal[^a-z0-9]+block[^a-z0-9]+world[^a-z0-9]+v3$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fractal[^a-z0-9]+block[^a-z0-9]+world[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Freedom Fighters",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Freedom Fighters (CirnoWaifu).ogg",
             "regex": "(?:freedom[^a-z0-9]+fighters$|freedom[^a-z0-9]+fighters[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+freedom[^a-z0-9]+fighters$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+freedom[^a-z0-9]+fighters[^a-z0-9]+cirnowaifu$)"
@@ -11372,6 +11387,26 @@
             "game": "Stardew Valley",
             "file": "jingles/pc steam & multiplat/SJH/Stardew Valley (V9) (SJH).mp3",
             "regex": "(?:stardew[^a-z0-9]+valley$|stardew[^a-z0-9]+valley[^a-z0-9]+v9$|stardew[^a-z0-9]+valley[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+stardew[^a-z0-9]+valley$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+stardew[^a-z0-9]+valley[^a-z0-9]+v9$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+stardew[^a-z0-9]+valley[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Starwdew Valley",
+            "file": "jingles/pc steam & multiplat/SJH/Starwdew Valley (V1) (SJH).ogg",
+            "regex": "(?:starwdew[^a-z0-9]+valley$|starwdew[^a-z0-9]+valley[^a-z0-9]+v1$|starwdew[^a-z0-9]+valley[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+starwdew[^a-z0-9]+valley$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+starwdew[^a-z0-9]+valley[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+starwdew[^a-z0-9]+valley[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Starwdew Valley",
+            "file": "jingles/pc steam & multiplat/SJH/Starwdew Valley (V2) (SJH).ogg",
+            "regex": "(?:starwdew[^a-z0-9]+valley$|starwdew[^a-z0-9]+valley[^a-z0-9]+v2$|starwdew[^a-z0-9]+valley[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+starwdew[^a-z0-9]+valley$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+starwdew[^a-z0-9]+valley[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+starwdew[^a-z0-9]+valley[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Starwdew Valley",
+            "file": "jingles/pc steam & multiplat/SJH/Starwdew Valley (V3) (SJH).ogg",
+            "regex": "(?:starwdew[^a-z0-9]+valley$|starwdew[^a-z0-9]+valley[^a-z0-9]+v3$|starwdew[^a-z0-9]+valley[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+starwdew[^a-z0-9]+valley$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+starwdew[^a-z0-9]+valley[^a-z0-9]+v3$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+starwdew[^a-z0-9]+valley[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Starwdew Valley",
+            "file": "jingles/pc steam & multiplat/SJH/Starwdew Valley (V4) (SJH).ogg",
+            "regex": "(?:starwdew[^a-z0-9]+valley$|starwdew[^a-z0-9]+valley[^a-z0-9]+v4$|starwdew[^a-z0-9]+valley[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+starwdew[^a-z0-9]+valley$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+starwdew[^a-z0-9]+valley[^a-z0-9]+v4$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+starwdew[^a-z0-9]+valley[^a-z0-9]+sjh$)"
         },
         {
             "game": "Steam",
