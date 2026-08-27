@@ -1821,6 +1821,16 @@
             "regex": "(?:blue[^a-z0-9]+archive$|blue[^a-z0-9]+archive[^a-z0-9]+cirnowaifu$|android[^a-z0-9]+blue[^a-z0-9]+archive$|android[^a-z0-9]+blue[^a-z0-9]+archive[^a-z0-9]+cirnowaifu$)"
         },
         {
+            "game": "Clash of Clans",
+            "file": "jingles/android/SJH/Clash of Clans (V1) (SJH).ogg",
+            "regex": "(?:clash[^a-z0-9]+of[^a-z0-9]+clans$|clash[^a-z0-9]+of[^a-z0-9]+clans[^a-z0-9]+v1$|clash[^a-z0-9]+of[^a-z0-9]+clans[^a-z0-9]+sjh$|android[^a-z0-9]+clash[^a-z0-9]+of[^a-z0-9]+clans$|android[^a-z0-9]+clash[^a-z0-9]+of[^a-z0-9]+clans[^a-z0-9]+v1$|android[^a-z0-9]+clash[^a-z0-9]+of[^a-z0-9]+clans[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Clash of Clans",
+            "file": "jingles/android/SJH/Clash of Clans (V2) (SJH).ogg",
+            "regex": "(?:clash[^a-z0-9]+of[^a-z0-9]+clans$|clash[^a-z0-9]+of[^a-z0-9]+clans[^a-z0-9]+v2$|clash[^a-z0-9]+of[^a-z0-9]+clans[^a-z0-9]+sjh$|android[^a-z0-9]+clash[^a-z0-9]+of[^a-z0-9]+clans$|android[^a-z0-9]+clash[^a-z0-9]+of[^a-z0-9]+clans[^a-z0-9]+v2$|android[^a-z0-9]+clash[^a-z0-9]+of[^a-z0-9]+clans[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "CookieRun OvenSmash",
             "file": "jingles/android/EvilMain/CookieRun OvenSmash (EvilMain).ogg",
             "regex": "(?:cookierun[^a-z0-9]+ovensmash$|cookierun[^a-z0-9]+ovensmash[^a-z0-9]+evilmain$|android[^a-z0-9]+cookierun[^a-z0-9]+ovensmash$|android[^a-z0-9]+cookierun[^a-z0-9]+ovensmash[^a-z0-9]+evilmain$)"
