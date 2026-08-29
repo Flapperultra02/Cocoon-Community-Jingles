@@ -11069,6 +11069,16 @@
             "regex": "(?:rusty[^a-z0-9]+lakes[^a-z0-9]+roots$|rusty[^a-z0-9]+lakes[^a-z0-9]+roots[^a-z0-9]+missing$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+rusty[^a-z0-9]+lakes[^a-z0-9]+roots$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+rusty[^a-z0-9]+lakes[^a-z0-9]+roots[^a-z0-9]+missing$)"
         },
         {
+            "game": "Rusty's Retirement",
+            "file": "jingles/pc steam & multiplat/SJH/Rusty's Retirement (V1) (SJH).ogg",
+            "regex": "(?:rusty[^a-z0-9]+s[^a-z0-9]+retirement$|rusty[^a-z0-9]+s[^a-z0-9]+retirement[^a-z0-9]+v1$|rusty[^a-z0-9]+s[^a-z0-9]+retirement[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+rusty[^a-z0-9]+s[^a-z0-9]+retirement$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+rusty[^a-z0-9]+s[^a-z0-9]+retirement[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+rusty[^a-z0-9]+s[^a-z0-9]+retirement[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Rusty's Retirement",
+            "file": "jingles/pc steam & multiplat/SJH/Rusty's Retirement (V2) (SJH).ogg",
+            "regex": "(?:rusty[^a-z0-9]+s[^a-z0-9]+retirement$|rusty[^a-z0-9]+s[^a-z0-9]+retirement[^a-z0-9]+v2$|rusty[^a-z0-9]+s[^a-z0-9]+retirement[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+rusty[^a-z0-9]+s[^a-z0-9]+retirement$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+rusty[^a-z0-9]+s[^a-z0-9]+retirement[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+rusty[^a-z0-9]+s[^a-z0-9]+retirement[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Scarlet Hollow",
             "file": "jingles/pc steam & multiplat/Natalie/Scarlet Hollow (Natalie).ogg",
             "regex": "(?:scarlet[^a-z0-9]+hollow$|scarlet[^a-z0-9]+hollow[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+scarlet[^a-z0-9]+hollow$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+scarlet[^a-z0-9]+hollow[^a-z0-9]+natalie$)"
