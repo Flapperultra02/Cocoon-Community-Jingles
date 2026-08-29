@@ -7154,6 +7154,16 @@
             "regex": "(?:peggle[^a-z0-9]+dual[^a-z0-9]+shot$|peggle[^a-z0-9]+dual[^a-z0-9]+shot[^a-z0-9]+v2$|peggle[^a-z0-9]+dual[^a-z0-9]+shot[^a-z0-9]+sjh$|nds[^a-z0-9]+peggle[^a-z0-9]+dual[^a-z0-9]+shot$|nds[^a-z0-9]+peggle[^a-z0-9]+dual[^a-z0-9]+shot[^a-z0-9]+v2$|nds[^a-z0-9]+peggle[^a-z0-9]+dual[^a-z0-9]+shot[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Peggle Dual Shot",
+            "file": "jingles/nds/SJH/Peggle Dual Shot (V3) (SJH).ogg",
+            "regex": "(?:peggle[^a-z0-9]+dual[^a-z0-9]+shot$|peggle[^a-z0-9]+dual[^a-z0-9]+shot[^a-z0-9]+v3$|peggle[^a-z0-9]+dual[^a-z0-9]+shot[^a-z0-9]+sjh$|nds[^a-z0-9]+peggle[^a-z0-9]+dual[^a-z0-9]+shot$|nds[^a-z0-9]+peggle[^a-z0-9]+dual[^a-z0-9]+shot[^a-z0-9]+v3$|nds[^a-z0-9]+peggle[^a-z0-9]+dual[^a-z0-9]+shot[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Peggle Dual Shot",
+            "file": "jingles/nds/SJH/Peggle Dual Shot (V4) (SJH).ogg",
+            "regex": "(?:peggle[^a-z0-9]+dual[^a-z0-9]+shot$|peggle[^a-z0-9]+dual[^a-z0-9]+shot[^a-z0-9]+v4$|peggle[^a-z0-9]+dual[^a-z0-9]+shot[^a-z0-9]+sjh$|nds[^a-z0-9]+peggle[^a-z0-9]+dual[^a-z0-9]+shot$|nds[^a-z0-9]+peggle[^a-z0-9]+dual[^a-z0-9]+shot[^a-z0-9]+v4$|nds[^a-z0-9]+peggle[^a-z0-9]+dual[^a-z0-9]+shot[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Phantasy Star Zero",
             "file": "jingles/nds/Jalmoc/Phantasy Star Zero(Jalmoc).ogg",
             "regex": "(?:phantasy[^a-z0-9]+star[^a-z0-9]+zero$|phantasy[^a-z0-9]+star[^a-z0-9]+zero[^a-z0-9]+jalmoc$|nds[^a-z0-9]+phantasy[^a-z0-9]+star[^a-z0-9]+zero$|nds[^a-z0-9]+phantasy[^a-z0-9]+star[^a-z0-9]+zero[^a-z0-9]+jalmoc$)"
