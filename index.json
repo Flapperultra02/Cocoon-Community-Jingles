@@ -17054,6 +17054,11 @@
             "regex": "(?:super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+banana[^a-z0-9]+mania$|super[^a-z0-9]+monkey[^a-z0-9]+ball$|super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+banana[^a-z0-9]+mania[^a-z0-9]+v5$|super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+v5$|super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+banana[^a-z0-9]+mania[^a-z0-9]+sjh$|super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+sjh$|switch[^a-z0-9]+super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+banana[^a-z0-9]+mania$|switch[^a-z0-9]+super[^a-z0-9]+monkey[^a-z0-9]+ball$|switch[^a-z0-9]+super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+banana[^a-z0-9]+mania[^a-z0-9]+v5$|switch[^a-z0-9]+super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+v5$|switch[^a-z0-9]+super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+banana[^a-z0-9]+mania[^a-z0-9]+sjh$|switch[^a-z0-9]+super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Super Monkey Ball Banana Blitz HD",
+            "file": "jingles/switch/SJH/Super Monkey Ball Banana Blitz HD (V4) (SJH).ogg",
+            "regex": "(?:super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+banana[^a-z0-9]+blitz[^a-z0-9]+hd$|super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+banana[^a-z0-9]+blitz[^a-z0-9]+hd[^a-z0-9]+v4$|super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+banana[^a-z0-9]+blitz[^a-z0-9]+hd[^a-z0-9]+sjh$|switch[^a-z0-9]+super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+banana[^a-z0-9]+blitz[^a-z0-9]+hd$|switch[^a-z0-9]+super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+banana[^a-z0-9]+blitz[^a-z0-9]+hd[^a-z0-9]+v4$|switch[^a-z0-9]+super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+banana[^a-z0-9]+blitz[^a-z0-9]+hd[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Super Smash Bros. Ultimate",
             "file": "jingles/switch/CirnoWaifu/Super Smash Bros. Ultimate (CirnoWaifu).ogg",
             "regex": "(?:super[^a-z0-9]+smash[^a-z0-9]+bros[^a-z0-9]+ultimate$|super[^a-z0-9]+smash[^a-z0-9]+bros[^a-z0-9]+ultimate[^a-z0-9]+cirnowaifu$|switch[^a-z0-9]+super[^a-z0-9]+smash[^a-z0-9]+bros[^a-z0-9]+ultimate$|switch[^a-z0-9]+super[^a-z0-9]+smash[^a-z0-9]+bros[^a-z0-9]+ultimate[^a-z0-9]+cirnowaifu$)"
