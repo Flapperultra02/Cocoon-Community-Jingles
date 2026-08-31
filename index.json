@@ -2423,6 +2423,26 @@
     ],
     "gamecube": [
         {
+            "game": "007 From Russia With Love",
+            "file": "jingles/gamecube/RayanAIR/007 From Russia With Love (RayanAIR).ogg",
+            "regex": "(?:007[^a-z0-9]+from[^a-z0-9]+russia[^a-z0-9]+with[^a-z0-9]+love$|007[^a-z0-9]+from[^a-z0-9]+russia[^a-z0-9]+with[^a-z0-9]+love[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+007[^a-z0-9]+from[^a-z0-9]+russia[^a-z0-9]+with[^a-z0-9]+love$|gamecube[^a-z0-9]+007[^a-z0-9]+from[^a-z0-9]+russia[^a-z0-9]+with[^a-z0-9]+love[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "007 Nightfire",
+            "file": "jingles/gamecube/RayanAIR/007 Nightfire (RayanAIR).ogg",
+            "regex": "(?:007[^a-z0-9]+nightfire$|007[^a-z0-9]+nightfire[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+007[^a-z0-9]+nightfire$|gamecube[^a-z0-9]+007[^a-z0-9]+nightfire[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "1080 Avalanche",
+            "file": "jingles/gamecube/RayanAIR/1080 Avalanche (RayanAIR).ogg",
+            "regex": "(?:1080[^a-z0-9]+avalanche$|1080[^a-z0-9]+avalanche[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+1080[^a-z0-9]+avalanche$|gamecube[^a-z0-9]+1080[^a-z0-9]+avalanche[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "18 Wheeler American Pro Trucker",
+            "file": "jingles/gamecube/RayanAIR/18 Wheeler American Pro Trucker (RayanAIR).ogg",
+            "regex": "(?:(?:18|xviii)[^a-z0-9]+wheeler[^a-z0-9]+american[^a-z0-9]+pro[^a-z0-9]+trucker$|(?:18|xviii)[^a-z0-9]+wheeler[^a-z0-9]+american[^a-z0-9]+pro[^a-z0-9]+trucker[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+(?:18|xviii)[^a-z0-9]+wheeler[^a-z0-9]+american[^a-z0-9]+pro[^a-z0-9]+trucker$|gamecube[^a-z0-9]+(?:18|xviii)[^a-z0-9]+wheeler[^a-z0-9]+american[^a-z0-9]+pro[^a-z0-9]+trucker[^a-z0-9]+rayanair$)"
+        },
+        {
             "game": "Alien Hominid",
             "file": "jingles/gamecube/CirnoWaifu/Alien Hominid (CirnoWaifu).ogg",
             "regex": "(?:alien[^a-z0-9]+hominid$|alien[^a-z0-9]+hominid[^a-z0-9]+cirnowaifu$|gamecube[^a-z0-9]+alien[^a-z0-9]+hominid$|gamecube[^a-z0-9]+alien[^a-z0-9]+hominid[^a-z0-9]+cirnowaifu$)"
@@ -2431,6 +2451,11 @@
             "game": "Alien Hominid",
             "file": "jingles/gamecube/flapperultra/Alien Hominid (flapperultra).ogg",
             "regex": "(?:alien[^a-z0-9]+hominid$|alien[^a-z0-9]+hominid[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+alien[^a-z0-9]+hominid$|gamecube[^a-z0-9]+alien[^a-z0-9]+hominid[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "All-Star Baseball 2002",
+            "file": "jingles/gamecube/RayanAIR/All-Star Baseball 2002 (RayanAIR).ogg",
+            "regex": "(?:all[^a-z0-9]+star[^a-z0-9]+baseball[^a-z0-9]+2002$|all[^a-z0-9]+star[^a-z0-9]+baseball[^a-z0-9]+2002[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+all[^a-z0-9]+star[^a-z0-9]+baseball[^a-z0-9]+2002$|gamecube[^a-z0-9]+all[^a-z0-9]+star[^a-z0-9]+baseball[^a-z0-9]+2002[^a-z0-9]+rayanair$)"
         },
         {
             "game": "Animal Crossing",
@@ -2443,9 +2468,44 @@
             "regex": "(?:animal[^a-z0-9]+crossing$|animal[^a-z0-9]+forest$|doubutsu[^a-z0-9]+no[^a-z0-9]+mori$|d[^a-z0-9]+butsu[^a-z0-9]+no[^a-z0-9]+mori$|animal[^a-z0-9]+crossing[^a-z0-9]+population[^a-z0-9]+growing$|animal[^a-z0-9]+crossing[^a-z0-9]+natalie$|animal[^a-z0-9]+forest[^a-z0-9]+natalie$|doubutsu[^a-z0-9]+no[^a-z0-9]+mori[^a-z0-9]+natalie$|d[^a-z0-9]+butsu[^a-z0-9]+no[^a-z0-9]+mori[^a-z0-9]+natalie$|animal[^a-z0-9]+crossing[^a-z0-9]+population[^a-z0-9]+growing[^a-z0-9]+natalie$|gamecube[^a-z0-9]+animal[^a-z0-9]+crossing$|gamecube[^a-z0-9]+animal[^a-z0-9]+forest$|gamecube[^a-z0-9]+doubutsu[^a-z0-9]+no[^a-z0-9]+mori$|gamecube[^a-z0-9]+d[^a-z0-9]+butsu[^a-z0-9]+no[^a-z0-9]+mori$|gamecube[^a-z0-9]+animal[^a-z0-9]+crossing[^a-z0-9]+population[^a-z0-9]+growing$|gamecube[^a-z0-9]+animal[^a-z0-9]+crossing[^a-z0-9]+natalie$|gamecube[^a-z0-9]+animal[^a-z0-9]+forest[^a-z0-9]+natalie$|gamecube[^a-z0-9]+doubutsu[^a-z0-9]+no[^a-z0-9]+mori[^a-z0-9]+natalie$|gamecube[^a-z0-9]+d[^a-z0-9]+butsu[^a-z0-9]+no[^a-z0-9]+mori[^a-z0-9]+natalie$|gamecube[^a-z0-9]+animal[^a-z0-9]+crossing[^a-z0-9]+population[^a-z0-9]+growing[^a-z0-9]+natalie$)"
         },
         {
+            "game": "ATV Quad Power Racing 2",
+            "file": "jingles/gamecube/RayanAIR/ATV Quad Power Racing 2 (RayanAIR).ogg",
+            "regex": "(?:atv[^a-z0-9]+quad[^a-z0-9]+power[^a-z0-9]+racing[^a-z0-9]+(?:2|ii)$|atv[^a-z0-9]+quad[^a-z0-9]+power[^a-z0-9]+racing[^a-z0-9]+(?:2|ii)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+atv[^a-z0-9]+quad[^a-z0-9]+power[^a-z0-9]+racing[^a-z0-9]+(?:2|ii)$|gamecube[^a-z0-9]+atv[^a-z0-9]+quad[^a-z0-9]+power[^a-z0-9]+racing[^a-z0-9]+(?:2|ii)[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Baldur's Gate - Dark Alliance",
+            "file": "jingles/gamecube/RayanAIR/Baldur's Gate - Dark Alliance (RayanAIR).ogg",
+            "regex": "(?:baldur[^a-z0-9]+s[^a-z0-9]+gate[^a-z0-9]+dark[^a-z0-9]+alliance$|baldur[^a-z0-9]+s[^a-z0-9]+gate$|baldur[^a-z0-9]+s[^a-z0-9]+gate[^a-z0-9]+dark[^a-z0-9]+alliance[^a-z0-9]+rayanair$|baldur[^a-z0-9]+s[^a-z0-9]+gate[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+baldur[^a-z0-9]+s[^a-z0-9]+gate[^a-z0-9]+dark[^a-z0-9]+alliance$|gamecube[^a-z0-9]+baldur[^a-z0-9]+s[^a-z0-9]+gate$|gamecube[^a-z0-9]+baldur[^a-z0-9]+s[^a-z0-9]+gate[^a-z0-9]+dark[^a-z0-9]+alliance[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+baldur[^a-z0-9]+s[^a-z0-9]+gate[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Baten Kaitos Eternal Wings and The Lost Ocean",
+            "file": "jingles/gamecube/RayanAIR/Baten Kaitos Eternal Wings and The Lost Ocean (RayanAIR).ogg",
+            "regex": "(?:baten[^a-z0-9]+kaitos[^a-z0-9]+eternal[^a-z0-9]+wings[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+lost[^a-z0-9]+ocean$|baten[^a-z0-9]+kaitos[^a-z0-9]+eternal[^a-z0-9]+wings[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+lost[^a-z0-9]+ocean[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+baten[^a-z0-9]+kaitos[^a-z0-9]+eternal[^a-z0-9]+wings[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+lost[^a-z0-9]+ocean$|gamecube[^a-z0-9]+baten[^a-z0-9]+kaitos[^a-z0-9]+eternal[^a-z0-9]+wings[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+lost[^a-z0-9]+ocean[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Baten Kaitos Origins",
+            "file": "jingles/gamecube/RayanAIR/Baten Kaitos Origins (RayanAIR).ogg",
+            "regex": "(?:baten[^a-z0-9]+kaitos[^a-z0-9]+origins$|baten[^a-z0-9]+kaitos[^a-z0-9]+origins[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+baten[^a-z0-9]+kaitos[^a-z0-9]+origins$|gamecube[^a-z0-9]+baten[^a-z0-9]+kaitos[^a-z0-9]+origins[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Battle Stadium D.O.N",
+            "file": "jingles/gamecube/RayanAIR/Battle Stadium D.O.N (RayanAIR).ogg",
+            "regex": "(?:battle[^a-z0-9]+stadium[^a-z0-9]+d[^a-z0-9]+o[^a-z0-9]+n$|battle[^a-z0-9]+stadium[^a-z0-9]+d[^a-z0-9]+o[^a-z0-9]+n[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+battle[^a-z0-9]+stadium[^a-z0-9]+d[^a-z0-9]+o[^a-z0-9]+n$|gamecube[^a-z0-9]+battle[^a-z0-9]+stadium[^a-z0-9]+d[^a-z0-9]+o[^a-z0-9]+n[^a-z0-9]+rayanair$)"
+        },
+        {
             "game": "Beyond Good and Evil",
             "file": "jingles/gamecube/flapperultra/Beyond Good and Evil  (flapperultra).ogg",
             "regex": "(?:beyond[^a-z0-9]+good[^a-z0-9]+and[^a-z0-9]+evil$|beyond[^a-z0-9]+good[^a-z0-9]+and[^a-z0-9]+evil[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+beyond[^a-z0-9]+good[^a-z0-9]+and[^a-z0-9]+evil$|gamecube[^a-z0-9]+beyond[^a-z0-9]+good[^a-z0-9]+and[^a-z0-9]+evil[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Big Air Freestyle",
+            "file": "jingles/gamecube/RayanAIR/Big Air Freestyle (RayanAIR).ogg",
+            "regex": "(?:big[^a-z0-9]+air[^a-z0-9]+freestyle$|big[^a-z0-9]+air[^a-z0-9]+freestyle[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+big[^a-z0-9]+air[^a-z0-9]+freestyle$|gamecube[^a-z0-9]+big[^a-z0-9]+air[^a-z0-9]+freestyle[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Big Mutha Truckers",
+            "file": "jingles/gamecube/RayanAIR/Big Mutha Truckers (RayanAIR).ogg",
+            "regex": "(?:big[^a-z0-9]+mutha[^a-z0-9]+truckers$|big[^a-z0-9]+mutha[^a-z0-9]+truckers[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+big[^a-z0-9]+mutha[^a-z0-9]+truckers$|gamecube[^a-z0-9]+big[^a-z0-9]+mutha[^a-z0-9]+truckers[^a-z0-9]+rayanair$)"
         },
         {
             "game": "Billy Hatcher and the Giant Egg",
@@ -2453,9 +2513,29 @@
             "regex": "(?:billy[^a-z0-9]+hatcher[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+giant[^a-z0-9]+egg$|billy[^a-z0-9]+hatcher[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+giant[^a-z0-9]+egg[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+billy[^a-z0-9]+hatcher[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+giant[^a-z0-9]+egg$|gamecube[^a-z0-9]+billy[^a-z0-9]+hatcher[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+giant[^a-z0-9]+egg[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Bomberman Generation",
+            "file": "jingles/gamecube/RayanAIR/Bomberman Generation (RayanAIR).ogg",
+            "regex": "(?:bomberman[^a-z0-9]+generation$|bomberman[^a-z0-9]+generation[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+bomberman[^a-z0-9]+generation$|gamecube[^a-z0-9]+bomberman[^a-z0-9]+generation[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Bust A Move 3000",
+            "file": "jingles/gamecube/RayanAIR/Bust A Move 3000 (RayanAIR).ogg",
+            "regex": "(?:bust[^a-z0-9]+a[^a-z0-9]+move[^a-z0-9]+3000$|bust[^a-z0-9]+a[^a-z0-9]+move[^a-z0-9]+3000[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+bust[^a-z0-9]+a[^a-z0-9]+move[^a-z0-9]+3000$|gamecube[^a-z0-9]+bust[^a-z0-9]+a[^a-z0-9]+move[^a-z0-9]+3000[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Cabela's Big Game Hunter",
+            "file": "jingles/gamecube/RayanAIR/Cabela's Big Game Hunter (RayanAIR).ogg",
+            "regex": "(?:cabela[^a-z0-9]+s[^a-z0-9]+big[^a-z0-9]+game[^a-z0-9]+hunter$|cabela[^a-z0-9]+s[^a-z0-9]+big[^a-z0-9]+game[^a-z0-9]+hunter[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+cabela[^a-z0-9]+s[^a-z0-9]+big[^a-z0-9]+game[^a-z0-9]+hunter$|gamecube[^a-z0-9]+cabela[^a-z0-9]+s[^a-z0-9]+big[^a-z0-9]+game[^a-z0-9]+hunter[^a-z0-9]+rayanair$)"
+        },
+        {
             "game": "Chibi Robo",
             "file": "jingles/gamecube/flapperultra/Chibi Robo (flapperultra).ogg",
             "regex": "(?:chibi[^a-z0-9]+robo$|mini[^a-z0-9]+robotto$|chibi[^a-z0-9]+robo[^a-z0-9]+flapperultra$|mini[^a-z0-9]+robotto[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+chibi[^a-z0-9]+robo$|gamecube[^a-z0-9]+mini[^a-z0-9]+robotto$|gamecube[^a-z0-9]+chibi[^a-z0-9]+robo[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+mini[^a-z0-9]+robotto[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Crash Tag Team Racing",
+            "file": "jingles/gamecube/RayanAIR/Crash Tag Team Racing (RayanAIR).ogg",
+            "regex": "(?:crash[^a-z0-9]+tag[^a-z0-9]+team[^a-z0-9]+racing$|crash[^a-z0-9]+tag[^a-z0-9]+team[^a-z0-9]+racing[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+crash[^a-z0-9]+tag[^a-z0-9]+team[^a-z0-9]+racing$|gamecube[^a-z0-9]+crash[^a-z0-9]+tag[^a-z0-9]+team[^a-z0-9]+racing[^a-z0-9]+rayanair$)"
         },
         {
             "game": "Crash Twinsanity",
@@ -2483,6 +2563,16 @@
             "regex": "(?:custom[^a-z0-9]+robo$|custom[^a-z0-9]+robo[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+custom[^a-z0-9]+robo$|gamecube[^a-z0-9]+custom[^a-z0-9]+robo[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Donkey Konga",
+            "file": "jingles/gamecube/RayanAIR/Donkey Konga (RayanAIR).ogg",
+            "regex": "(?:donkey[^a-z0-9]+konga$|donkey[^a-z0-9]+konga[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+donkey[^a-z0-9]+konga$|gamecube[^a-z0-9]+donkey[^a-z0-9]+konga[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Donkey Konga 2",
+            "file": "jingles/gamecube/RayanAIR/Donkey Konga 2 (RayanAIR).ogg",
+            "regex": "(?:donkey[^a-z0-9]+konga[^a-z0-9]+(?:2|ii)$|donkey[^a-z0-9]+konga[^a-z0-9]+(?:2|ii)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+donkey[^a-z0-9]+konga[^a-z0-9]+(?:2|ii)$|gamecube[^a-z0-9]+donkey[^a-z0-9]+konga[^a-z0-9]+(?:2|ii)[^a-z0-9]+rayanair$)"
+        },
+        {
             "game": "Doshin the Giant",
             "file": "jingles/gamecube/flapperultra/Doshin the Giant (flapperultra).ogg",
             "regex": "(?:doshin[^a-z0-9]+the[^a-z0-9]+giant$|doshin[^a-z0-9]+the[^a-z0-9]+giant[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+doshin[^a-z0-9]+the[^a-z0-9]+giant$|gamecube[^a-z0-9]+doshin[^a-z0-9]+the[^a-z0-9]+giant[^a-z0-9]+flapperultra$)"
@@ -2491,6 +2581,11 @@
             "game": "Dragon Drive - D-Masters Shot",
             "file": "jingles/gamecube/flapperultra/Dragon Drive - D-Masters Shot (flapperultra).ogg",
             "regex": "(?:dragon[^a-z0-9]+drive[^a-z0-9]+d[^a-z0-9]+masters[^a-z0-9]+shot$|dragon[^a-z0-9]+drive$|dragon[^a-z0-9]+drive[^a-z0-9]+d[^a-z0-9]+masters[^a-z0-9]+shot[^a-z0-9]+flapperultra$|dragon[^a-z0-9]+drive[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+dragon[^a-z0-9]+drive[^a-z0-9]+d[^a-z0-9]+masters[^a-z0-9]+shot$|gamecube[^a-z0-9]+dragon[^a-z0-9]+drive$|gamecube[^a-z0-9]+dragon[^a-z0-9]+drive[^a-z0-9]+d[^a-z0-9]+masters[^a-z0-9]+shot[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+dragon[^a-z0-9]+drive[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Dub Dash",
+            "file": "jingles/gamecube/RayanAIR/Dub Dash (RayanAIR).ogg",
+            "regex": "(?:dub[^a-z0-9]+dash$|dub[^a-z0-9]+dash[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+dub[^a-z0-9]+dash$|gamecube[^a-z0-9]+dub[^a-z0-9]+dash[^a-z0-9]+rayanair$)"
         },
         {
             "game": "Eternal Darkness",
@@ -2508,9 +2603,19 @@
             "regex": "(?:f[^a-z0-9]+zero[^a-z0-9]+gx$|f[^a-z0-9]+zero[^a-z0-9]+gx[^a-z0-9]+cirnowaifu$|gamecube[^a-z0-9]+f[^a-z0-9]+zero[^a-z0-9]+gx$|gamecube[^a-z0-9]+f[^a-z0-9]+zero[^a-z0-9]+gx[^a-z0-9]+cirnowaifu$)"
         },
         {
+            "game": "Final Fantasy - Crystal Chronicles",
+            "file": "jingles/gamecube/RayanAIR/Final Fantasy - Crystal Chronicles (RayanAIR).ogg",
+            "regex": "(?:final[^a-z0-9]+fantasy[^a-z0-9]+crystal[^a-z0-9]+chronicles$|final[^a-z0-9]+fantasy$|final[^a-z0-9]+fantasy[^a-z0-9]+crystal[^a-z0-9]+chronicles[^a-z0-9]+rayanair$|final[^a-z0-9]+fantasy[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+crystal[^a-z0-9]+chronicles$|gamecube[^a-z0-9]+final[^a-z0-9]+fantasy$|gamecube[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+crystal[^a-z0-9]+chronicles[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+rayanair$)"
+        },
+        {
             "game": "Fire Emblem - Path of Radiance",
             "file": "jingles/gamecube/flapperultra/Fire Emblem - Path of Radiance (flapperultra).ogg",
             "regex": "(?:fire[^a-z0-9]+emblem[^a-z0-9]+path[^a-z0-9]+of[^a-z0-9]+radiance$|fire[^a-z0-9]+emblem$|fire[^a-z0-9]+emblem[^a-z0-9]+path[^a-z0-9]+of[^a-z0-9]+radiance[^a-z0-9]+flapperultra$|fire[^a-z0-9]+emblem[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+fire[^a-z0-9]+emblem[^a-z0-9]+path[^a-z0-9]+of[^a-z0-9]+radiance$|gamecube[^a-z0-9]+fire[^a-z0-9]+emblem$|gamecube[^a-z0-9]+fire[^a-z0-9]+emblem[^a-z0-9]+path[^a-z0-9]+of[^a-z0-9]+radiance[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+fire[^a-z0-9]+emblem[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Freekstyle",
+            "file": "jingles/gamecube/RayanAIR/Freekstyle (RayanAIR).ogg",
+            "regex": "(?:freekstyle$|freekstyle[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+freekstyle$|gamecube[^a-z0-9]+freekstyle[^a-z0-9]+rayanair$)"
         },
         {
             "game": "FZero GX",
@@ -2531,6 +2636,11 @@
             "game": "Geist",
             "file": "jingles/gamecube/CirnoWaifu/Geist (CirnoWaifu).ogg",
             "regex": "(?:geist$|geist[^a-z0-9]+cirnowaifu$|gamecube[^a-z0-9]+geist$|gamecube[^a-z0-9]+geist[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Gotcha Force",
+            "file": "jingles/gamecube/RayanAIR/Gotcha Force (RayanAIR).ogg",
+            "regex": "(?:gotcha[^a-z0-9]+force$|gotcha[^a-z0-9]+force[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+gotcha[^a-z0-9]+force$|gamecube[^a-z0-9]+gotcha[^a-z0-9]+force[^a-z0-9]+rayanair$)"
         },
         {
             "game": "Harvest Moon - A Wonderful Life",
@@ -2583,6 +2693,11 @@
             "regex": "(?:luigis[^a-z0-9]+mansion$|luigis[^a-z0-9]+mansion[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+luigis[^a-z0-9]+mansion$|gamecube[^a-z0-9]+luigis[^a-z0-9]+mansion[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Mario Golf - Toadstool Tour",
+            "file": "jingles/gamecube/RayanAIR/Mario Golf - Toadstool Tour (RayanAIR).ogg",
+            "regex": "(?:mario[^a-z0-9]+golf[^a-z0-9]+toadstool[^a-z0-9]+tour$|mario[^a-z0-9]+golf$|mario[^a-z0-9]+golf[^a-z0-9]+toadstool[^a-z0-9]+tour[^a-z0-9]+rayanair$|mario[^a-z0-9]+golf[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+mario[^a-z0-9]+golf[^a-z0-9]+toadstool[^a-z0-9]+tour$|gamecube[^a-z0-9]+mario[^a-z0-9]+golf$|gamecube[^a-z0-9]+mario[^a-z0-9]+golf[^a-z0-9]+toadstool[^a-z0-9]+tour[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+mario[^a-z0-9]+golf[^a-z0-9]+rayanair$)"
+        },
+        {
             "game": "Mario Kart - Double Dash",
             "file": "jingles/gamecube/Natalie/Mario Kart - Double Dash (Natalie).ogg",
             "regex": "(?:mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash$|mario[^a-z0-9]+kart$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+plus$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+deluxe$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+extended$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+retro[^a-z0-9]+gp$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+natalie$|mario[^a-z0-9]+kart[^a-z0-9]+natalie$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+plus[^a-z0-9]+natalie$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+deluxe[^a-z0-9]+natalie$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+extended[^a-z0-9]+natalie$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+retro[^a-z0-9]+gp[^a-z0-9]+natalie$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+plus$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+deluxe$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+extended$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+retro[^a-z0-9]+gp$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+natalie$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+natalie$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+plus[^a-z0-9]+natalie$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+deluxe[^a-z0-9]+natalie$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+extended[^a-z0-9]+natalie$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+retro[^a-z0-9]+gp[^a-z0-9]+natalie$)"
@@ -2591,6 +2706,36 @@
             "game": "Mario Kart Double Dash",
             "file": "jingles/gamecube/flapperultra/Mario Kart Double Dash (flapperultra).ogg",
             "regex": "(?:mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash$|mario[^a-z0-9]+kart$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+plus$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+deluxe$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+extended$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+retro[^a-z0-9]+gp$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+flapperultra$|mario[^a-z0-9]+kart[^a-z0-9]+flapperultra$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+plus[^a-z0-9]+flapperultra$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+deluxe[^a-z0-9]+flapperultra$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+extended[^a-z0-9]+flapperultra$|mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+retro[^a-z0-9]+gp[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+plus$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+deluxe$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+extended$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+retro[^a-z0-9]+gp$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+plus[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+deluxe[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+extended[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+double[^a-z0-9]+dash[^a-z0-9]+retro[^a-z0-9]+gp[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Mario Party 4",
+            "file": "jingles/gamecube/RayanAIR/Mario Party 4 (RayanAIR).ogg",
+            "regex": "(?:mario[^a-z0-9]+party[^a-z0-9]+(?:4|iv)$|mario[^a-z0-9]+party[^a-z0-9]+(?:4|iv)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+mario[^a-z0-9]+party[^a-z0-9]+(?:4|iv)$|gamecube[^a-z0-9]+mario[^a-z0-9]+party[^a-z0-9]+(?:4|iv)[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Mario Party 5",
+            "file": "jingles/gamecube/RayanAIR/Mario Party 5 (RayanAIR).ogg",
+            "regex": "(?:mario[^a-z0-9]+party[^a-z0-9]+(?:5|v)$|mario[^a-z0-9]+party[^a-z0-9]+(?:5|v)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+mario[^a-z0-9]+party[^a-z0-9]+(?:5|v)$|gamecube[^a-z0-9]+mario[^a-z0-9]+party[^a-z0-9]+(?:5|v)[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Mario Party 6",
+            "file": "jingles/gamecube/RayanAIR/Mario Party 6 (RayanAIR).ogg",
+            "regex": "(?:mario[^a-z0-9]+party[^a-z0-9]+(?:6|vi)$|mario[^a-z0-9]+party[^a-z0-9]+(?:6|vi)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+mario[^a-z0-9]+party[^a-z0-9]+(?:6|vi)$|gamecube[^a-z0-9]+mario[^a-z0-9]+party[^a-z0-9]+(?:6|vi)[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Mario Party 7",
+            "file": "jingles/gamecube/RayanAIR/Mario Party 7 (RayanAIR).ogg",
+            "regex": "(?:mario[^a-z0-9]+party[^a-z0-9]+(?:7|vii)$|mario[^a-z0-9]+party[^a-z0-9]+(?:7|vii)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+mario[^a-z0-9]+party[^a-z0-9]+(?:7|vii)$|gamecube[^a-z0-9]+mario[^a-z0-9]+party[^a-z0-9]+(?:7|vii)[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Mario Strikers",
+            "file": "jingles/gamecube/RayanAIR/Mario Strikers (RayanAIR).ogg",
+            "regex": "(?:mario[^a-z0-9]+strikers$|mario[^a-z0-9]+strikers[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+mario[^a-z0-9]+strikers$|gamecube[^a-z0-9]+mario[^a-z0-9]+strikers[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Mario Superstar Baseball",
+            "file": "jingles/gamecube/RayanAIR/Mario Superstar Baseball (RayanAIR).ogg",
+            "regex": "(?:mario[^a-z0-9]+superstar[^a-z0-9]+baseball$|mario[^a-z0-9]+superstar[^a-z0-9]+baseball[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+mario[^a-z0-9]+superstar[^a-z0-9]+baseball$|gamecube[^a-z0-9]+mario[^a-z0-9]+superstar[^a-z0-9]+baseball[^a-z0-9]+rayanair$)"
         },
         {
             "game": "Mega Man Battle Network Transmission",
@@ -2611,6 +2756,61 @@
             "game": "Metroid Prime 2",
             "file": "jingles/gamecube/Natalie/Metroid Prime 2 (Natalie).ogg",
             "regex": "(?:metroid[^a-z0-9]+prime[^a-z0-9]+(?:2|ii)$|metroid[^a-z0-9]+prime[^a-z0-9]+(?:2|ii)[^a-z0-9]+natalie$|gamecube[^a-z0-9]+metroid[^a-z0-9]+prime[^a-z0-9]+(?:2|ii)$|gamecube[^a-z0-9]+metroid[^a-z0-9]+prime[^a-z0-9]+(?:2|ii)[^a-z0-9]+natalie$)"
+        },
+        {
+            "game": "Midway Arcade Treasures 1",
+            "file": "jingles/gamecube/RayanAIR/Midway Arcade Treasures 1 (RayanAIR).ogg",
+            "regex": "(?:midway[^a-z0-9]+arcade[^a-z0-9]+treasures[^a-z0-9]+(?:1|i)$|midway[^a-z0-9]+arcade[^a-z0-9]+treasures[^a-z0-9]+(?:1|i)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+midway[^a-z0-9]+arcade[^a-z0-9]+treasures[^a-z0-9]+(?:1|i)$|gamecube[^a-z0-9]+midway[^a-z0-9]+arcade[^a-z0-9]+treasures[^a-z0-9]+(?:1|i)[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Midway Arcade Treasures 2",
+            "file": "jingles/gamecube/RayanAIR/Midway Arcade Treasures 2 (RayanAIR).ogg",
+            "regex": "(?:midway[^a-z0-9]+arcade[^a-z0-9]+treasures[^a-z0-9]+(?:2|ii)$|midway[^a-z0-9]+arcade[^a-z0-9]+treasures[^a-z0-9]+(?:2|ii)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+midway[^a-z0-9]+arcade[^a-z0-9]+treasures[^a-z0-9]+(?:2|ii)$|gamecube[^a-z0-9]+midway[^a-z0-9]+arcade[^a-z0-9]+treasures[^a-z0-9]+(?:2|ii)[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Midway Arcade Treasures 3",
+            "file": "jingles/gamecube/RayanAIR/Midway Arcade Treasures 3 (RayanAIR).ogg",
+            "regex": "(?:midway[^a-z0-9]+arcade[^a-z0-9]+treasures[^a-z0-9]+(?:3|iii)$|midway[^a-z0-9]+arcade[^a-z0-9]+treasures[^a-z0-9]+(?:3|iii)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+midway[^a-z0-9]+arcade[^a-z0-9]+treasures[^a-z0-9]+(?:3|iii)$|gamecube[^a-z0-9]+midway[^a-z0-9]+arcade[^a-z0-9]+treasures[^a-z0-9]+(?:3|iii)[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Mortal Kombat - Deadly Alliance",
+            "file": "jingles/gamecube/RayanAIR/Mortal Kombat - Deadly Alliance (RayanAIR).ogg",
+            "regex": "(?:mortal[^a-z0-9]+kombat[^a-z0-9]+deadly[^a-z0-9]+alliance$|mortal[^a-z0-9]+kombat$|mortal[^a-z0-9]+kombat[^a-z0-9]+deadly[^a-z0-9]+alliance[^a-z0-9]+rayanair$|mortal[^a-z0-9]+kombat[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+mortal[^a-z0-9]+kombat[^a-z0-9]+deadly[^a-z0-9]+alliance$|gamecube[^a-z0-9]+mortal[^a-z0-9]+kombat$|gamecube[^a-z0-9]+mortal[^a-z0-9]+kombat[^a-z0-9]+deadly[^a-z0-9]+alliance[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+mortal[^a-z0-9]+kombat[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Mortal Kombat Deception",
+            "file": "jingles/gamecube/RayanAIR/Mortal Kombat Deception (RayanAIR).ogg",
+            "regex": "(?:mortal[^a-z0-9]+kombat[^a-z0-9]+deception$|mortal[^a-z0-9]+kombat[^a-z0-9]+deception[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+mortal[^a-z0-9]+kombat[^a-z0-9]+deception$|gamecube[^a-z0-9]+mortal[^a-z0-9]+kombat[^a-z0-9]+deception[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "NBA Street V3",
+            "file": "jingles/gamecube/RayanAIR/NBA Street V3 (RayanAIR).ogg",
+            "regex": "(?:nba[^a-z0-9]+street[^a-z0-9]+v3$|nba[^a-z0-9]+street[^a-z0-9]+v3[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+nba[^a-z0-9]+street[^a-z0-9]+v3$|gamecube[^a-z0-9]+nba[^a-z0-9]+street[^a-z0-9]+v3[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Need for Speed - Most Wanted",
+            "file": "jingles/gamecube/RayanAIR/Need for Speed - Most Wanted (RayanAIR).ogg",
+            "regex": "(?:need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted$|need[^a-z0-9]+for[^a-z0-9]+speed$|need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted[^a-z0-9]+u$|need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted[^a-z0-9]+rayanair$|need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+rayanair$|need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted[^a-z0-9]+u[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted[^a-z0-9]+u$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted[^a-z0-9]+u[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Need for Speed - Underground",
+            "file": "jingles/gamecube/RayanAIR/Need for Speed - Underground (RayanAIR).ogg",
+            "regex": "(?:need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+underground$|need[^a-z0-9]+for[^a-z0-9]+speed$|need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+underground[^a-z0-9]+rayanair$|need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+underground$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+underground[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Need for Speed - Underground 2",
+            "file": "jingles/gamecube/RayanAIR/Need for Speed - Underground 2 (RayanAIR).ogg",
+            "regex": "(?:need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)$|need[^a-z0-9]+for[^a-z0-9]+speed$|need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)[^a-z0-9]+rayanair$|need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "One Piece Grand Battle",
+            "file": "jingles/gamecube/RayanAIR/One Piece Grand Battle (RayanAIR).ogg",
+            "regex": "(?:one[^a-z0-9]+piece[^a-z0-9]+grand[^a-z0-9]+battle$|one[^a-z0-9]+piece[^a-z0-9]+grand[^a-z0-9]+battle[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+one[^a-z0-9]+piece[^a-z0-9]+grand[^a-z0-9]+battle$|gamecube[^a-z0-9]+one[^a-z0-9]+piece[^a-z0-9]+grand[^a-z0-9]+battle[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "P.N.03",
+            "file": "jingles/gamecube/RayanAIR/P.N.03 (RayanAIR).ogg",
+            "regex": "(?:p[^a-z0-9]+n[^a-z0-9]+03$|p[^a-z0-9]+n[^a-z0-9]+03[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+p[^a-z0-9]+n[^a-z0-9]+03$|gamecube[^a-z0-9]+p[^a-z0-9]+n[^a-z0-9]+03[^a-z0-9]+rayanair$)"
         },
         {
             "game": "Pac Man World 2",
@@ -2718,6 +2918,11 @@
             "regex": "(?:shadow[^a-z0-9]+the[^a-z0-9]+hedgehog$|shadow[^a-z0-9]+the[^a-z0-9]+hedgehog[^a-z0-9]+retrowave64$|gamecube[^a-z0-9]+shadow[^a-z0-9]+the[^a-z0-9]+hedgehog$|gamecube[^a-z0-9]+shadow[^a-z0-9]+the[^a-z0-9]+hedgehog[^a-z0-9]+retrowave64$)"
         },
         {
+            "game": "Shrek 2",
+            "file": "jingles/gamecube/RayanAIR/Shrek 2 (RayanAIR).ogg",
+            "regex": "(?:shrek[^a-z0-9]+(?:2|ii)$|shrek[^a-z0-9]+(?:2|ii)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+shrek[^a-z0-9]+(?:2|ii)$|gamecube[^a-z0-9]+shrek[^a-z0-9]+(?:2|ii)[^a-z0-9]+rayanair$)"
+        },
+        {
             "game": "Skies of Arcadia Legends",
             "file": "jingles/gamecube/BennyTheFirstHunter/Skies of Arcadia Legends (BennyTheFirstHunter).ogg",
             "regex": "(?:skies[^a-z0-9]+of[^a-z0-9]+arcadia[^a-z0-9]+legends$|skies[^a-z0-9]+of[^a-z0-9]+arcadia[^a-z0-9]+legends[^a-z0-9]+bennythefirsthunter$|gamecube[^a-z0-9]+skies[^a-z0-9]+of[^a-z0-9]+arcadia[^a-z0-9]+legends$|gamecube[^a-z0-9]+skies[^a-z0-9]+of[^a-z0-9]+arcadia[^a-z0-9]+legends[^a-z0-9]+bennythefirsthunter$)"
@@ -2766,6 +2971,21 @@
             "game": "Soulcalibur 2",
             "file": "jingles/gamecube/CirnoWaifu/Soulcalibur 2 (CirnoWaifu).ogg",
             "regex": "(?:soulcalibur[^a-z0-9]+(?:2|ii)$|soulcalibur[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$|gamecube[^a-z0-9]+soulcalibur[^a-z0-9]+(?:2|ii)$|gamecube[^a-z0-9]+soulcalibur[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "SSX 3",
+            "file": "jingles/gamecube/RayanAIR/SSX 3 (RayanAIR).ogg",
+            "regex": "(?:ssx[^a-z0-9]+(?:3|iii)$|ssx[^a-z0-9]+(?:3|iii)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+ssx[^a-z0-9]+(?:3|iii)$|gamecube[^a-z0-9]+ssx[^a-z0-9]+(?:3|iii)[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Star Fox Adventures",
+            "file": "jingles/gamecube/RayanAIR/Star Fox Adventures (Alt) (RayanAIR).ogg",
+            "regex": "(?:star[^a-z0-9]+fox[^a-z0-9]+adventures$|star[^a-z0-9]+fox[^a-z0-9]+adventures[^a-z0-9]+alt$|star[^a-z0-9]+fox[^a-z0-9]+adventures[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+star[^a-z0-9]+fox[^a-z0-9]+adventures$|gamecube[^a-z0-9]+star[^a-z0-9]+fox[^a-z0-9]+adventures[^a-z0-9]+alt$|gamecube[^a-z0-9]+star[^a-z0-9]+fox[^a-z0-9]+adventures[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Star Fox Adventures",
+            "file": "jingles/gamecube/RayanAIR/Star Fox Adventures (RayanAIR).ogg",
+            "regex": "(?:star[^a-z0-9]+fox[^a-z0-9]+adventures$|star[^a-z0-9]+fox[^a-z0-9]+adventures[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+star[^a-z0-9]+fox[^a-z0-9]+adventures$|gamecube[^a-z0-9]+star[^a-z0-9]+fox[^a-z0-9]+adventures[^a-z0-9]+rayanair$)"
         },
         {
             "game": "Star Fox Assault",
@@ -2823,6 +3043,11 @@
             "regex": "(?:super[^a-z0-9]+smash[^a-z0-9]+bros[^a-z0-9]+melee$|super[^a-z0-9]+smash[^a-z0-9]+bros[^a-z0-9]+melee[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+super[^a-z0-9]+smash[^a-z0-9]+bros[^a-z0-9]+melee$|gamecube[^a-z0-9]+super[^a-z0-9]+smash[^a-z0-9]+bros[^a-z0-9]+melee[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Tales of Symphonia",
+            "file": "jingles/gamecube/RayanAIR/Tales of Symphonia (RayanAIR).ogg",
+            "regex": "(?:tales[^a-z0-9]+of[^a-z0-9]+symphonia$|tales[^a-z0-9]+of[^a-z0-9]+symphonia[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+tales[^a-z0-9]+of[^a-z0-9]+symphonia$|gamecube[^a-z0-9]+tales[^a-z0-9]+of[^a-z0-9]+symphonia[^a-z0-9]+rayanair$)"
+        },
+        {
             "game": "The Hobbit",
             "file": "jingles/gamecube/Brookenium/The Hobbit (Brookenium).ogg",
             "regex": "(?:the[^a-z0-9]+hobbit$|the[^a-z0-9]+hobbit[^a-z0-9]+brookenium$|gamecube[^a-z0-9]+the[^a-z0-9]+hobbit$|gamecube[^a-z0-9]+the[^a-z0-9]+hobbit[^a-z0-9]+brookenium$)"
@@ -2853,6 +3078,16 @@
             "regex": "(?:the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+wind[^a-z0-9]+waker$|the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda$|the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+wind[^a-z0-9]+waker[^a-z0-9]+gracie[^a-z0-9]+failfox$|the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+gracie[^a-z0-9]+failfox$|gamecube[^a-z0-9]+the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+wind[^a-z0-9]+waker$|gamecube[^a-z0-9]+the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda$|gamecube[^a-z0-9]+the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+wind[^a-z0-9]+waker[^a-z0-9]+gracie[^a-z0-9]+failfox$|gamecube[^a-z0-9]+the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+gracie[^a-z0-9]+failfox$)"
         },
         {
+            "game": "The Simpsons Hit and Run",
+            "file": "jingles/gamecube/RayanAIR/The Simpsons Hit and Run (RayanAIR).ogg",
+            "regex": "(?:the[^a-z0-9]+simpsons[^a-z0-9]+hit[^a-z0-9]+and[^a-z0-9]+run$|the[^a-z0-9]+simpsons[^a-z0-9]+hit[^a-z0-9]+and[^a-z0-9]+run[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+the[^a-z0-9]+simpsons[^a-z0-9]+hit[^a-z0-9]+and[^a-z0-9]+run$|gamecube[^a-z0-9]+the[^a-z0-9]+simpsons[^a-z0-9]+hit[^a-z0-9]+and[^a-z0-9]+run[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "The Simpsons Road Rage",
+            "file": "jingles/gamecube/RayanAIR/The Simpsons Road Rage (RayanAIR).ogg",
+            "regex": "(?:the[^a-z0-9]+simpsons[^a-z0-9]+road[^a-z0-9]+rage$|the[^a-z0-9]+simpsons[^a-z0-9]+road[^a-z0-9]+rage[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+the[^a-z0-9]+simpsons[^a-z0-9]+road[^a-z0-9]+rage$|gamecube[^a-z0-9]+the[^a-z0-9]+simpsons[^a-z0-9]+road[^a-z0-9]+rage[^a-z0-9]+rayanair$)"
+        },
+        {
             "game": "TimeSplitters",
             "file": "jingles/gamecube/CirnoWaifu/TimeSplitters (CirnoWaifu).ogg",
             "regex": "(?:timesplitters$|timesplitters[^a-z0-9]+cirnowaifu$|gamecube[^a-z0-9]+timesplitters$|gamecube[^a-z0-9]+timesplitters[^a-z0-9]+cirnowaifu$)"
@@ -2878,9 +3113,29 @@
             "regex": "(?:timesplitters[^a-z0-9]+(?:2|ii)$|timesplitters[^a-z0-9]+(?:2|ii)[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+timesplitters[^a-z0-9]+(?:2|ii)$|gamecube[^a-z0-9]+timesplitters[^a-z0-9]+(?:2|ii)[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Tony Hawk Underground",
+            "file": "jingles/gamecube/RayanAIR/Tony Hawk Underground (RayanAIR).ogg",
+            "regex": "(?:tony[^a-z0-9]+hawk[^a-z0-9]+underground$|tony[^a-z0-9]+hawk[^a-z0-9]+underground[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+tony[^a-z0-9]+hawk[^a-z0-9]+underground$|gamecube[^a-z0-9]+tony[^a-z0-9]+hawk[^a-z0-9]+underground[^a-z0-9]+rayanair$)"
+        },
+        {
             "game": "Tony Hawk Underground 2",
             "file": "jingles/gamecube/BennyTheFirstHunter/Tony Hawk Underground 2 (BennyTheFirstHunter).ogg",
             "regex": "(?:tony[^a-z0-9]+hawk[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)$|tony[^a-z0-9]+hawk[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)[^a-z0-9]+bennythefirsthunter$|gamecube[^a-z0-9]+tony[^a-z0-9]+hawk[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)$|gamecube[^a-z0-9]+tony[^a-z0-9]+hawk[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)[^a-z0-9]+bennythefirsthunter$)"
+        },
+        {
+            "game": "TY the Tasmanian Tiger",
+            "file": "jingles/gamecube/RayanAIR/TY the Tasmanian Tiger (RayanAIR).ogg",
+            "regex": "(?:ty[^a-z0-9]+the[^a-z0-9]+tasmanian[^a-z0-9]+tiger$|ty[^a-z0-9]+the[^a-z0-9]+tasmanian[^a-z0-9]+tiger[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+ty[^a-z0-9]+the[^a-z0-9]+tasmanian[^a-z0-9]+tiger$|gamecube[^a-z0-9]+ty[^a-z0-9]+the[^a-z0-9]+tasmanian[^a-z0-9]+tiger[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "TY the Tasmanian Tiger 2",
+            "file": "jingles/gamecube/RayanAIR/TY the Tasmanian Tiger 2 (RayanAIR).ogg",
+            "regex": "(?:ty[^a-z0-9]+the[^a-z0-9]+tasmanian[^a-z0-9]+tiger[^a-z0-9]+(?:2|ii)$|ty[^a-z0-9]+the[^a-z0-9]+tasmanian[^a-z0-9]+tiger[^a-z0-9]+(?:2|ii)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+ty[^a-z0-9]+the[^a-z0-9]+tasmanian[^a-z0-9]+tiger[^a-z0-9]+(?:2|ii)$|gamecube[^a-z0-9]+ty[^a-z0-9]+the[^a-z0-9]+tasmanian[^a-z0-9]+tiger[^a-z0-9]+(?:2|ii)[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "TY the Tasmanian Tiger 3",
+            "file": "jingles/gamecube/RayanAIR/TY the Tasmanian Tiger 3 (RayanAIR).ogg",
+            "regex": "(?:ty[^a-z0-9]+the[^a-z0-9]+tasmanian[^a-z0-9]+tiger[^a-z0-9]+(?:3|iii)$|ty[^a-z0-9]+the[^a-z0-9]+tasmanian[^a-z0-9]+tiger[^a-z0-9]+(?:3|iii)[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+ty[^a-z0-9]+the[^a-z0-9]+tasmanian[^a-z0-9]+tiger[^a-z0-9]+(?:3|iii)$|gamecube[^a-z0-9]+ty[^a-z0-9]+the[^a-z0-9]+tasmanian[^a-z0-9]+tiger[^a-z0-9]+(?:3|iii)[^a-z0-9]+rayanair$)"
         },
         {
             "game": "Viewtiful Joe",
@@ -2903,6 +3158,11 @@
             "regex": "(?:viewtiful[^a-z0-9]+joe[^a-z0-9]+(?:2|ii)$|viewtiful[^a-z0-9]+joe[^a-z0-9]+(?:2|ii)[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+viewtiful[^a-z0-9]+joe[^a-z0-9]+(?:2|ii)$|gamecube[^a-z0-9]+viewtiful[^a-z0-9]+joe[^a-z0-9]+(?:2|ii)[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Wallace and Gromit",
+            "file": "jingles/gamecube/RayanAIR/Wallace and Gromit (RayanAIR).ogg",
+            "regex": "(?:wallace[^a-z0-9]+and[^a-z0-9]+gromit$|wallace[^a-z0-9]+and[^a-z0-9]+gromit[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+wallace[^a-z0-9]+and[^a-z0-9]+gromit$|gamecube[^a-z0-9]+wallace[^a-z0-9]+and[^a-z0-9]+gromit[^a-z0-9]+rayanair$)"
+        },
+        {
             "game": "Wario World",
             "file": "jingles/gamecube/CirnoWaifu/Wario World (CirnoWaifu).ogg",
             "regex": "(?:wario[^a-z0-9]+world$|wario[^a-z0-9]+world[^a-z0-9]+cirnowaifu$|gamecube[^a-z0-9]+wario[^a-z0-9]+world$|gamecube[^a-z0-9]+wario[^a-z0-9]+world[^a-z0-9]+cirnowaifu$)"
@@ -2921,6 +3181,11 @@
             "game": "Wave Race - Blue Storm",
             "file": "jingles/gamecube/flapperultra/Wave Race - Blue Storm (flapperultra).ogg",
             "regex": "(?:wave[^a-z0-9]+race[^a-z0-9]+blue[^a-z0-9]+storm$|wave[^a-z0-9]+race$|wave[^a-z0-9]+race[^a-z0-9]+blue[^a-z0-9]+storm[^a-z0-9]+flapperultra$|wave[^a-z0-9]+race[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+wave[^a-z0-9]+race[^a-z0-9]+blue[^a-z0-9]+storm$|gamecube[^a-z0-9]+wave[^a-z0-9]+race$|gamecube[^a-z0-9]+wave[^a-z0-9]+race[^a-z0-9]+blue[^a-z0-9]+storm[^a-z0-9]+flapperultra$|gamecube[^a-z0-9]+wave[^a-z0-9]+race[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "WELCOME",
+            "file": "jingles/gamecube/RayanAIR/WELCOME (RayanAIR).ogg",
+            "regex": "(?:welcome$|welcome[^a-z0-9]+rayanair$|gamecube[^a-z0-9]+welcome$|gamecube[^a-z0-9]+welcome[^a-z0-9]+rayanair$)"
         }
     ],
     "gb": [
