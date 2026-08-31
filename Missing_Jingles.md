@@ -71,61 +71,6 @@
 - Shonen Jump's One Piece
 - Yu Yu Hakusho Tournament Tactics
 
-### GameCube (52)
-
-- 007 From Russia With Love
-- 007 Nightfire
-- 1080 Avalanche
-- 18 Wheeler American Pro Trucker
-- All Star Baseball 2022
-- ATV Quad Power Racing 2
-- Baten Kaitos Eternal Wings and The Lost Ocean
-- Baten Kaitos Origins
-- Battle Stadium D.O.N
-- Baulder Gate Dark Alliance
-- Big Air Freestyle
-- Big Mutha Truckers
-- Bomberman Generation
-- Bust A Move 3000
-- Cabelas Big Game Hunter
-- Crash Tag Team Racing
-- Donkey Konga
-- Donkey Konga 2
-- Dubdash
-- FInal Fantasy Crystal Chronicles
-- Freekstyle
-- Gotcha Force
-- Mario Golf: Toadstool Tour
-- Mario Party 4
-- Mario Party 5
-- Mario Party 6
-- Mario Party 7
-- Mario Strikers
-- Mario Superstar Baseball
-- Midway Arcade Treasures 1
-- Midway Arcade Treasures 2
-- Midway Arcade Treasures 3
-- Mortal Kombat DeadlyAlliance
-- Mortal Kombat Deception
-- NBA Street V3
-- Need for Speed - Underground 2
-- Need For Speed Most wanted
-- Need For Speed Underground
-- One Piece Grand Battle
-- pro3
-- Shrek 2
-- SSX 3
-- Star Fox Adventures
-- Tales Of Symphonia
-- The Simpsons Hit and Run
-- The Simpsons Road Rage
-- Tony Hawk Underground
-- TY the Tasmanian Tiger
-- TY the Tasmanian Tiger 2
-- TY the Tasmanian Tiger 3
-- Wallace and Gromit
-- WELCOME
-
 ### Nintendo DS (12)
 
 - Fossil Fighters
@@ -178,10 +123,6 @@
 
 - Fire Emblem Warriors
 
-### Sega 32X (0)
-
-- None
-
 ### Mega Drive / Genesis (10)
 
 - Chase HQ II
@@ -194,14 +135,6 @@
 - Tails' Adventure
 - The Lion King
 - Ultimate Mortal Kombat 3
-
-### Sega CD / Mega CD (0)
-
-- None
-
-### Sega Saturn (0)
-
-- None
 
 ### Dreamcast (2)
 
@@ -306,18 +239,6 @@
 - Sonic the Hedgehog 2006
 - Tomb Raider (2013)
 
-### Arcade (0)
-
-- None
-
-### PICO-8 (0)
-
-- None
-
-### Android Apps (0)
-
-- None
-
 ### Android Games (13)
 
 - Adventure Time - Card Wars Kingdom
@@ -333,26 +254,6 @@
 - Run Sackboy Run!
 - Temple Run
 - Temple Run 2
-
-### PC-98 (0)
-
-- None
-
-### PC Engine / TurboGrafx-16 (0)
-
-- None
-
-### Neo Geo Pocket Color (0)
-
-- None
-
-### Philips CD-i (0)
-
-- None
-
-### MSX (0)
-
-- None
 
 ## Author
 - RayanAIR (" helo guys c: ")
