@@ -6724,9 +6724,19 @@
             "regex": "(?:castlevania[^a-z0-9]+order[^a-z0-9]+of[^a-z0-9]+ecclesia$|castlevania$|castlevania[^a-z0-9]+order[^a-z0-9]+of[^a-z0-9]+ecclesia[^a-z0-9]+flapperultra$|castlevania[^a-z0-9]+flapperultra$|nds[^a-z0-9]+castlevania[^a-z0-9]+order[^a-z0-9]+of[^a-z0-9]+ecclesia$|nds[^a-z0-9]+castlevania$|nds[^a-z0-9]+castlevania[^a-z0-9]+order[^a-z0-9]+of[^a-z0-9]+ecclesia[^a-z0-9]+flapperultra$|nds[^a-z0-9]+castlevania[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Castlevania - Order of Ecclesia",
+            "file": "jingles/nds/Gunsparce98/Castlevania - Order of Ecclesia (Gunsparce98).ogg",
+            "regex": "(?:castlevania[^a-z0-9]+order[^a-z0-9]+of[^a-z0-9]+ecclesia$|castlevania$|castlevania[^a-z0-9]+order[^a-z0-9]+of[^a-z0-9]+ecclesia[^a-z0-9]+gunsparce98$|castlevania[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+castlevania[^a-z0-9]+order[^a-z0-9]+of[^a-z0-9]+ecclesia$|nds[^a-z0-9]+castlevania$|nds[^a-z0-9]+castlevania[^a-z0-9]+order[^a-z0-9]+of[^a-z0-9]+ecclesia[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+castlevania[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "Castlevania - Portrait of Ruin",
             "file": "jingles/nds/flapperultra/Castlevania - Portrait of Ruin (flapperultra).ogg",
             "regex": "(?:castlevania[^a-z0-9]+portrait[^a-z0-9]+of[^a-z0-9]+ruin$|castlevania$|castlevania[^a-z0-9]+portrait[^a-z0-9]+of[^a-z0-9]+ruin[^a-z0-9]+flapperultra$|castlevania[^a-z0-9]+flapperultra$|nds[^a-z0-9]+castlevania[^a-z0-9]+portrait[^a-z0-9]+of[^a-z0-9]+ruin$|nds[^a-z0-9]+castlevania$|nds[^a-z0-9]+castlevania[^a-z0-9]+portrait[^a-z0-9]+of[^a-z0-9]+ruin[^a-z0-9]+flapperultra$|nds[^a-z0-9]+castlevania[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Castlevania - Portrait of Ruin",
+            "file": "jingles/nds/Gunsparce98/Castlevania - Portrait of Ruin (Gunsparce98).ogg",
+            "regex": "(?:castlevania[^a-z0-9]+portrait[^a-z0-9]+of[^a-z0-9]+ruin$|castlevania$|castlevania[^a-z0-9]+portrait[^a-z0-9]+of[^a-z0-9]+ruin[^a-z0-9]+gunsparce98$|castlevania[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+castlevania[^a-z0-9]+portrait[^a-z0-9]+of[^a-z0-9]+ruin$|nds[^a-z0-9]+castlevania$|nds[^a-z0-9]+castlevania[^a-z0-9]+portrait[^a-z0-9]+of[^a-z0-9]+ruin[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+castlevania[^a-z0-9]+gunsparce98$)"
         },
         {
             "game": "Children of Mana",
@@ -6859,6 +6869,11 @@
             "regex": "(?:ds[^a-z0-9]+jingle[^a-z0-9]+go[^a-z0-9]+go[^a-z0-9]+cosmo[^a-z0-9]+cops$|ds[^a-z0-9]+jingle$|nds[^a-z0-9]+ds[^a-z0-9]+jingle[^a-z0-9]+go[^a-z0-9]+go[^a-z0-9]+cosmo[^a-z0-9]+cops$|nds[^a-z0-9]+ds[^a-z0-9]+jingle$)"
         },
         {
+            "game": "Elite Beat Agents",
+            "file": "jingles/nds/Gunsparce98/Elite Beat Agents (Gunsparce98).ogg",
+            "regex": "(?:elite[^a-z0-9]+beat[^a-z0-9]+agents$|elite[^a-z0-9]+beat[^a-z0-9]+agents[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+elite[^a-z0-9]+beat[^a-z0-9]+agents$|nds[^a-z0-9]+elite[^a-z0-9]+beat[^a-z0-9]+agents[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "Enchanted folk and the School of Wizzardry",
             "file": "jingles/nds/flapperultra/Enchanted folk and the School of Wizzardry (flapperultra).ogg",
             "regex": "(?:enchanted[^a-z0-9]+folk[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+school[^a-z0-9]+of[^a-z0-9]+wizzardry$|enchanted[^a-z0-9]+folk[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+school[^a-z0-9]+of[^a-z0-9]+wizzardry[^a-z0-9]+flapperultra$|nds[^a-z0-9]+enchanted[^a-z0-9]+folk[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+school[^a-z0-9]+of[^a-z0-9]+wizzardry$|nds[^a-z0-9]+enchanted[^a-z0-9]+folk[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+school[^a-z0-9]+of[^a-z0-9]+wizzardry[^a-z0-9]+flapperultra$)"
@@ -6877,6 +6892,11 @@
             "game": "Etrian Odyssey III",
             "file": "jingles/nds/flapperultra/Etrian Odyssey III (flapperultra).ogg",
             "regex": "(?:etrian[^a-z0-9]+odyssey[^a-z0-9]+(?:iii|3)$|etrian[^a-z0-9]+odyssey[^a-z0-9]+(?:iii|3)[^a-z0-9]+flapperultra$|nds[^a-z0-9]+etrian[^a-z0-9]+odyssey[^a-z0-9]+(?:iii|3)$|nds[^a-z0-9]+etrian[^a-z0-9]+odyssey[^a-z0-9]+(?:iii|3)[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Final Fantasy - The 4 Heroes of Light",
+            "file": "jingles/nds/Gunsparce98/Final Fantasy - The 4 Heroes of Light (Gunsparce98).ogg",
+            "regex": "(?:final[^a-z0-9]+fantasy[^a-z0-9]+the[^a-z0-9]+(?:4|iv)[^a-z0-9]+heroes[^a-z0-9]+of[^a-z0-9]+light$|final[^a-z0-9]+fantasy$|final[^a-z0-9]+fantasy[^a-z0-9]+the[^a-z0-9]+(?:4|iv)[^a-z0-9]+heroes[^a-z0-9]+of[^a-z0-9]+light[^a-z0-9]+gunsparce98$|final[^a-z0-9]+fantasy[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+the[^a-z0-9]+(?:4|iv)[^a-z0-9]+heroes[^a-z0-9]+of[^a-z0-9]+light$|nds[^a-z0-9]+final[^a-z0-9]+fantasy$|nds[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+the[^a-z0-9]+(?:4|iv)[^a-z0-9]+heroes[^a-z0-9]+of[^a-z0-9]+light[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+gunsparce98$)"
         },
         {
             "game": "Final Fantasy Crystal Chronicles Echoes of Time Long",
@@ -7369,6 +7389,11 @@
             "regex": "(?:new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+ds$|new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+ds[^a-z0-9]+v9$|new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+ds[^a-z0-9]+sjh$|nds[^a-z0-9]+new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+ds$|nds[^a-z0-9]+new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+ds[^a-z0-9]+v9$|nds[^a-z0-9]+new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+ds[^a-z0-9]+sjh$)"
         },
         {
+            "game": "New Super Mario Bros.",
+            "file": "jingles/nds/Gunsparce98/New Super Mario Bros. (Gunsparce98).ogg",
+            "regex": "(?:new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros$|new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros$|nds[^a-z0-9]+new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "Newer Super Mario Bros. DS",
             "file": "jingles/nds/CirnoWaifu/Newer Super Mario Bros. DS (hack) (CirnoWaifu).ogg",
             "regex": "(?:newer[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+ds$|newer[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+ds[^a-z0-9]+hack$|newer[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+ds[^a-z0-9]+cirnowaifu$|nds[^a-z0-9]+newer[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+ds$|nds[^a-z0-9]+newer[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+ds[^a-z0-9]+hack$|nds[^a-z0-9]+newer[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+ds[^a-z0-9]+cirnowaifu$)"
@@ -7474,9 +7499,19 @@
             "regex": "(?:pokemon[^a-z0-9]+black[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+brookenium$|pokemon[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+black[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+brookenium$)"
         },
         {
+            "game": "Pokemon - Black Version",
+            "file": "jingles/nds/Gunsparce98/Pokemon - Black Version (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+black[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+black[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "Pokemon - Black Version 2",
             "file": "jingles/nds/Brookenium/Pokemon - Black Version 2 (Brookenium).ogg",
             "regex": "(?:pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+(?:2|ii)$|pokemon$|pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+(?:2|ii)[^a-z0-9]+brookenium$|pokemon[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+(?:2|ii)$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+(?:2|ii)[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+brookenium$)"
+        },
+        {
+            "game": "Pokemon - Black Version 2",
+            "file": "jingles/nds/Gunsparce98/Pokemon - Black Version 2 (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+(?:2|ii)$|pokemon$|pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+(?:2|ii)[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+(?:2|ii)$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+(?:2|ii)[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+gunsparce98$)"
         },
         {
             "game": "Pokemon - Diamond Version",
@@ -7484,9 +7519,19 @@
             "regex": "(?:pokemon[^a-z0-9]+diamond[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+diamond[^a-z0-9]+version[^a-z0-9]+brookenium$|pokemon[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+diamond[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+diamond[^a-z0-9]+version[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+brookenium$)"
         },
         {
+            "game": "Pokemon - Diamond Version",
+            "file": "jingles/nds/Gunsparce98/Pokemon - Diamond Version (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+diamond[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+diamond[^a-z0-9]+version[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+diamond[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+diamond[^a-z0-9]+version[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "Pokemon - HeartGold Version",
             "file": "jingles/nds/Brookenium/Pokemon - HeartGold Version (Brookenium).ogg",
             "regex": "(?:pokemon[^a-z0-9]+heartgold[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+heartgold[^a-z0-9]+version[^a-z0-9]+brookenium$|pokemon[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+heartgold[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+heartgold[^a-z0-9]+version[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+brookenium$)"
+        },
+        {
+            "game": "Pokemon - HeartGold Version",
+            "file": "jingles/nds/Gunsparce98/Pokemon - HeartGold Version (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+heartgold[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+heartgold[^a-z0-9]+version[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+heartgold[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+heartgold[^a-z0-9]+version[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+gunsparce98$)"
         },
         {
             "game": "Pokemon - Pearl Version",
@@ -7494,9 +7539,19 @@
             "regex": "(?:pokemon[^a-z0-9]+pearl[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+pearl[^a-z0-9]+version[^a-z0-9]+brookenium$|pokemon[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+pearl[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+pearl[^a-z0-9]+version[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+brookenium$)"
         },
         {
+            "game": "Pokemon - Pearl Version",
+            "file": "jingles/nds/Gunsparce98/Pokemon - Pearl Version (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+pearl[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+pearl[^a-z0-9]+version[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+pearl[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+pearl[^a-z0-9]+version[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "Pokemon - Platinum Version",
             "file": "jingles/nds/Brookenium/Pokemon - Platinum Version (Brookenium).ogg",
             "regex": "(?:pokemon[^a-z0-9]+platinum[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+platinum[^a-z0-9]+version[^a-z0-9]+brookenium$|pokemon[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+platinum[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+platinum[^a-z0-9]+version[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+brookenium$)"
+        },
+        {
+            "game": "Pokemon - Platinum Version",
+            "file": "jingles/nds/Gunsparce98/Pokemon - Platinum Version (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+platinum[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+platinum[^a-z0-9]+version[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+platinum[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+platinum[^a-z0-9]+version[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+gunsparce98$)"
         },
         {
             "game": "Pokemon - SoulSilver Version",
@@ -7504,14 +7559,29 @@
             "regex": "(?:pokemon[^a-z0-9]+soulsilver[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+soulsilver[^a-z0-9]+version[^a-z0-9]+brookenium$|pokemon[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+soulsilver[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+soulsilver[^a-z0-9]+version[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+brookenium$)"
         },
         {
+            "game": "Pokemon - SoulSilver Version",
+            "file": "jingles/nds/Gunsparce98/Pokemon - SoulSilver Version (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+soulsilver[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+soulsilver[^a-z0-9]+version[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+soulsilver[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+soulsilver[^a-z0-9]+version[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "Pokemon - White Version",
             "file": "jingles/nds/Brookenium/Pokemon - White Version (Brookenium).ogg",
             "regex": "(?:pokemon[^a-z0-9]+white[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+brookenium$|pokemon[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+white[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+brookenium$)"
         },
         {
+            "game": "Pokemon - White Version",
+            "file": "jingles/nds/Gunsparce98/Pokemon - White Version (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+white[^a-z0-9]+version$|pokemon$|pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+white[^a-z0-9]+version$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "Pokemon - White Version 2",
             "file": "jingles/nds/Brookenium/Pokemon - White Version 2 (Brookenium).ogg",
             "regex": "(?:pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+(?:2|ii)$|pokemon$|pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+(?:2|ii)[^a-z0-9]+brookenium$|pokemon[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+(?:2|ii)$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+(?:2|ii)[^a-z0-9]+brookenium$|nds[^a-z0-9]+pokemon[^a-z0-9]+brookenium$)"
+        },
+        {
+            "game": "Pokemon - White Version 2",
+            "file": "jingles/nds/Gunsparce98/Pokemon - White Version 2 (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+(?:2|ii)$|pokemon$|pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+(?:2|ii)[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+(?:2|ii)$|nds[^a-z0-9]+pokemon$|nds[^a-z0-9]+pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+(?:2|ii)[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+gunsparce98$)"
         },
         {
             "game": "Pokemon Conquest",
@@ -7532,6 +7602,11 @@
             "game": "Pokemon Link",
             "file": "jingles/nds/SJH/Pokemon Link (V3) (SJH).mp3",
             "regex": "(?:pokemon[^a-z0-9]+link$|pokemon[^a-z0-9]+link[^a-z0-9]+v3$|pokemon[^a-z0-9]+link[^a-z0-9]+sjh$|nds[^a-z0-9]+pokemon[^a-z0-9]+link$|nds[^a-z0-9]+pokemon[^a-z0-9]+link[^a-z0-9]+v3$|nds[^a-z0-9]+pokemon[^a-z0-9]+link[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Pokemon Mystery Dungeon - Explorers of Sky",
+            "file": "jingles/nds/Gunsparce98/Pokemon Mystery Dungeon - Explorers of Sky (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+explorers[^a-z0-9]+of[^a-z0-9]+sky$|pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon$|pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+explorers[^a-z0-9]+of[^a-z0-9]+sky[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+explorers[^a-z0-9]+of[^a-z0-9]+sky$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+explorers[^a-z0-9]+of[^a-z0-9]+sky[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+gunsparce98$)"
         },
         {
             "game": "Pokemon Mystery Dungeon Explorers of Sky",
@@ -7857,6 +7932,11 @@
             "game": "The World Ends With You",
             "file": "jingles/nds/flapperultra/The World Ends With You (flapperultra).ogg",
             "regex": "(?:the[^a-z0-9]+world[^a-z0-9]+ends[^a-z0-9]+with[^a-z0-9]+you$|the[^a-z0-9]+world[^a-z0-9]+ends[^a-z0-9]+with[^a-z0-9]+you[^a-z0-9]+flapperultra$|nds[^a-z0-9]+the[^a-z0-9]+world[^a-z0-9]+ends[^a-z0-9]+with[^a-z0-9]+you$|nds[^a-z0-9]+the[^a-z0-9]+world[^a-z0-9]+ends[^a-z0-9]+with[^a-z0-9]+you[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "The World Ends With You",
+            "file": "jingles/nds/Gunsparce98/The World Ends With You (Gunsparce98).ogg",
+            "regex": "(?:the[^a-z0-9]+world[^a-z0-9]+ends[^a-z0-9]+with[^a-z0-9]+you$|the[^a-z0-9]+world[^a-z0-9]+ends[^a-z0-9]+with[^a-z0-9]+you[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+the[^a-z0-9]+world[^a-z0-9]+ends[^a-z0-9]+with[^a-z0-9]+you$|nds[^a-z0-9]+the[^a-z0-9]+world[^a-z0-9]+ends[^a-z0-9]+with[^a-z0-9]+you[^a-z0-9]+gunsparce98$)"
         },
         {
             "game": "Time Hollow",
