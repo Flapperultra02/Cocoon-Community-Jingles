@@ -10409,6 +10409,21 @@
             "regex": "(?:hytale$|hytale[^a-z0-9]+v3$|hytale[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+hytale$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+hytale[^a-z0-9]+v3$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+hytale[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Idle Slayer",
+            "file": "jingles/pc steam & multiplat/SJH/Idle Slayer (V1) (SJH).ogg",
+            "regex": "(?:idle[^a-z0-9]+slayer$|idle[^a-z0-9]+slayer[^a-z0-9]+v1$|idle[^a-z0-9]+slayer[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+idle[^a-z0-9]+slayer$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+idle[^a-z0-9]+slayer[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+idle[^a-z0-9]+slayer[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Idle Slayer",
+            "file": "jingles/pc steam & multiplat/SJH/Idle Slayer (V2) (SJH).ogg",
+            "regex": "(?:idle[^a-z0-9]+slayer$|idle[^a-z0-9]+slayer[^a-z0-9]+v2$|idle[^a-z0-9]+slayer[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+idle[^a-z0-9]+slayer$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+idle[^a-z0-9]+slayer[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+idle[^a-z0-9]+slayer[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Idle Slayer",
+            "file": "jingles/pc steam & multiplat/SJH/Idle Slayer (V3) (SJH).ogg",
+            "regex": "(?:idle[^a-z0-9]+slayer$|idle[^a-z0-9]+slayer[^a-z0-9]+v3$|idle[^a-z0-9]+slayer[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+idle[^a-z0-9]+slayer$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+idle[^a-z0-9]+slayer[^a-z0-9]+v3$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+idle[^a-z0-9]+slayer[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Journey",
             "file": "jingles/pc steam & multiplat/RayanAIR/Journey (RayanAIR).ogg",
             "regex": "(?:journey$|journey[^a-z0-9]+rayanair$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+journey$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+journey[^a-z0-9]+rayanair$)"
