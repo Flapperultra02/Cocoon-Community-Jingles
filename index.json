@@ -1926,6 +1926,11 @@
             "regex": "(?:fire[^a-z0-9]+emblem[^a-z0-9]+heroes$|fire[^a-z0-9]+emblem[^a-z0-9]+heroes[^a-z0-9]+felipne87r$|android[^a-z0-9]+fire[^a-z0-9]+emblem[^a-z0-9]+heroes$|android[^a-z0-9]+fire[^a-z0-9]+emblem[^a-z0-9]+heroes[^a-z0-9]+felipne87r$)"
         },
         {
+            "game": "Flutter",
+            "file": "jingles/android/BennyTheFirstHunter/Flutter (BennyTheFirstHunter).ogg",
+            "regex": "(?:flutter$|flutter[^a-z0-9]+bennythefirsthunter$|android[^a-z0-9]+flutter$|android[^a-z0-9]+flutter[^a-z0-9]+bennythefirsthunter$)"
+        },
+        {
             "game": "Friday Night Funkin'",
             "file": "jingles/android/Felipne87r/Friday Night Funkin' (Felipne87r).ogg",
             "regex": "(?:friday[^a-z0-9]+night[^a-z0-9]+funkin$|fnf$|friday[^a-z0-9]+night$|psych[^a-z0-9]+engine$|psych[^a-z0-9]+online$|psych[^a-z0-9]+engine[^a-z0-9]+online$|kade[^a-z0-9]+engine$|codename[^a-z0-9]+engine$|(?:v|5)[^a-z0-9]+slice$|vslice$|p[^a-z0-9]+slice$|pslice$|ale[^a-z0-9]+psych$|ale[^a-z0-9]+psych[^a-z0-9]+engine$|yoshi[^a-z0-9]+engine$|leather[^a-z0-9]+engine$|impostor$|imposter$|sonic[^a-z0-9]+exe$|garcello$|hazy[^a-z0-9]+river$|friday[^a-z0-9]+night[^a-z0-9]+funkin[^a-z0-9]+felipne87r$|fnf[^a-z0-9]+felipne87r$|friday[^a-z0-9]+night[^a-z0-9]+felipne87r$|psych[^a-z0-9]+engine[^a-z0-9]+felipne87r$|psych[^a-z0-9]+online[^a-z0-9]+felipne87r$|psych[^a-z0-9]+engine[^a-z0-9]+online[^a-z0-9]+felipne87r$|kade[^a-z0-9]+engine[^a-z0-9]+felipne87r$|codename[^a-z0-9]+engine[^a-z0-9]+felipne87r$|(?:v|5)[^a-z0-9]+slice[^a-z0-9]+felipne87r$|vslice[^a-z0-9]+felipne87r$|p[^a-z0-9]+slice[^a-z0-9]+felipne87r$|pslice[^a-z0-9]+felipne87r$|ale[^a-z0-9]+psych[^a-z0-9]+felipne87r$|ale[^a-z0-9]+psych[^a-z0-9]+engine[^a-z0-9]+felipne87r$|yoshi[^a-z0-9]+engine[^a-z0-9]+felipne87r$|leather[^a-z0-9]+engine[^a-z0-9]+felipne87r$|impostor[^a-z0-9]+felipne87r$|imposter[^a-z0-9]+felipne87r$|sonic[^a-z0-9]+exe[^a-z0-9]+felipne87r$|garcello[^a-z0-9]+felipne87r$|hazy[^a-z0-9]+river[^a-z0-9]+felipne87r$|android[^a-z0-9]+friday[^a-z0-9]+night[^a-z0-9]+funkin$|android[^a-z0-9]+fnf$|android[^a-z0-9]+friday[^a-z0-9]+night$|android[^a-z0-9]+psych[^a-z0-9]+engine$|android[^a-z0-9]+psych[^a-z0-9]+online$|android[^a-z0-9]+psych[^a-z0-9]+engine[^a-z0-9]+online$|android[^a-z0-9]+kade[^a-z0-9]+engine$|android[^a-z0-9]+codename[^a-z0-9]+engine$|android[^a-z0-9]+(?:v|5)[^a-z0-9]+slice$|android[^a-z0-9]+vslice$|android[^a-z0-9]+p[^a-z0-9]+slice$|android[^a-z0-9]+pslice$|android[^a-z0-9]+ale[^a-z0-9]+psych$|android[^a-z0-9]+ale[^a-z0-9]+psych[^a-z0-9]+engine$|android[^a-z0-9]+yoshi[^a-z0-9]+engine$|android[^a-z0-9]+leather[^a-z0-9]+engine$|android[^a-z0-9]+impostor$|android[^a-z0-9]+imposter$|android[^a-z0-9]+sonic[^a-z0-9]+exe$|android[^a-z0-9]+garcello$|android[^a-z0-9]+hazy[^a-z0-9]+river$|android[^a-z0-9]+friday[^a-z0-9]+night[^a-z0-9]+funkin[^a-z0-9]+felipne87r$|android[^a-z0-9]+fnf[^a-z0-9]+felipne87r$|android[^a-z0-9]+friday[^a-z0-9]+night[^a-z0-9]+felipne87r$|android[^a-z0-9]+psych[^a-z0-9]+engine[^a-z0-9]+felipne87r$|android[^a-z0-9]+psych[^a-z0-9]+online[^a-z0-9]+felipne87r$|android[^a-z0-9]+psych[^a-z0-9]+engine[^a-z0-9]+online[^a-z0-9]+felipne87r$|android[^a-z0-9]+kade[^a-z0-9]+engine[^a-z0-9]+felipne87r$|android[^a-z0-9]+codename[^a-z0-9]+engine[^a-z0-9]+felipne87r$|android[^a-z0-9]+(?:v|5)[^a-z0-9]+slice[^a-z0-9]+felipne87r$|android[^a-z0-9]+vslice[^a-z0-9]+felipne87r$|android[^a-z0-9]+p[^a-z0-9]+slice[^a-z0-9]+felipne87r$|android[^a-z0-9]+pslice[^a-z0-9]+felipne87r$|android[^a-z0-9]+ale[^a-z0-9]+psych[^a-z0-9]+felipne87r$|android[^a-z0-9]+ale[^a-z0-9]+psych[^a-z0-9]+engine[^a-z0-9]+felipne87r$|android[^a-z0-9]+yoshi[^a-z0-9]+engine[^a-z0-9]+felipne87r$|android[^a-z0-9]+leather[^a-z0-9]+engine[^a-z0-9]+felipne87r$|android[^a-z0-9]+impostor[^a-z0-9]+felipne87r$|android[^a-z0-9]+imposter[^a-z0-9]+felipne87r$|android[^a-z0-9]+sonic[^a-z0-9]+exe[^a-z0-9]+felipne87r$|android[^a-z0-9]+garcello[^a-z0-9]+felipne87r$|android[^a-z0-9]+hazy[^a-z0-9]+river[^a-z0-9]+felipne87r$)"
@@ -13714,6 +13719,11 @@
             "regex": "(?:dj[^a-z0-9]+max[^a-z0-9]+portable[^a-z0-9]+black[^a-z0-9]+square$|dj[^a-z0-9]+max[^a-z0-9]+portable$|dj[^a-z0-9]+max[^a-z0-9]+portable[^a-z0-9]+black[^a-z0-9]+square[^a-z0-9]+cirnowaifu$|dj[^a-z0-9]+max[^a-z0-9]+portable[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+dj[^a-z0-9]+max[^a-z0-9]+portable[^a-z0-9]+black[^a-z0-9]+square$|psp[^a-z0-9]+dj[^a-z0-9]+max[^a-z0-9]+portable$|psp[^a-z0-9]+dj[^a-z0-9]+max[^a-z0-9]+portable[^a-z0-9]+black[^a-z0-9]+square[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+dj[^a-z0-9]+max[^a-z0-9]+portable[^a-z0-9]+cirnowaifu$)"
         },
         {
+            "game": "Final Fantasy - 20th Anniversary",
+            "file": "jingles/psp/somecallmesean/Final Fantasy - 20th Anniversary (somecallmesean).ogg",
+            "regex": "(?:final[^a-z0-9]+fantasy[^a-z0-9]+20th[^a-z0-9]+anniversary$|final[^a-z0-9]+fantasy$|final[^a-z0-9]+fantasy[^a-z0-9]+20th[^a-z0-9]+anniversary[^a-z0-9]+somecallmesean$|final[^a-z0-9]+fantasy[^a-z0-9]+somecallmesean$|psp[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+20th[^a-z0-9]+anniversary$|psp[^a-z0-9]+final[^a-z0-9]+fantasy$|psp[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+20th[^a-z0-9]+anniversary[^a-z0-9]+somecallmesean$|psp[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+somecallmesean$)"
+        },
+        {
             "game": "Final Fantasy Tactics - The War of the Lions",
             "file": "jingles/psp/Brookenium/Final Fantasy Tactics - The War of the Lions (Brookenium).ogg",
             "regex": "(?:final[^a-z0-9]+fantasy[^a-z0-9]+tactics[^a-z0-9]+the[^a-z0-9]+war[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+lions$|final[^a-z0-9]+fantasy[^a-z0-9]+tactics$|final[^a-z0-9]+fantasy[^a-z0-9]+tactics[^a-z0-9]+the[^a-z0-9]+war[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+lions[^a-z0-9]+brookenium$|final[^a-z0-9]+fantasy[^a-z0-9]+tactics[^a-z0-9]+brookenium$|psp[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+tactics[^a-z0-9]+the[^a-z0-9]+war[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+lions$|psp[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+tactics$|psp[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+tactics[^a-z0-9]+the[^a-z0-9]+war[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+lions[^a-z0-9]+brookenium$|psp[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+tactics[^a-z0-9]+brookenium$)"
@@ -17849,7 +17859,298 @@
             "regex": "(?:youtube$|youtube[^a-z0-9]+sjh$|switch[^a-z0-9]+youtube$|switch[^a-z0-9]+youtube[^a-z0-9]+sjh$)"
         }
     ],
-    "touhou project": [],
+    "touhou project": [
+        {
+            "game": "Cirno! Lifts a Boulder",
+            "file": "jingles/touhou project/CirnoWaifu/Cirno! Lifts a Boulder (CirnoWaifu).ogg",
+            "regex": "(?:cirno[^a-z0-9]+lifts[^a-z0-9]+a[^a-z0-9]+boulder$|cirno[^a-z0-9]+lifts[^a-z0-9]+a[^a-z0-9]+boulder[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+cirno[^a-z0-9]+lifts[^a-z0-9]+a[^a-z0-9]+boulder$|touhou[^a-z0-9]+project[^a-z0-9]+cirno[^a-z0-9]+lifts[^a-z0-9]+a[^a-z0-9]+boulder[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Fantasy Maiden Wars - Dream of the Stray Dreamer",
+            "file": "jingles/touhou project/CirnoWaifu/Fantasy Maiden Wars - Dream of the Stray Dreamer (CirnoWaifu).ogg",
+            "regex": "(?:fantasy[^a-z0-9]+maiden[^a-z0-9]+wars[^a-z0-9]+dream[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+stray[^a-z0-9]+dreamer$|fantasy[^a-z0-9]+maiden[^a-z0-9]+wars$|fantasy[^a-z0-9]+maiden[^a-z0-9]+wars[^a-z0-9]+dream[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+stray[^a-z0-9]+dreamer[^a-z0-9]+cirnowaifu$|fantasy[^a-z0-9]+maiden[^a-z0-9]+wars[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+fantasy[^a-z0-9]+maiden[^a-z0-9]+wars[^a-z0-9]+dream[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+stray[^a-z0-9]+dreamer$|touhou[^a-z0-9]+project[^a-z0-9]+fantasy[^a-z0-9]+maiden[^a-z0-9]+wars$|touhou[^a-z0-9]+project[^a-z0-9]+fantasy[^a-z0-9]+maiden[^a-z0-9]+wars[^a-z0-9]+dream[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+stray[^a-z0-9]+dreamer[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+fantasy[^a-z0-9]+maiden[^a-z0-9]+wars[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Help Me Remember, Satori-Sama",
+            "file": "jingles/touhou project/CirnoWaifu/Help Me Remember, Satori-Sama (CirnoWaifu).ogg",
+            "regex": "(?:help[^a-z0-9]+me[^a-z0-9]+remember[^a-z0-9]+satori[^a-z0-9]+sama$|help[^a-z0-9]+me[^a-z0-9]+remember[^a-z0-9]+satori[^a-z0-9]+sama[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+help[^a-z0-9]+me[^a-z0-9]+remember[^a-z0-9]+satori[^a-z0-9]+sama$|touhou[^a-z0-9]+project[^a-z0-9]+help[^a-z0-9]+me[^a-z0-9]+remember[^a-z0-9]+satori[^a-z0-9]+sama[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "I Am Sakuya",
+            "file": "jingles/touhou project/CirnoWaifu/I Am Sakuya (CirnoWaifu).ogg",
+            "regex": "(?:(?:i|1)[^a-z0-9]+am[^a-z0-9]+sakuya$|(?:i|1)[^a-z0-9]+am[^a-z0-9]+sakuya[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+(?:i|1)[^a-z0-9]+am[^a-z0-9]+sakuya$|touhou[^a-z0-9]+project[^a-z0-9]+(?:i|1)[^a-z0-9]+am[^a-z0-9]+sakuya[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Labyrinth of Touhou 2",
+            "file": "jingles/touhou project/CirnoWaifu/Labyrinth of Touhou 2 (CirnoWaifu).ogg",
+            "regex": "(?:labyrinth[^a-z0-9]+of[^a-z0-9]+touhou[^a-z0-9]+(?:2|ii)$|labyrinth[^a-z0-9]+of[^a-z0-9]+touhou[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+labyrinth[^a-z0-9]+of[^a-z0-9]+touhou[^a-z0-9]+(?:2|ii)$|touhou[^a-z0-9]+project[^a-z0-9]+labyrinth[^a-z0-9]+of[^a-z0-9]+touhou[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Madworld",
+            "file": "jingles/touhou project/CirnoWaifu/Madworld (CirnoWaifu).ogg",
+            "regex": "(?:madworld$|madworld[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+madworld$|touhou[^a-z0-9]+project[^a-z0-9]+madworld[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Marisa of Liartop Mountain",
+            "file": "jingles/touhou project/CirnoWaifu/Marisa of Liartop Mountain (CirnoWaifu).ogg",
+            "regex": "(?:marisa[^a-z0-9]+of[^a-z0-9]+liartop[^a-z0-9]+mountain$|marisa[^a-z0-9]+of[^a-z0-9]+liartop[^a-z0-9]+mountain[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+marisa[^a-z0-9]+of[^a-z0-9]+liartop[^a-z0-9]+mountain$|touhou[^a-z0-9]+project[^a-z0-9]+marisa[^a-z0-9]+of[^a-z0-9]+liartop[^a-z0-9]+mountain[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Sanae's Sylphid Breeze",
+            "file": "jingles/touhou project/CirnoWaifu/Sanae's Sylphid Breeze (CirnoWaifu).ogg",
+            "regex": "(?:sanae[^a-z0-9]+s[^a-z0-9]+sylphid[^a-z0-9]+breeze$|sanae[^a-z0-9]+s[^a-z0-9]+sylphid[^a-z0-9]+breeze[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+sanae[^a-z0-9]+s[^a-z0-9]+sylphid[^a-z0-9]+breeze$|touhou[^a-z0-9]+project[^a-z0-9]+sanae[^a-z0-9]+s[^a-z0-9]+sylphid[^a-z0-9]+breeze[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Shanghai.EXE",
+            "file": "jingles/touhou project/CirnoWaifu/Shanghai.EXE (CirnoWaifu).ogg",
+            "regex": "(?:shanghai[^a-z0-9]+exe$|shanghai[^a-z0-9]+exe[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+shanghai[^a-z0-9]+exe$|touhou[^a-z0-9]+project[^a-z0-9]+shanghai[^a-z0-9]+exe[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Three Fairies' Hoppin' Flappin' Great Journey",
+            "file": "jingles/touhou project/CirnoWaifu/Three Fairies' Hoppin' Flappin' Great Journey (CirnoWaifu).ogg",
+            "regex": "(?:three[^a-z0-9]+fairies[^a-z0-9]+hoppin[^a-z0-9]+flappin[^a-z0-9]+great[^a-z0-9]+journey$|three[^a-z0-9]+fairies[^a-z0-9]+hoppin[^a-z0-9]+flappin[^a-z0-9]+great[^a-z0-9]+journey[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+three[^a-z0-9]+fairies[^a-z0-9]+hoppin[^a-z0-9]+flappin[^a-z0-9]+great[^a-z0-9]+journey$|touhou[^a-z0-9]+project[^a-z0-9]+three[^a-z0-9]+fairies[^a-z0-9]+hoppin[^a-z0-9]+flappin[^a-z0-9]+great[^a-z0-9]+journey[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou - Highly Responsive to Prayers",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou - Highly Responsive to Prayers (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+highly[^a-z0-9]+responsive[^a-z0-9]+to[^a-z0-9]+prayers$|touhou$|touhou[^a-z0-9]+highly[^a-z0-9]+responsive[^a-z0-9]+to[^a-z0-9]+prayers[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+highly[^a-z0-9]+responsive[^a-z0-9]+to[^a-z0-9]+prayers$|touhou[^a-z0-9]+project[^a-z0-9]+touhou$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+highly[^a-z0-9]+responsive[^a-z0-9]+to[^a-z0-9]+prayers[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou - Scarlet Curiosity",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou - Scarlet Curiosity (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+scarlet[^a-z0-9]+curiosity$|touhou$|touhou[^a-z0-9]+scarlet[^a-z0-9]+curiosity[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+scarlet[^a-z0-9]+curiosity$|touhou[^a-z0-9]+project[^a-z0-9]+touhou$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+scarlet[^a-z0-9]+curiosity[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 10 - Mountain of Faith",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 10 - Mountain of Faith (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+mountain[^a-z0-9]+of[^a-z0-9]+faith$|touhou[^a-z0-9]+(?:10|x)$|touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+mountain[^a-z0-9]+of[^a-z0-9]+faith[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+mountain[^a-z0-9]+of[^a-z0-9]+faith$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:10|x)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+mountain[^a-z0-9]+of[^a-z0-9]+faith[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 10.5 - Scarlet Weather Rhapsody",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 10.5 - Scarlet Weather Rhapsody (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+(?:5|v)[^a-z0-9]+scarlet[^a-z0-9]+weather[^a-z0-9]+rhapsody$|touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+(?:5|v)[^a-z0-9]+scarlet[^a-z0-9]+weather[^a-z0-9]+rhapsody[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+(?:5|v)[^a-z0-9]+scarlet[^a-z0-9]+weather[^a-z0-9]+rhapsody$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+(?:5|v)[^a-z0-9]+scarlet[^a-z0-9]+weather[^a-z0-9]+rhapsody[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:10|x)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 11 - Subterranean Animism",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 11 - Subterranean Animism (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:11|xi)[^a-z0-9]+subterranean[^a-z0-9]+animism$|touhou[^a-z0-9]+(?:11|xi)$|touhou[^a-z0-9]+(?:11|xi)[^a-z0-9]+subterranean[^a-z0-9]+animism[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:11|xi)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:11|xi)[^a-z0-9]+subterranean[^a-z0-9]+animism$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:11|xi)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:11|xi)[^a-z0-9]+subterranean[^a-z0-9]+animism[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:11|xi)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 12 - Undefined Fantastic Object",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 12 - Undefined Fantastic Object (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+undefined[^a-z0-9]+fantastic[^a-z0-9]+object$|touhou[^a-z0-9]+(?:12|xii)$|touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+undefined[^a-z0-9]+fantastic[^a-z0-9]+object[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+undefined[^a-z0-9]+fantastic[^a-z0-9]+object$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+undefined[^a-z0-9]+fantastic[^a-z0-9]+object[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 12.3 - Hisoutensoku",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 12.3 - Hisoutensoku (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:3|iii)[^a-z0-9]+hisoutensoku$|touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:3|iii)$|touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:3|iii)[^a-z0-9]+hisoutensoku[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:3|iii)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:3|iii)[^a-z0-9]+hisoutensoku$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:3|iii)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:3|iii)[^a-z0-9]+hisoutensoku[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:3|iii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 12.5 - Double Spoiler",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 12.5 - Double Spoiler (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:5|v)[^a-z0-9]+double[^a-z0-9]+spoiler$|touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:5|v)[^a-z0-9]+double[^a-z0-9]+spoiler[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:5|v)[^a-z0-9]+double[^a-z0-9]+spoiler$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:5|v)[^a-z0-9]+double[^a-z0-9]+spoiler[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 12.8 - Great Fairy Wars",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 12.8 - Great Fairy Wars (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:8|viii)[^a-z0-9]+great[^a-z0-9]+fairy[^a-z0-9]+wars$|touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:8|viii)$|touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:8|viii)[^a-z0-9]+great[^a-z0-9]+fairy[^a-z0-9]+wars[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:8|viii)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:8|viii)[^a-z0-9]+great[^a-z0-9]+fairy[^a-z0-9]+wars$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:8|viii)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:8|viii)[^a-z0-9]+great[^a-z0-9]+fairy[^a-z0-9]+wars[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:12|xii)[^a-z0-9]+(?:8|viii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 13 - Ten Desires",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 13 - Ten Desires (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+ten[^a-z0-9]+desires$|touhou[^a-z0-9]+(?:13|xiii)$|touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+ten[^a-z0-9]+desires[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+ten[^a-z0-9]+desires$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:13|xiii)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+ten[^a-z0-9]+desires[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 13.5 - Hopeless Masquerade",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 13.5 - Hopeless Masquerade (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+(?:5|v)[^a-z0-9]+hopeless[^a-z0-9]+masquerade$|touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+(?:5|v)[^a-z0-9]+hopeless[^a-z0-9]+masquerade[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+(?:5|v)[^a-z0-9]+hopeless[^a-z0-9]+masquerade$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+(?:5|v)[^a-z0-9]+hopeless[^a-z0-9]+masquerade[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:13|xiii)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 14 - Double Dealing Character",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 14 - Double Dealing Character (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+double[^a-z0-9]+dealing[^a-z0-9]+character$|touhou[^a-z0-9]+(?:14|xiv)$|touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+double[^a-z0-9]+dealing[^a-z0-9]+character[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+double[^a-z0-9]+dealing[^a-z0-9]+character$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:14|xiv)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+double[^a-z0-9]+dealing[^a-z0-9]+character[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 14.3 - Impossible Spell Card",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 14.3 - Impossible Spell Card (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:3|iii)[^a-z0-9]+impossible[^a-z0-9]+spell[^a-z0-9]+card$|touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:3|iii)$|touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:3|iii)[^a-z0-9]+impossible[^a-z0-9]+spell[^a-z0-9]+card[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:3|iii)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:3|iii)[^a-z0-9]+impossible[^a-z0-9]+spell[^a-z0-9]+card$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:3|iii)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:3|iii)[^a-z0-9]+impossible[^a-z0-9]+spell[^a-z0-9]+card[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:3|iii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 14.5 - Urban Legend in Limbo",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 14.5 - Urban Legend in Limbo (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:5|v)[^a-z0-9]+urban[^a-z0-9]+legend[^a-z0-9]+in[^a-z0-9]+limbo$|touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:5|v)[^a-z0-9]+urban[^a-z0-9]+legend[^a-z0-9]+in[^a-z0-9]+limbo[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:5|v)[^a-z0-9]+urban[^a-z0-9]+legend[^a-z0-9]+in[^a-z0-9]+limbo$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:5|v)[^a-z0-9]+urban[^a-z0-9]+legend[^a-z0-9]+in[^a-z0-9]+limbo[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:14|xiv)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 15 - Legacy of Lunatic Kingdom",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 15 - Legacy of Lunatic Kingdom (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+legacy[^a-z0-9]+of[^a-z0-9]+lunatic[^a-z0-9]+kingdom$|touhou[^a-z0-9]+(?:15|xv)$|touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+legacy[^a-z0-9]+of[^a-z0-9]+lunatic[^a-z0-9]+kingdom[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+legacy[^a-z0-9]+of[^a-z0-9]+lunatic[^a-z0-9]+kingdom$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:15|xv)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+legacy[^a-z0-9]+of[^a-z0-9]+lunatic[^a-z0-9]+kingdom[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 15.5 - Antinomy of Common Flowers",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 15.5 - Antinomy of Common Flowers (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+(?:5|v)[^a-z0-9]+antinomy[^a-z0-9]+of[^a-z0-9]+common[^a-z0-9]+flowers$|touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+(?:5|v)[^a-z0-9]+antinomy[^a-z0-9]+of[^a-z0-9]+common[^a-z0-9]+flowers[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+(?:5|v)[^a-z0-9]+antinomy[^a-z0-9]+of[^a-z0-9]+common[^a-z0-9]+flowers$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+(?:5|v)[^a-z0-9]+antinomy[^a-z0-9]+of[^a-z0-9]+common[^a-z0-9]+flowers[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:15|xv)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 16 - Hidden Star in Four Seasons",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 16 - Hidden Star in Four Seasons (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+hidden[^a-z0-9]+star[^a-z0-9]+in[^a-z0-9]+four[^a-z0-9]+seasons$|touhou[^a-z0-9]+(?:16|xvi)$|touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+hidden[^a-z0-9]+star[^a-z0-9]+in[^a-z0-9]+four[^a-z0-9]+seasons[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+hidden[^a-z0-9]+star[^a-z0-9]+in[^a-z0-9]+four[^a-z0-9]+seasons$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:16|xvi)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+hidden[^a-z0-9]+star[^a-z0-9]+in[^a-z0-9]+four[^a-z0-9]+seasons[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 16.5 - Violet Detector",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 16.5 - Violet Detector (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+(?:5|v)[^a-z0-9]+violet[^a-z0-9]+detector$|touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+(?:5|v)[^a-z0-9]+violet[^a-z0-9]+detector[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+(?:5|v)[^a-z0-9]+violet[^a-z0-9]+detector$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+(?:5|v)[^a-z0-9]+violet[^a-z0-9]+detector[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:16|xvi)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 17 - Wily Beast and Weakest Creature",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 17 - Wily Beast and Weakest Creature (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+wily[^a-z0-9]+beast[^a-z0-9]+and[^a-z0-9]+weakest[^a-z0-9]+creature$|touhou[^a-z0-9]+(?:17|xvii)$|touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+wily[^a-z0-9]+beast[^a-z0-9]+and[^a-z0-9]+weakest[^a-z0-9]+creature[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+wily[^a-z0-9]+beast[^a-z0-9]+and[^a-z0-9]+weakest[^a-z0-9]+creature$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:17|xvii)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+wily[^a-z0-9]+beast[^a-z0-9]+and[^a-z0-9]+weakest[^a-z0-9]+creature[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 17.5 - Sunken Fossil World",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 17.5 - Sunken Fossil World (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+(?:5|v)[^a-z0-9]+sunken[^a-z0-9]+fossil[^a-z0-9]+world$|touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+(?:5|v)[^a-z0-9]+sunken[^a-z0-9]+fossil[^a-z0-9]+world[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+(?:5|v)[^a-z0-9]+sunken[^a-z0-9]+fossil[^a-z0-9]+world$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+(?:5|v)[^a-z0-9]+sunken[^a-z0-9]+fossil[^a-z0-9]+world[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:17|xvii)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 18 - Unconnected Marketeers",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 18 - Unconnected Marketeers (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+unconnected[^a-z0-9]+marketeers$|touhou[^a-z0-9]+(?:18|xviii)$|touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+unconnected[^a-z0-9]+marketeers[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+unconnected[^a-z0-9]+marketeers$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:18|xviii)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+unconnected[^a-z0-9]+marketeers[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 18.5 - Hidden Black Market",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 18.5 - Hidden Black Market (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+(?:5|v)[^a-z0-9]+hidden[^a-z0-9]+black[^a-z0-9]+market$|touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+(?:5|v)[^a-z0-9]+hidden[^a-z0-9]+black[^a-z0-9]+market[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+(?:5|v)[^a-z0-9]+hidden[^a-z0-9]+black[^a-z0-9]+market$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+(?:5|v)[^a-z0-9]+hidden[^a-z0-9]+black[^a-z0-9]+market[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:18|xviii)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 19 - Unfinished Dream of All Living Ghost",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 19 - Unfinished Dream of All Living Ghost (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:19|xix)[^a-z0-9]+unfinished[^a-z0-9]+dream[^a-z0-9]+of[^a-z0-9]+all[^a-z0-9]+living[^a-z0-9]+ghost$|touhou[^a-z0-9]+(?:19|xix)$|touhou[^a-z0-9]+(?:19|xix)[^a-z0-9]+unfinished[^a-z0-9]+dream[^a-z0-9]+of[^a-z0-9]+all[^a-z0-9]+living[^a-z0-9]+ghost[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:19|xix)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:19|xix)[^a-z0-9]+unfinished[^a-z0-9]+dream[^a-z0-9]+of[^a-z0-9]+all[^a-z0-9]+living[^a-z0-9]+ghost$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:19|xix)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:19|xix)[^a-z0-9]+unfinished[^a-z0-9]+dream[^a-z0-9]+of[^a-z0-9]+all[^a-z0-9]+living[^a-z0-9]+ghost[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:19|xix)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 2 - Story of Eastern Wonderland",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 2 - Story of Eastern Wonderland (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:2|ii)[^a-z0-9]+story[^a-z0-9]+of[^a-z0-9]+eastern[^a-z0-9]+wonderland$|touhou[^a-z0-9]+(?:2|ii)$|touhou[^a-z0-9]+(?:2|ii)[^a-z0-9]+story[^a-z0-9]+of[^a-z0-9]+eastern[^a-z0-9]+wonderland[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:2|ii)[^a-z0-9]+story[^a-z0-9]+of[^a-z0-9]+eastern[^a-z0-9]+wonderland$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:2|ii)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:2|ii)[^a-z0-9]+story[^a-z0-9]+of[^a-z0-9]+eastern[^a-z0-9]+wonderland[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 20 - Fossilised Wonders",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 20 - Fossilised Wonders (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:20|xx)[^a-z0-9]+fossilised[^a-z0-9]+wonders$|touhou[^a-z0-9]+(?:20|xx)$|touhou[^a-z0-9]+(?:20|xx)[^a-z0-9]+fossilised[^a-z0-9]+wonders[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:20|xx)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:20|xx)[^a-z0-9]+fossilised[^a-z0-9]+wonders$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:20|xx)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:20|xx)[^a-z0-9]+fossilised[^a-z0-9]+wonders[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:20|xx)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 3 - Phantasmagoria of Dim Dream",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 3 - Phantasmagoria of Dim Dream (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:3|iii)[^a-z0-9]+phantasmagoria[^a-z0-9]+of[^a-z0-9]+dim[^a-z0-9]+dream$|touhou[^a-z0-9]+(?:3|iii)$|touhou[^a-z0-9]+(?:3|iii)[^a-z0-9]+phantasmagoria[^a-z0-9]+of[^a-z0-9]+dim[^a-z0-9]+dream[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:3|iii)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:3|iii)[^a-z0-9]+phantasmagoria[^a-z0-9]+of[^a-z0-9]+dim[^a-z0-9]+dream$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:3|iii)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:3|iii)[^a-z0-9]+phantasmagoria[^a-z0-9]+of[^a-z0-9]+dim[^a-z0-9]+dream[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:3|iii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 4 - Lotus Land Story",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 4 - Lotus Land Story (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:4|iv)[^a-z0-9]+lotus[^a-z0-9]+land[^a-z0-9]+story$|touhou[^a-z0-9]+(?:4|iv)$|touhou[^a-z0-9]+(?:4|iv)[^a-z0-9]+lotus[^a-z0-9]+land[^a-z0-9]+story[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:4|iv)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:4|iv)[^a-z0-9]+lotus[^a-z0-9]+land[^a-z0-9]+story$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:4|iv)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:4|iv)[^a-z0-9]+lotus[^a-z0-9]+land[^a-z0-9]+story[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:4|iv)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 5 - Mystic Square",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 5 - Mystic Square (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:5|v)[^a-z0-9]+mystic[^a-z0-9]+square$|touhou[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+(?:5|v)[^a-z0-9]+mystic[^a-z0-9]+square[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:5|v)[^a-z0-9]+mystic[^a-z0-9]+square$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:5|v)[^a-z0-9]+mystic[^a-z0-9]+square[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 6 - Embodiment of Scarlet Devil",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 6 - Embodiment of Scarlet Devil (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:6|vi)[^a-z0-9]+embodiment[^a-z0-9]+of[^a-z0-9]+scarlet[^a-z0-9]+devil$|touhou[^a-z0-9]+(?:6|vi)$|touhou[^a-z0-9]+(?:6|vi)[^a-z0-9]+embodiment[^a-z0-9]+of[^a-z0-9]+scarlet[^a-z0-9]+devil[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:6|vi)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:6|vi)[^a-z0-9]+embodiment[^a-z0-9]+of[^a-z0-9]+scarlet[^a-z0-9]+devil$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:6|vi)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:6|vi)[^a-z0-9]+embodiment[^a-z0-9]+of[^a-z0-9]+scarlet[^a-z0-9]+devil[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:6|vi)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 7 - Perfect Cherry Blossom",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 7 - Perfect Cherry Blossom (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+perfect[^a-z0-9]+cherry[^a-z0-9]+blossom$|touhou[^a-z0-9]+(?:7|vii)$|touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+perfect[^a-z0-9]+cherry[^a-z0-9]+blossom[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+perfect[^a-z0-9]+cherry[^a-z0-9]+blossom$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:7|vii)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+perfect[^a-z0-9]+cherry[^a-z0-9]+blossom[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 7.5 - Immaterial and Missing Power",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 7.5 - Immaterial and Missing Power (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+(?:5|v)[^a-z0-9]+immaterial[^a-z0-9]+and[^a-z0-9]+missing[^a-z0-9]+power$|touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+(?:5|v)[^a-z0-9]+immaterial[^a-z0-9]+and[^a-z0-9]+missing[^a-z0-9]+power[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+(?:5|v)[^a-z0-9]+immaterial[^a-z0-9]+and[^a-z0-9]+missing[^a-z0-9]+power$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+(?:5|v)[^a-z0-9]+immaterial[^a-z0-9]+and[^a-z0-9]+missing[^a-z0-9]+power[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:7|vii)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 8 - Imperishable Night",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 8 - Imperishable Night (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:8|viii)[^a-z0-9]+imperishable[^a-z0-9]+night$|touhou[^a-z0-9]+(?:8|viii)$|touhou[^a-z0-9]+(?:8|viii)[^a-z0-9]+imperishable[^a-z0-9]+night[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:8|viii)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:8|viii)[^a-z0-9]+imperishable[^a-z0-9]+night$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:8|viii)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:8|viii)[^a-z0-9]+imperishable[^a-z0-9]+night[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:8|viii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 9 - Phantasmagoria of Flower View",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 9 - Phantasmagoria of Flower View (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+phantasmagoria[^a-z0-9]+of[^a-z0-9]+flower[^a-z0-9]+view$|touhou[^a-z0-9]+(?:9|ix)$|touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+phantasmagoria[^a-z0-9]+of[^a-z0-9]+flower[^a-z0-9]+view[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+phantasmagoria[^a-z0-9]+of[^a-z0-9]+flower[^a-z0-9]+view$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:9|ix)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+phantasmagoria[^a-z0-9]+of[^a-z0-9]+flower[^a-z0-9]+view[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou 9.5 - Shoot the Bullet",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou 9.5 - Shoot the Bullet (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+(?:5|v)[^a-z0-9]+shoot[^a-z0-9]+the[^a-z0-9]+bullet$|touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+(?:5|v)[^a-z0-9]+shoot[^a-z0-9]+the[^a-z0-9]+bullet[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+(?:5|v)[^a-z0-9]+shoot[^a-z0-9]+the[^a-z0-9]+bullet$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+(?:5|v)$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+(?:5|v)[^a-z0-9]+shoot[^a-z0-9]+the[^a-z0-9]+bullet[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+(?:9|ix)[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou Artificial Dream in Arcadia",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou Artificial Dream in Arcadia (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+artificial[^a-z0-9]+dream[^a-z0-9]+in[^a-z0-9]+arcadia$|touhou[^a-z0-9]+artificial[^a-z0-9]+dream[^a-z0-9]+in[^a-z0-9]+arcadia[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+artificial[^a-z0-9]+dream[^a-z0-9]+in[^a-z0-9]+arcadia$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+artificial[^a-z0-9]+dream[^a-z0-9]+in[^a-z0-9]+arcadia[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou Dystopian",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou Dystopian (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+dystopian$|touhou[^a-z0-9]+dystopian[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+dystopian$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+dystopian[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou Genso Wanderer Reloaded",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou Genso Wanderer Reloaded (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+genso[^a-z0-9]+wanderer[^a-z0-9]+reloaded$|touhou[^a-z0-9]+genso[^a-z0-9]+wanderer[^a-z0-9]+reloaded[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+genso[^a-z0-9]+wanderer[^a-z0-9]+reloaded$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+genso[^a-z0-9]+wanderer[^a-z0-9]+reloaded[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou Gensoumaroku W - The Devil of Decline",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou Gensoumaroku W - The Devil of Decline (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+gensoumaroku[^a-z0-9]+w[^a-z0-9]+the[^a-z0-9]+devil[^a-z0-9]+of[^a-z0-9]+decline$|touhou[^a-z0-9]+gensoumaroku[^a-z0-9]+w$|touhou[^a-z0-9]+gensoumaroku[^a-z0-9]+w[^a-z0-9]+the[^a-z0-9]+devil[^a-z0-9]+of[^a-z0-9]+decline[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+gensoumaroku[^a-z0-9]+w[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+gensoumaroku[^a-z0-9]+w[^a-z0-9]+the[^a-z0-9]+devil[^a-z0-9]+of[^a-z0-9]+decline$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+gensoumaroku[^a-z0-9]+w$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+gensoumaroku[^a-z0-9]+w[^a-z0-9]+the[^a-z0-9]+devil[^a-z0-9]+of[^a-z0-9]+decline[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+gensoumaroku[^a-z0-9]+w[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou Hero of Ice Fairy",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou Hero of Ice Fairy (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+hero[^a-z0-9]+of[^a-z0-9]+ice[^a-z0-9]+fairy$|touhou[^a-z0-9]+hero[^a-z0-9]+of[^a-z0-9]+ice[^a-z0-9]+fairy[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+hero[^a-z0-9]+of[^a-z0-9]+ice[^a-z0-9]+fairy$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+hero[^a-z0-9]+of[^a-z0-9]+ice[^a-z0-9]+fairy[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou Lost Branch of Legend",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou Lost Branch of Legend (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+lost[^a-z0-9]+branch[^a-z0-9]+of[^a-z0-9]+legend$|touhou[^a-z0-9]+lost[^a-z0-9]+branch[^a-z0-9]+of[^a-z0-9]+legend[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+lost[^a-z0-9]+branch[^a-z0-9]+of[^a-z0-9]+legend$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+lost[^a-z0-9]+branch[^a-z0-9]+of[^a-z0-9]+legend[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou Puppet Dance Performance",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou Puppet Dance Performance (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+puppet[^a-z0-9]+dance[^a-z0-9]+performance$|touhou[^a-z0-9]+puppet[^a-z0-9]+dance[^a-z0-9]+performance[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+puppet[^a-z0-9]+dance[^a-z0-9]+performance$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+puppet[^a-z0-9]+dance[^a-z0-9]+performance[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou Puppet Play Enhanced",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou Puppet Play Enhanced (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+puppet[^a-z0-9]+play[^a-z0-9]+enhanced$|touhou[^a-z0-9]+puppet[^a-z0-9]+play[^a-z0-9]+enhanced[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+puppet[^a-z0-9]+play[^a-z0-9]+enhanced$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+puppet[^a-z0-9]+play[^a-z0-9]+enhanced[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou Puppet Play World Link Version Revised",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou Puppet Play World Link Version Revised (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+puppet[^a-z0-9]+play[^a-z0-9]+world[^a-z0-9]+link[^a-z0-9]+version[^a-z0-9]+revised$|touhou[^a-z0-9]+puppet[^a-z0-9]+play[^a-z0-9]+world[^a-z0-9]+link[^a-z0-9]+version[^a-z0-9]+revised[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+puppet[^a-z0-9]+play[^a-z0-9]+world[^a-z0-9]+link[^a-z0-9]+version[^a-z0-9]+revised$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+puppet[^a-z0-9]+play[^a-z0-9]+world[^a-z0-9]+link[^a-z0-9]+version[^a-z0-9]+revised[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou Rououmu",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou Rououmu (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+rououmu$|touhou[^a-z0-9]+rououmu[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+rououmu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+rououmu[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhou-A-Live",
+            "file": "jingles/touhou project/CirnoWaifu/Touhou-A-Live (CirnoWaifu).ogg",
+            "regex": "(?:touhou[^a-z0-9]+a[^a-z0-9]+live$|touhou[^a-z0-9]+a[^a-z0-9]+live[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+a[^a-z0-9]+live$|touhou[^a-z0-9]+project[^a-z0-9]+touhou[^a-z0-9]+a[^a-z0-9]+live[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Touhoumon Another World Version Revised",
+            "file": "jingles/touhou project/CirnoWaifu/Touhoumon Another World Version Revised (CirnoWaifu).ogg",
+            "regex": "(?:touhoumon[^a-z0-9]+another[^a-z0-9]+world[^a-z0-9]+version[^a-z0-9]+revised$|touhoumon[^a-z0-9]+another[^a-z0-9]+world[^a-z0-9]+version[^a-z0-9]+revised[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+touhoumon[^a-z0-9]+another[^a-z0-9]+world[^a-z0-9]+version[^a-z0-9]+revised$|touhou[^a-z0-9]+project[^a-z0-9]+touhoumon[^a-z0-9]+another[^a-z0-9]+world[^a-z0-9]+version[^a-z0-9]+revised[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Udongein X",
+            "file": "jingles/touhou project/CirnoWaifu/Udongein X (CirnoWaifu).ogg",
+            "regex": "(?:udongein[^a-z0-9]+(?:x|10)$|udongein[^a-z0-9]+(?:x|10)[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+udongein[^a-z0-9]+(?:x|10)$|touhou[^a-z0-9]+project[^a-z0-9]+udongein[^a-z0-9]+(?:x|10)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Yoiyami Dancers - Twilight Danmaku Dancers",
+            "file": "jingles/touhou project/CirnoWaifu/Yoiyami Dancers - Twilight Danmaku Dancers (CirnoWaifu).ogg",
+            "regex": "(?:yoiyami[^a-z0-9]+dancers[^a-z0-9]+twilight[^a-z0-9]+danmaku[^a-z0-9]+dancers$|yoiyami[^a-z0-9]+dancers$|yoiyami[^a-z0-9]+dancers[^a-z0-9]+twilight[^a-z0-9]+danmaku[^a-z0-9]+dancers[^a-z0-9]+cirnowaifu$|yoiyami[^a-z0-9]+dancers[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+yoiyami[^a-z0-9]+dancers[^a-z0-9]+twilight[^a-z0-9]+danmaku[^a-z0-9]+dancers$|touhou[^a-z0-9]+project[^a-z0-9]+yoiyami[^a-z0-9]+dancers$|touhou[^a-z0-9]+project[^a-z0-9]+yoiyami[^a-z0-9]+dancers[^a-z0-9]+twilight[^a-z0-9]+danmaku[^a-z0-9]+dancers[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+yoiyami[^a-z0-9]+dancers[^a-z0-9]+cirnowaifu$)"
+        }
+    ],
     "vb": [
         {
             "game": "3D Tetris",
