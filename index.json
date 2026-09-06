@@ -1926,6 +1926,11 @@
             "regex": "(?:fire[^a-z0-9]+emblem[^a-z0-9]+heroes$|fire[^a-z0-9]+emblem[^a-z0-9]+heroes[^a-z0-9]+felipne87r$|android[^a-z0-9]+fire[^a-z0-9]+emblem[^a-z0-9]+heroes$|android[^a-z0-9]+fire[^a-z0-9]+emblem[^a-z0-9]+heroes[^a-z0-9]+felipne87r$)"
         },
         {
+            "game": "Flutter",
+            "file": "jingles/android/BennyTheFirstHunter/Flutter (BennyTheFirstHunter).ogg",
+            "regex": "(?:flutter$|flutter[^a-z0-9]+bennythefirsthunter$|android[^a-z0-9]+flutter$|android[^a-z0-9]+flutter[^a-z0-9]+bennythefirsthunter$)"
+        },
+        {
             "game": "Friday Night Funkin'",
             "file": "jingles/android/Felipne87r/Friday Night Funkin' (Felipne87r).ogg",
             "regex": "(?:friday[^a-z0-9]+night[^a-z0-9]+funkin$|fnf$|friday[^a-z0-9]+night$|psych[^a-z0-9]+engine$|psych[^a-z0-9]+online$|psych[^a-z0-9]+engine[^a-z0-9]+online$|kade[^a-z0-9]+engine$|codename[^a-z0-9]+engine$|(?:v|5)[^a-z0-9]+slice$|vslice$|p[^a-z0-9]+slice$|pslice$|ale[^a-z0-9]+psych$|ale[^a-z0-9]+psych[^a-z0-9]+engine$|yoshi[^a-z0-9]+engine$|leather[^a-z0-9]+engine$|impostor$|imposter$|sonic[^a-z0-9]+exe$|garcello$|hazy[^a-z0-9]+river$|friday[^a-z0-9]+night[^a-z0-9]+funkin[^a-z0-9]+felipne87r$|fnf[^a-z0-9]+felipne87r$|friday[^a-z0-9]+night[^a-z0-9]+felipne87r$|psych[^a-z0-9]+engine[^a-z0-9]+felipne87r$|psych[^a-z0-9]+online[^a-z0-9]+felipne87r$|psych[^a-z0-9]+engine[^a-z0-9]+online[^a-z0-9]+felipne87r$|kade[^a-z0-9]+engine[^a-z0-9]+felipne87r$|codename[^a-z0-9]+engine[^a-z0-9]+felipne87r$|(?:v|5)[^a-z0-9]+slice[^a-z0-9]+felipne87r$|vslice[^a-z0-9]+felipne87r$|p[^a-z0-9]+slice[^a-z0-9]+felipne87r$|pslice[^a-z0-9]+felipne87r$|ale[^a-z0-9]+psych[^a-z0-9]+felipne87r$|ale[^a-z0-9]+psych[^a-z0-9]+engine[^a-z0-9]+felipne87r$|yoshi[^a-z0-9]+engine[^a-z0-9]+felipne87r$|leather[^a-z0-9]+engine[^a-z0-9]+felipne87r$|impostor[^a-z0-9]+felipne87r$|imposter[^a-z0-9]+felipne87r$|sonic[^a-z0-9]+exe[^a-z0-9]+felipne87r$|garcello[^a-z0-9]+felipne87r$|hazy[^a-z0-9]+river[^a-z0-9]+felipne87r$|android[^a-z0-9]+friday[^a-z0-9]+night[^a-z0-9]+funkin$|android[^a-z0-9]+fnf$|android[^a-z0-9]+friday[^a-z0-9]+night$|android[^a-z0-9]+psych[^a-z0-9]+engine$|android[^a-z0-9]+psych[^a-z0-9]+online$|android[^a-z0-9]+psych[^a-z0-9]+engine[^a-z0-9]+online$|android[^a-z0-9]+kade[^a-z0-9]+engine$|android[^a-z0-9]+codename[^a-z0-9]+engine$|android[^a-z0-9]+(?:v|5)[^a-z0-9]+slice$|android[^a-z0-9]+vslice$|android[^a-z0-9]+p[^a-z0-9]+slice$|android[^a-z0-9]+pslice$|android[^a-z0-9]+ale[^a-z0-9]+psych$|android[^a-z0-9]+ale[^a-z0-9]+psych[^a-z0-9]+engine$|android[^a-z0-9]+yoshi[^a-z0-9]+engine$|android[^a-z0-9]+leather[^a-z0-9]+engine$|android[^a-z0-9]+impostor$|android[^a-z0-9]+imposter$|android[^a-z0-9]+sonic[^a-z0-9]+exe$|android[^a-z0-9]+garcello$|android[^a-z0-9]+hazy[^a-z0-9]+river$|android[^a-z0-9]+friday[^a-z0-9]+night[^a-z0-9]+funkin[^a-z0-9]+felipne87r$|android[^a-z0-9]+fnf[^a-z0-9]+felipne87r$|android[^a-z0-9]+friday[^a-z0-9]+night[^a-z0-9]+felipne87r$|android[^a-z0-9]+psych[^a-z0-9]+engine[^a-z0-9]+felipne87r$|android[^a-z0-9]+psych[^a-z0-9]+online[^a-z0-9]+felipne87r$|android[^a-z0-9]+psych[^a-z0-9]+engine[^a-z0-9]+online[^a-z0-9]+felipne87r$|android[^a-z0-9]+kade[^a-z0-9]+engine[^a-z0-9]+felipne87r$|android[^a-z0-9]+codename[^a-z0-9]+engine[^a-z0-9]+felipne87r$|android[^a-z0-9]+(?:v|5)[^a-z0-9]+slice[^a-z0-9]+felipne87r$|android[^a-z0-9]+vslice[^a-z0-9]+felipne87r$|android[^a-z0-9]+p[^a-z0-9]+slice[^a-z0-9]+felipne87r$|android[^a-z0-9]+pslice[^a-z0-9]+felipne87r$|android[^a-z0-9]+ale[^a-z0-9]+psych[^a-z0-9]+felipne87r$|android[^a-z0-9]+ale[^a-z0-9]+psych[^a-z0-9]+engine[^a-z0-9]+felipne87r$|android[^a-z0-9]+yoshi[^a-z0-9]+engine[^a-z0-9]+felipne87r$|android[^a-z0-9]+leather[^a-z0-9]+engine[^a-z0-9]+felipne87r$|android[^a-z0-9]+impostor[^a-z0-9]+felipne87r$|android[^a-z0-9]+imposter[^a-z0-9]+felipne87r$|android[^a-z0-9]+sonic[^a-z0-9]+exe[^a-z0-9]+felipne87r$|android[^a-z0-9]+garcello[^a-z0-9]+felipne87r$|android[^a-z0-9]+hazy[^a-z0-9]+river[^a-z0-9]+felipne87r$)"
@@ -17849,7 +17854,13 @@
             "regex": "(?:youtube$|youtube[^a-z0-9]+sjh$|switch[^a-z0-9]+youtube$|switch[^a-z0-9]+youtube[^a-z0-9]+sjh$)"
         }
     ],
-    "touhou project": [],
+    "touhou project": [
+        {
+            "game": "Cirno! Lifts a Boulder",
+            "file": "jingles/touhou project/CirnoWaifu/Cirno! Lifts a Boulder (CirnoWaifu).ogg",
+            "regex": "(?:cirno[^a-z0-9]+lifts[^a-z0-9]+a[^a-z0-9]+boulder$|cirno[^a-z0-9]+lifts[^a-z0-9]+a[^a-z0-9]+boulder[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+cirno[^a-z0-9]+lifts[^a-z0-9]+a[^a-z0-9]+boulder$|touhou[^a-z0-9]+project[^a-z0-9]+cirno[^a-z0-9]+lifts[^a-z0-9]+a[^a-z0-9]+boulder[^a-z0-9]+cirnowaifu$)"
+        }
+    ],
     "vb": [
         {
             "game": "3D Tetris",
