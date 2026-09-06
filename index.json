@@ -2249,9 +2249,44 @@
     ],
     "dreamcast": [
         {
+            "game": "Bangai-O",
+            "file": "jingles/dreamcast/Tsuukasa-R/Bangai-O (Alt) (Tsuukasa-R).ogg",
+            "regex": "(?:bangai[^a-z0-9]+o$|bangai[^a-z0-9]+o[^a-z0-9]+alt$|bangai[^a-z0-9]+o[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dreamcast[^a-z0-9]+bangai[^a-z0-9]+o$|dreamcast[^a-z0-9]+bangai[^a-z0-9]+o[^a-z0-9]+alt$|dreamcast[^a-z0-9]+bangai[^a-z0-9]+o[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Bangai-O",
+            "file": "jingles/dreamcast/Tsuukasa-R/Bangai-O (Tsuukasa-R).ogg",
+            "regex": "(?:bangai[^a-z0-9]+o$|bangai[^a-z0-9]+o[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dreamcast[^a-z0-9]+bangai[^a-z0-9]+o$|dreamcast[^a-z0-9]+bangai[^a-z0-9]+o[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Crazy Taxi",
             "file": "jingles/dreamcast/RetroWave64/Crazy Taxi (RetroWave64).ogg",
             "regex": "(?:crazy[^a-z0-9]+taxi$|crazy[^a-z0-9]+taxi[^a-z0-9]+retrowave64$|dreamcast[^a-z0-9]+crazy[^a-z0-9]+taxi$|dreamcast[^a-z0-9]+crazy[^a-z0-9]+taxi[^a-z0-9]+retrowave64$)"
+        },
+        {
+            "game": "Dynamite Cop",
+            "file": "jingles/dreamcast/Tsuukasa-R/Dynamite Cop (Tsuukasa-R).ogg",
+            "regex": "(?:dynamite[^a-z0-9]+cop$|dynamite[^a-z0-9]+cop[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dreamcast[^a-z0-9]+dynamite[^a-z0-9]+cop$|dreamcast[^a-z0-9]+dynamite[^a-z0-9]+cop[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Evolution - The World of Sacred Device",
+            "file": "jingles/dreamcast/Tsuukasa-R/Evolution - The World of Sacred Device (Tsuukasa-R).ogg",
+            "regex": "(?:evolution[^a-z0-9]+the[^a-z0-9]+world[^a-z0-9]+of[^a-z0-9]+sacred[^a-z0-9]+device$|evolution$|evolution[^a-z0-9]+the[^a-z0-9]+world[^a-z0-9]+of[^a-z0-9]+sacred[^a-z0-9]+device[^a-z0-9]+tsuukasa[^a-z0-9]+r$|evolution[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+the[^a-z0-9]+world[^a-z0-9]+of[^a-z0-9]+sacred[^a-z0-9]+device$|dreamcast[^a-z0-9]+evolution$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+the[^a-z0-9]+world[^a-z0-9]+of[^a-z0-9]+sacred[^a-z0-9]+device[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Evolution 2 - Far Off Promise",
+            "file": "jingles/dreamcast/Tsuukasa-R/Evolution 2 - Far Off Promise (Alt 2) (Tsuukasa-R).ogg",
+            "regex": "(?:evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise$|evolution[^a-z0-9]+(?:2|ii)$|evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise[^a-z0-9]+alt[^a-z0-9]+(?:2|ii)$|evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+alt[^a-z0-9]+(?:2|ii)$|evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise[^a-z0-9]+tsuukasa[^a-z0-9]+r$|evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise[^a-z0-9]+alt[^a-z0-9]+(?:2|ii)$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+alt[^a-z0-9]+(?:2|ii)$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Evolution 2 - Far Off Promise",
+            "file": "jingles/dreamcast/Tsuukasa-R/Evolution 2 - Far Off Promise (Alt) (Tsuukasa-R).ogg",
+            "regex": "(?:evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise$|evolution[^a-z0-9]+(?:2|ii)$|evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise[^a-z0-9]+alt$|evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+alt$|evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise[^a-z0-9]+tsuukasa[^a-z0-9]+r$|evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise[^a-z0-9]+alt$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+alt$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Evolution 2 - Far Off Promise",
+            "file": "jingles/dreamcast/Tsuukasa-R/Evolution 2 - Far Off Promise (Tsuukasa-R).ogg",
+            "regex": "(?:evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise$|evolution[^a-z0-9]+(?:2|ii)$|evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise[^a-z0-9]+tsuukasa[^a-z0-9]+r$|evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+far[^a-z0-9]+off[^a-z0-9]+promise[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dreamcast[^a-z0-9]+evolution[^a-z0-9]+(?:2|ii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Illbleed",
@@ -2347,6 +2382,11 @@
             "game": "Space Channel 5 - Part 2",
             "file": "jingles/dreamcast/CirnoWaifu/Space Channel 5 - Part 2 (CirnoWaifu).ogg",
             "regex": "(?:space[^a-z0-9]+channel[^a-z0-9]+(?:5|v)[^a-z0-9]+part[^a-z0-9]+(?:2|ii)$|space[^a-z0-9]+channel[^a-z0-9]+(?:5|v)$|space[^a-z0-9]+channel[^a-z0-9]+(?:5|v)[^a-z0-9]+part[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$|space[^a-z0-9]+channel[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|dreamcast[^a-z0-9]+space[^a-z0-9]+channel[^a-z0-9]+(?:5|v)[^a-z0-9]+part[^a-z0-9]+(?:2|ii)$|dreamcast[^a-z0-9]+space[^a-z0-9]+channel[^a-z0-9]+(?:5|v)$|dreamcast[^a-z0-9]+space[^a-z0-9]+channel[^a-z0-9]+(?:5|v)[^a-z0-9]+part[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$|dreamcast[^a-z0-9]+space[^a-z0-9]+channel[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Tech Romancer",
+            "file": "jingles/dreamcast/Tsuukasa-R/Tech Romancer (Tsuukasa-R).ogg",
+            "regex": "(?:tech[^a-z0-9]+romancer$|tech[^a-z0-9]+romancer[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dreamcast[^a-z0-9]+tech[^a-z0-9]+romancer$|dreamcast[^a-z0-9]+tech[^a-z0-9]+romancer[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         }
     ],
     "flash": [
@@ -4582,9 +4622,59 @@
             "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+duelist[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+roses$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+duelist[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+roses[^a-z0-9]+v2$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+duelist[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+roses[^a-z0-9]+22sh$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+duelist[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+roses[^a-z0-9]+(?:1|i)$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+duelist[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+roses$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+duelist[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+roses[^a-z0-9]+v2$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+duelist[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+roses[^a-z0-9]+22sh$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+duelist[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+roses[^a-z0-9]+(?:1|i)$)"
         },
         {
+            "game": "Yu-Gi-Oh! 7 Trials to Glory - World Championship Tournament 2005",
+            "file": "jingles/gba/Tsuukasa-R/Yu-Gi-Oh! 7 Trials to Glory - World Championship Tournament 2005 (Tsuukasa-R).ogg",
+            "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+(?:7|vii)[^a-z0-9]+trials[^a-z0-9]+to[^a-z0-9]+glory[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+tournament[^a-z0-9]+2005$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+(?:7|vii)[^a-z0-9]+trials[^a-z0-9]+to[^a-z0-9]+glory$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+(?:7|vii)[^a-z0-9]+trials[^a-z0-9]+to[^a-z0-9]+glory[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+tournament[^a-z0-9]+2005[^a-z0-9]+tsuukasa[^a-z0-9]+r$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+(?:7|vii)[^a-z0-9]+trials[^a-z0-9]+to[^a-z0-9]+glory[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+(?:7|vii)[^a-z0-9]+trials[^a-z0-9]+to[^a-z0-9]+glory[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+tournament[^a-z0-9]+2005$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+(?:7|vii)[^a-z0-9]+trials[^a-z0-9]+to[^a-z0-9]+glory$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+(?:7|vii)[^a-z0-9]+trials[^a-z0-9]+to[^a-z0-9]+glory[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+tournament[^a-z0-9]+2005[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+(?:7|vii)[^a-z0-9]+trials[^a-z0-9]+to[^a-z0-9]+glory[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Yu-Gi-Oh! Destiny Board Traveler",
+            "file": "jingles/gba/Tsuukasa-R/Yu-Gi-Oh! Destiny Board Traveler (Tsuukasa-R).ogg",
+            "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+destiny[^a-z0-9]+board[^a-z0-9]+traveler$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+destiny[^a-z0-9]+board[^a-z0-9]+traveler[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+destiny[^a-z0-9]+board[^a-z0-9]+traveler$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+destiny[^a-z0-9]+board[^a-z0-9]+traveler[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Yu-Gi-Oh! Dungeon Dice Monsters",
+            "file": "jingles/gba/Tsuukasa-R/Yu-Gi-Oh! Dungeon Dice Monsters (Tsuukasa-R).ogg",
+            "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+dungeon[^a-z0-9]+dice[^a-z0-9]+monsters$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+dungeon[^a-z0-9]+dice[^a-z0-9]+monsters[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+dungeon[^a-z0-9]+dice[^a-z0-9]+monsters$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+dungeon[^a-z0-9]+dice[^a-z0-9]+monsters[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Yu-Gi-Oh! GX Duel Academy",
+            "file": "jingles/gba/Tsuukasa-R/Yu-Gi-Oh! GX Duel Academy (Tsuukasa-R).ogg",
+            "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+gx[^a-z0-9]+duel[^a-z0-9]+academy$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+gx[^a-z0-9]+duel[^a-z0-9]+academy[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+gx[^a-z0-9]+duel[^a-z0-9]+academy$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+gx[^a-z0-9]+duel[^a-z0-9]+academy[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Yu-Gi-Oh! Reshef of Destruction",
             "file": "jingles/gba/RetroWave64/Yu-Gi-Oh! Reshef of Destruction (RetroWave64).ogg",
             "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+reshef[^a-z0-9]+of[^a-z0-9]+destruction$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+reshef[^a-z0-9]+of[^a-z0-9]+destruction[^a-z0-9]+retrowave64$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+reshef[^a-z0-9]+of[^a-z0-9]+destruction$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+reshef[^a-z0-9]+of[^a-z0-9]+destruction[^a-z0-9]+retrowave64$)"
+        },
+        {
+            "game": "Yu-Gi-Oh! Reshef of Destruction",
+            "file": "jingles/gba/Tsuukasa-R/Yu-Gi-Oh! Reshef of Destruction (Tsuukasa-R).ogg",
+            "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+reshef[^a-z0-9]+of[^a-z0-9]+destruction$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+reshef[^a-z0-9]+of[^a-z0-9]+destruction[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+reshef[^a-z0-9]+of[^a-z0-9]+destruction$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+reshef[^a-z0-9]+of[^a-z0-9]+destruction[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Yu-Gi-Oh! The Eternal Duelist Soul",
+            "file": "jingles/gba/Tsuukasa-R/Yu-Gi-Oh! The Eternal Duelist Soul (Tsuukasa-R).ogg",
+            "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+the[^a-z0-9]+eternal[^a-z0-9]+duelist[^a-z0-9]+soul$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+the[^a-z0-9]+eternal[^a-z0-9]+duelist[^a-z0-9]+soul[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+the[^a-z0-9]+eternal[^a-z0-9]+duelist[^a-z0-9]+soul$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+the[^a-z0-9]+eternal[^a-z0-9]+duelist[^a-z0-9]+soul[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Yu-Gi-Oh! The Sacred Cards",
+            "file": "jingles/gba/Tsuukasa-R/Yu-Gi-Oh! The Sacred Cards (Tsuukasa-R).ogg",
+            "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+the[^a-z0-9]+sacred[^a-z0-9]+cards$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+the[^a-z0-9]+sacred[^a-z0-9]+cards[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+the[^a-z0-9]+sacred[^a-z0-9]+cards$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+the[^a-z0-9]+sacred[^a-z0-9]+cards[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Yu-Gi-Oh! Ultimate Masters - World Championship 2006",
+            "file": "jingles/gba/Tsuukasa-R/Yu-Gi-Oh! Ultimate Masters - World Championship 2006 (Tsuukasa-R).ogg",
+            "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+ultimate[^a-z0-9]+masters[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+2006$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+ultimate[^a-z0-9]+masters$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+ultimate[^a-z0-9]+masters[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+2006[^a-z0-9]+tsuukasa[^a-z0-9]+r$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+ultimate[^a-z0-9]+masters[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+ultimate[^a-z0-9]+masters[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+2006$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+ultimate[^a-z0-9]+masters$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+ultimate[^a-z0-9]+masters[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+2006[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+ultimate[^a-z0-9]+masters[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Yu-Gi-Oh! World Championship Tournament 2004",
+            "file": "jingles/gba/Tsuukasa-R/Yu-Gi-Oh! World Championship Tournament 2004 (Tsuukasa-R).ogg",
+            "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+tournament[^a-z0-9]+2004$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+tournament[^a-z0-9]+2004[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+tournament[^a-z0-9]+2004$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+tournament[^a-z0-9]+2004[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Yu-Gi-Oh! Worldwide Edition - Stairway to the Destined Duel",
+            "file": "jingles/gba/Tsuukasa-R/Yu-Gi-Oh! Worldwide Edition - Stairway to the Destined Duel (Tsuukasa-R).ogg",
+            "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+worldwide[^a-z0-9]+edition[^a-z0-9]+stairway[^a-z0-9]+to[^a-z0-9]+the[^a-z0-9]+destined[^a-z0-9]+duel$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+worldwide[^a-z0-9]+edition$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+worldwide[^a-z0-9]+edition[^a-z0-9]+stairway[^a-z0-9]+to[^a-z0-9]+the[^a-z0-9]+destined[^a-z0-9]+duel[^a-z0-9]+tsuukasa[^a-z0-9]+r$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+worldwide[^a-z0-9]+edition[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+worldwide[^a-z0-9]+edition[^a-z0-9]+stairway[^a-z0-9]+to[^a-z0-9]+the[^a-z0-9]+destined[^a-z0-9]+duel$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+worldwide[^a-z0-9]+edition$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+worldwide[^a-z0-9]+edition[^a-z0-9]+stairway[^a-z0-9]+to[^a-z0-9]+the[^a-z0-9]+destined[^a-z0-9]+duel[^a-z0-9]+tsuukasa[^a-z0-9]+r$|gba[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+worldwide[^a-z0-9]+edition[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         }
     ],
     "gbc": [
@@ -9124,6 +9214,11 @@
             "regex": "(?:2ship2harkinian$|majora[^a-z0-9]+s[^a-z0-9]+mask$|majora[^a-z0-9]+mask$|majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+3d$|majora[^a-z0-9]+mask[^a-z0-9]+3d$|majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+hd$|majora[^a-z0-9]+mask[^a-z0-9]+hd$|zelda[^a-z0-9]+recompiled$|2ship2harkinian[^a-z0-9]+natalie$|majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+natalie$|majora[^a-z0-9]+mask[^a-z0-9]+natalie$|majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+3d[^a-z0-9]+natalie$|majora[^a-z0-9]+mask[^a-z0-9]+3d[^a-z0-9]+natalie$|majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+hd[^a-z0-9]+natalie$|majora[^a-z0-9]+mask[^a-z0-9]+hd[^a-z0-9]+natalie$|zelda[^a-z0-9]+recompiled[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+2ship2harkinian$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+mask$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+3d$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+mask[^a-z0-9]+3d$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+hd$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+mask[^a-z0-9]+hd$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zelda[^a-z0-9]+recompiled$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+2ship2harkinian[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+mask[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+3d[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+mask[^a-z0-9]+3d[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+hd[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+mask[^a-z0-9]+hd[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zelda[^a-z0-9]+recompiled[^a-z0-9]+natalie$)"
         },
         {
+            "game": "9 Years of Shadows",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/9 Years of Shadows (Tsuukasa-R).ogg",
+            "regex": "(?:(?:9|ix)[^a-z0-9]+years[^a-z0-9]+of[^a-z0-9]+shadows$|(?:9|ix)[^a-z0-9]+years[^a-z0-9]+of[^a-z0-9]+shadows[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+(?:9|ix)[^a-z0-9]+years[^a-z0-9]+of[^a-z0-9]+shadows$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+(?:9|ix)[^a-z0-9]+years[^a-z0-9]+of[^a-z0-9]+shadows[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "A Short Hike",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/A Short Hike (BennyTheFirstHunter).ogg",
             "regex": "(?:a[^a-z0-9]+short[^a-z0-9]+hike$|a[^a-z0-9]+short[^a-z0-9]+hike[^a-z0-9]+bennythefirsthunter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+a[^a-z0-9]+short[^a-z0-9]+hike$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+a[^a-z0-9]+short[^a-z0-9]+hike[^a-z0-9]+bennythefirsthunter$)"
@@ -9137,6 +9232,11 @@
             "game": "Ace Attorrney Trilogy",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Ace Attorrney Trilogy (BennyTheFirstHunter).ogg",
             "regex": "(?:ace[^a-z0-9]+attorrney[^a-z0-9]+trilogy$|ace[^a-z0-9]+attorrney[^a-z0-9]+trilogy[^a-z0-9]+bennythefirsthunter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+ace[^a-z0-9]+attorrney[^a-z0-9]+trilogy$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+ace[^a-z0-9]+attorrney[^a-z0-9]+trilogy[^a-z0-9]+bennythefirsthunter$)"
+        },
+        {
+            "game": "Akane",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Akane (Tsuukasa-R).ogg",
+            "regex": "(?:akane$|akane[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+akane$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+akane[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Amber Isle",
@@ -9212,6 +9312,16 @@
             "game": "Atomic Exile",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Atomic Exile (BennyTheFirstHunter).ogg",
             "regex": "(?:atomic[^a-z0-9]+exile$|atomic[^a-z0-9]+exile[^a-z0-9]+bennythefirsthunter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+atomic[^a-z0-9]+exile$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+atomic[^a-z0-9]+exile[^a-z0-9]+bennythefirsthunter$)"
+        },
+        {
+            "game": "Atomicrops",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Atomicrops (Tsuukasa-R).ogg",
+            "regex": "(?:atomicrops$|atomicrops[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+atomicrops$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+atomicrops[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Bakeru",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Bakeru (Tsuukasa-R).ogg",
+            "regex": "(?:bakeru$|bakeru[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+bakeru$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+bakeru[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Bakugan Battle Brawlers",
@@ -9312,6 +9422,11 @@
             "game": "Bloodstained Ritual of the Night",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Bloodstained Ritual of the Night (BennyTheFirstHunter).ogg",
             "regex": "(?:bloodstained[^a-z0-9]+ritual[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+night$|bloodstained[^a-z0-9]+ritual[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+night[^a-z0-9]+bennythefirsthunter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+bloodstained[^a-z0-9]+ritual[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+night$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+bloodstained[^a-z0-9]+ritual[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+night[^a-z0-9]+bennythefirsthunter$)"
+        },
+        {
+            "game": "Bloomtown - A Different Story",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Bloomtown - A Different Story (Tsuukasa-R).ogg",
+            "regex": "(?:bloomtown[^a-z0-9]+a[^a-z0-9]+different[^a-z0-9]+story$|bloomtown$|bloomtown[^a-z0-9]+a[^a-z0-9]+different[^a-z0-9]+story[^a-z0-9]+tsuukasa[^a-z0-9]+r$|bloomtown[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+bloomtown[^a-z0-9]+a[^a-z0-9]+different[^a-z0-9]+story$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+bloomtown$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+bloomtown[^a-z0-9]+a[^a-z0-9]+different[^a-z0-9]+story[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+bloomtown[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Blue Prince",
@@ -9959,6 +10074,11 @@
             "regex": "(?:final[^a-z0-9]+fantasy[^a-z0-9]+(?:iv|4)$|final[^a-z0-9]+fantasy[^a-z0-9]+(?:iv|4)[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+(?:iv|4)$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+(?:iv|4)[^a-z0-9]+natalie$)"
         },
         {
+            "game": "Final Fantasy Theatrhythm - Final Bar Line",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Final Fantasy Theatrhythm - Final Bar Line (Tsuukasa-R).ogg",
+            "regex": "(?:final[^a-z0-9]+fantasy[^a-z0-9]+theatrhythm[^a-z0-9]+final[^a-z0-9]+bar[^a-z0-9]+line$|final[^a-z0-9]+fantasy[^a-z0-9]+theatrhythm$|final[^a-z0-9]+fantasy[^a-z0-9]+theatrhythm[^a-z0-9]+final[^a-z0-9]+bar[^a-z0-9]+line[^a-z0-9]+tsuukasa[^a-z0-9]+r$|final[^a-z0-9]+fantasy[^a-z0-9]+theatrhythm[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+theatrhythm[^a-z0-9]+final[^a-z0-9]+bar[^a-z0-9]+line$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+theatrhythm$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+theatrhythm[^a-z0-9]+final[^a-z0-9]+bar[^a-z0-9]+line[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+theatrhythm[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Final Fantasy Type-0",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Final Fantasy Type-0 (CirnoWaifu).ogg",
             "regex": "(?:final[^a-z0-9]+fantasy[^a-z0-9]+type[^a-z0-9]+0$|final[^a-z0-9]+fantasy[^a-z0-9]+type[^a-z0-9]+0[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+type[^a-z0-9]+0$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+type[^a-z0-9]+0[^a-z0-9]+cirnowaifu$)"
@@ -10429,6 +10549,11 @@
             "regex": "(?:house[^a-z0-9]+flipper$|house[^a-z0-9]+flipper[^a-z0-9]+rayanair$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+house[^a-z0-9]+flipper$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+house[^a-z0-9]+flipper[^a-z0-9]+rayanair$)"
         },
         {
+            "game": "Hyper Light Drifter",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Hyper Light Drifter (Tsuukasa-R).ogg",
+            "regex": "(?:hyper[^a-z0-9]+light[^a-z0-9]+drifter$|hyper[^a-z0-9]+light[^a-z0-9]+drifter[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+hyper[^a-z0-9]+light[^a-z0-9]+drifter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+hyper[^a-z0-9]+light[^a-z0-9]+drifter[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Hyperdevotion Noire",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Hyperdevotion Noire (CirnoWaifu).ogg",
             "regex": "(?:hyperdevotion[^a-z0-9]+noire$|hyperdevotion[^a-z0-9]+noire[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+hyperdevotion[^a-z0-9]+noire$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+hyperdevotion[^a-z0-9]+noire[^a-z0-9]+cirnowaifu$)"
@@ -10499,6 +10624,11 @@
             "regex": "(?:just[^a-z0-9]+dance$|just[^a-z0-9]+dance[^a-z0-9]+felipne87r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+dance$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+dance[^a-z0-9]+felipne87r$)"
         },
         {
+            "game": "Just Shapes & Beats",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Just Shapes & Beats (Tsuukasa-R).ogg",
+            "regex": "(?:just[^a-z0-9]+shapes[^a-z0-9]+beats$|just[^a-z0-9]+shapes[^a-z0-9]+beats[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+beats$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+beats[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Just Shapes And Beats",
             "file": "jingles/pc steam & multiplat/SJH/Just Shapes And Beats (V1) (SJH).ogg",
             "regex": "(?:just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats$|just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+v1$|just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+just[^a-z0-9]+shapes[^a-z0-9]+and[^a-z0-9]+beats[^a-z0-9]+sjh$)"
@@ -10522,6 +10652,16 @@
             "game": "Kingdom Hearts - Melody of Memory",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Kingdom Hearts - Melody of Memory (CirnoWaifu).ogg",
             "regex": "(?:kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory$|kingdom[^a-z0-9]+hearts$|kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory[^a-z0-9]+cirnowaifu$|kingdom[^a-z0-9]+hearts[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Kingdom Hearts - Melody of Memory",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Kingdom Hearts - Melody of Memory (Alt) (Tsuukasa-R).ogg",
+            "regex": "(?:kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory$|kingdom[^a-z0-9]+hearts$|kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory[^a-z0-9]+alt$|kingdom[^a-z0-9]+hearts[^a-z0-9]+alt$|kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory[^a-z0-9]+tsuukasa[^a-z0-9]+r$|kingdom[^a-z0-9]+hearts[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory[^a-z0-9]+alt$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+alt$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Kingdom Hearts - Melody of Memory",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Kingdom Hearts - Melody of Memory (Tsuukasa-R).ogg",
+            "regex": "(?:kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory$|kingdom[^a-z0-9]+hearts$|kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory[^a-z0-9]+tsuukasa[^a-z0-9]+r$|kingdom[^a-z0-9]+hearts[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+melody[^a-z0-9]+of[^a-z0-9]+memory[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Kingdom Hearts III",
@@ -10789,6 +10929,11 @@
             "regex": "(?:metal[^a-z0-9]+gear[^a-z0-9]+solid[^a-z0-9]+(?:5|v)[^a-z0-9]+the[^a-z0-9]+phantom[^a-z0-9]+pain$|metal[^a-z0-9]+gear[^a-z0-9]+solid[^a-z0-9]+(?:5|v)$|metal[^a-z0-9]+gear[^a-z0-9]+solid[^a-z0-9]+(?:5|v)[^a-z0-9]+the[^a-z0-9]+phantom[^a-z0-9]+pain[^a-z0-9]+cirnowaifu$|metal[^a-z0-9]+gear[^a-z0-9]+solid[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+solid[^a-z0-9]+(?:5|v)[^a-z0-9]+the[^a-z0-9]+phantom[^a-z0-9]+pain$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+solid[^a-z0-9]+(?:5|v)$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+solid[^a-z0-9]+(?:5|v)[^a-z0-9]+the[^a-z0-9]+phantom[^a-z0-9]+pain[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+solid[^a-z0-9]+(?:5|v)[^a-z0-9]+cirnowaifu$)"
         },
         {
+            "game": "Metal Slug Attack Reloaded",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Metal Slug Attack Reloaded (Tsuukasa-R).ogg",
+            "regex": "(?:metal[^a-z0-9]+slug[^a-z0-9]+attack[^a-z0-9]+reloaded$|metal[^a-z0-9]+slug[^a-z0-9]+attack[^a-z0-9]+reloaded[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+metal[^a-z0-9]+slug[^a-z0-9]+attack[^a-z0-9]+reloaded$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+metal[^a-z0-9]+slug[^a-z0-9]+attack[^a-z0-9]+reloaded[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Metal Slug Tactics",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Metal Slug Tactics (BennyTheFirstHunter).ogg",
             "regex": "(?:metal[^a-z0-9]+slug[^a-z0-9]+tactics$|metal[^a-z0-9]+slug[^a-z0-9]+tactics[^a-z0-9]+bennythefirsthunter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+metal[^a-z0-9]+slug[^a-z0-9]+tactics$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+metal[^a-z0-9]+slug[^a-z0-9]+tactics[^a-z0-9]+bennythefirsthunter$)"
@@ -10914,6 +11059,11 @@
             "regex": "(?:moonlighter$|moonlighter[^a-z0-9]+bennythefirsthunter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+moonlighter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+moonlighter[^a-z0-9]+bennythefirsthunter$)"
         },
         {
+            "game": "Mother Russia Bleeds",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Mother Russia Bleeds (Tsuukasa-R).ogg",
+            "regex": "(?:mother[^a-z0-9]+russia[^a-z0-9]+bleeds$|mother[^a-z0-9]+russia[^a-z0-9]+bleeds[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+mother[^a-z0-9]+russia[^a-z0-9]+bleeds$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+mother[^a-z0-9]+russia[^a-z0-9]+bleeds[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Mouse P.I. For Hire",
             "file": "jingles/pc steam & multiplat/RayanAIR/Mouse P.I. For Hire (RayanAIR).ogg",
             "regex": "(?:mouse[^a-z0-9]+p[^a-z0-9]+(?:i|1)[^a-z0-9]+for[^a-z0-9]+hire$|mouse[^a-z0-9]+p[^a-z0-9]+(?:i|1)[^a-z0-9]+for[^a-z0-9]+hire[^a-z0-9]+rayanair$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+mouse[^a-z0-9]+p[^a-z0-9]+(?:i|1)[^a-z0-9]+for[^a-z0-9]+hire$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+mouse[^a-z0-9]+p[^a-z0-9]+(?:i|1)[^a-z0-9]+for[^a-z0-9]+hire[^a-z0-9]+rayanair$)"
@@ -10942,6 +11092,16 @@
             "game": "Neir Automata",
             "file": "jingles/pc steam & multiplat/Natalie/Neir Automata (Natalie).ogg",
             "regex": "(?:neir[^a-z0-9]+automata$|neir[^a-z0-9]+automata[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+neir[^a-z0-9]+automata$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+neir[^a-z0-9]+automata[^a-z0-9]+natalie$)"
+        },
+        {
+            "game": "Neon Inferno",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Neon Inferno (Alt) (Tsuukasa-R).ogg",
+            "regex": "(?:neon[^a-z0-9]+inferno$|neon[^a-z0-9]+inferno[^a-z0-9]+alt$|neon[^a-z0-9]+inferno[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+neon[^a-z0-9]+inferno$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+neon[^a-z0-9]+inferno[^a-z0-9]+alt$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+neon[^a-z0-9]+inferno[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Neon Inferno",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Neon Inferno (Tsuukasa-R).ogg",
+            "regex": "(?:neon[^a-z0-9]+inferno$|neon[^a-z0-9]+inferno[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+neon[^a-z0-9]+inferno$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+neon[^a-z0-9]+inferno[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Neon White",
@@ -10992,6 +11152,21 @@
             "game": "Old School RuneScape",
             "file": "jingles/pc steam & multiplat/RayanAIR/Old School RuneScape (RayanAIR).ogg",
             "regex": "(?:old[^a-z0-9]+school[^a-z0-9]+runescape$|old[^a-z0-9]+school[^a-z0-9]+runescape[^a-z0-9]+rayanair$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+old[^a-z0-9]+school[^a-z0-9]+runescape$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+old[^a-z0-9]+school[^a-z0-9]+runescape[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "OlliOlli",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/OlliOlli (Tsuukasa-R).ogg",
+            "regex": "(?:olliolli$|olliolli[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+olliolli$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+olliolli[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "OlliOlli World",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/OlliOlli World (Tsuukasa-R).ogg",
+            "regex": "(?:olliolli[^a-z0-9]+world$|olliolli[^a-z0-9]+world[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+olliolli[^a-z0-9]+world$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+olliolli[^a-z0-9]+world[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "One Step From Eden",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/One Step From Eden (Tsuukasa-R).ogg",
+            "regex": "(?:one[^a-z0-9]+step[^a-z0-9]+from[^a-z0-9]+eden$|one[^a-z0-9]+step[^a-z0-9]+from[^a-z0-9]+eden[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+one[^a-z0-9]+step[^a-z0-9]+from[^a-z0-9]+eden$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+one[^a-z0-9]+step[^a-z0-9]+from[^a-z0-9]+eden[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Oregon Trail",
@@ -11077,6 +11252,11 @@
             "game": "Palworld",
             "file": "jingles/pc steam & multiplat/SJH/Palworld (V5) (SJH).mp3",
             "regex": "(?:palworld$|palworld[^a-z0-9]+v5$|palworld[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+palworld$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+palworld[^a-z0-9]+v5$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+palworld[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Party Hard 2",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Party Hard 2 (Tsuukasa-R).ogg",
+            "regex": "(?:party[^a-z0-9]+hard[^a-z0-9]+(?:2|ii)$|party[^a-z0-9]+hard[^a-z0-9]+(?:2|ii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+party[^a-z0-9]+hard[^a-z0-9]+(?:2|ii)$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+party[^a-z0-9]+hard[^a-z0-9]+(?:2|ii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Payday 2",
@@ -11522,6 +11702,11 @@
             "game": "Shadow Labyrinth",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Shadow Labyrinth (CirnoWaifu).ogg",
             "regex": "(?:shadow[^a-z0-9]+labyrinth$|shadow[^a-z0-9]+labyrinth[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+shadow[^a-z0-9]+labyrinth$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+shadow[^a-z0-9]+labyrinth[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Shin Chan - Me and the Professor on Summer Vacation",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Shin Chan - Me and the Professor on Summer Vacation (Tsuukasa-R).ogg",
+            "regex": "(?:shin[^a-z0-9]+chan[^a-z0-9]+me[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+professor[^a-z0-9]+on[^a-z0-9]+summer[^a-z0-9]+vacation$|shin[^a-z0-9]+chan$|shin[^a-z0-9]+chan[^a-z0-9]+me[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+professor[^a-z0-9]+on[^a-z0-9]+summer[^a-z0-9]+vacation[^a-z0-9]+tsuukasa[^a-z0-9]+r$|shin[^a-z0-9]+chan[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+shin[^a-z0-9]+chan[^a-z0-9]+me[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+professor[^a-z0-9]+on[^a-z0-9]+summer[^a-z0-9]+vacation$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+shin[^a-z0-9]+chan$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+shin[^a-z0-9]+chan[^a-z0-9]+me[^a-z0-9]+and[^a-z0-9]+the[^a-z0-9]+professor[^a-z0-9]+on[^a-z0-9]+summer[^a-z0-9]+vacation[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+shin[^a-z0-9]+chan[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Shin Megami Tensei",
@@ -12134,6 +12319,11 @@
             "regex": "(?:theme[^a-z0-9]+hospital$|theme[^a-z0-9]+hospital[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+theme[^a-z0-9]+hospital$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+theme[^a-z0-9]+hospital[^a-z0-9]+cirnowaifu$)"
         },
         {
+            "game": "Thimbleweed Park",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Thimbleweed Park (Tsuukasa-R).ogg",
+            "regex": "(?:thimbleweed[^a-z0-9]+park$|thimbleweed[^a-z0-9]+park[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+thimbleweed[^a-z0-9]+park$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+thimbleweed[^a-z0-9]+park[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "TimeSpinners",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/TimeSpinners (BennyTheFirstHunter).ogg",
             "regex": "(?:timespinners$|timespinners[^a-z0-9]+bennythefirsthunter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+timespinners$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+timespinners[^a-z0-9]+bennythefirsthunter$)"
@@ -12364,6 +12554,11 @@
             "regex": "(?:ys[^a-z0-9]+vs[^a-z0-9]+trails[^a-z0-9]+in[^a-z0-9]+the[^a-z0-9]+sky[^a-z0-9]+alternative[^a-z0-9]+saga$|ys[^a-z0-9]+vs[^a-z0-9]+trails[^a-z0-9]+in[^a-z0-9]+the[^a-z0-9]+sky[^a-z0-9]+alternative[^a-z0-9]+saga[^a-z0-9]+jalmoc$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+ys[^a-z0-9]+vs[^a-z0-9]+trails[^a-z0-9]+in[^a-z0-9]+the[^a-z0-9]+sky[^a-z0-9]+alternative[^a-z0-9]+saga$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+ys[^a-z0-9]+vs[^a-z0-9]+trails[^a-z0-9]+in[^a-z0-9]+the[^a-z0-9]+sky[^a-z0-9]+alternative[^a-z0-9]+saga[^a-z0-9]+jalmoc$)"
         },
         {
+            "game": "Ys X Nordics",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Ys X Nordics (Tsuukasa-R).ogg",
+            "regex": "(?:ys[^a-z0-9]+(?:x|10)[^a-z0-9]+nordics$|ys[^a-z0-9]+(?:x|10)[^a-z0-9]+nordics[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+ys[^a-z0-9]+(?:x|10)[^a-z0-9]+nordics$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+ys[^a-z0-9]+(?:x|10)[^a-z0-9]+nordics[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Zelda II Enchanced",
             "file": "jingles/pc steam & multiplat/flapperultra/Zelda II Enchanced (flapperultra).ogg",
             "regex": "(?:zelda[^a-z0-9]+(?:ii|2)[^a-z0-9]+enchanced$|zelda[^a-z0-9]+(?:ii|2)[^a-z0-9]+enchanced[^a-z0-9]+flapperultra$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zelda[^a-z0-9]+(?:ii|2)[^a-z0-9]+enchanced$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zelda[^a-z0-9]+(?:ii|2)[^a-z0-9]+enchanced[^a-z0-9]+flapperultra$)"
@@ -12372,6 +12567,11 @@
             "game": "Zenless Zone Zero",
             "file": "jingles/pc steam & multiplat/Fynaleth/Zenless Zone Zero (Gacha) (Fynaleth).ogg",
             "regex": "(?:zenless[^a-z0-9]+zone[^a-z0-9]+zero$|zenless[^a-z0-9]+zone[^a-z0-9]+zero[^a-z0-9]+gacha$|zenless[^a-z0-9]+zone[^a-z0-9]+zero[^a-z0-9]+fynaleth$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zenless[^a-z0-9]+zone[^a-z0-9]+zero$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zenless[^a-z0-9]+zone[^a-z0-9]+zero[^a-z0-9]+gacha$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zenless[^a-z0-9]+zone[^a-z0-9]+zero[^a-z0-9]+fynaleth$)"
+        },
+        {
+            "game": "Zombie Army 4 - Dead War",
+            "file": "jingles/pc steam & multiplat/Tsuukasa-R/Zombie Army 4 - Dead War (Tsuukasa-R).ogg",
+            "regex": "(?:zombie[^a-z0-9]+army[^a-z0-9]+(?:4|iv)[^a-z0-9]+dead[^a-z0-9]+war$|zombie[^a-z0-9]+army[^a-z0-9]+(?:4|iv)$|zombie[^a-z0-9]+army[^a-z0-9]+(?:4|iv)[^a-z0-9]+dead[^a-z0-9]+war[^a-z0-9]+tsuukasa[^a-z0-9]+r$|zombie[^a-z0-9]+army[^a-z0-9]+(?:4|iv)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zombie[^a-z0-9]+army[^a-z0-9]+(?:4|iv)[^a-z0-9]+dead[^a-z0-9]+war$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zombie[^a-z0-9]+army[^a-z0-9]+(?:4|iv)$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zombie[^a-z0-9]+army[^a-z0-9]+(?:4|iv)[^a-z0-9]+dead[^a-z0-9]+war[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zombie[^a-z0-9]+army[^a-z0-9]+(?:4|iv)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Zumas Revenge",
@@ -12767,14 +12967,29 @@
             "regex": "(?:black$|black[^a-z0-9]+brookenium$|ps2[^a-z0-9]+black$|ps2[^a-z0-9]+black[^a-z0-9]+brookenium$)"
         },
         {
+            "game": "Breath Of Fire V - Dragon Quarter",
+            "file": "jingles/ps2/Tsuukasa-R/Breath Of Fire V - Dragon Quarter (Tsuukasa-R).ogg",
+            "regex": "(?:breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:v|5)[^a-z0-9]+dragon[^a-z0-9]+quarter$|breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:v|5)$|breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:v|5)[^a-z0-9]+dragon[^a-z0-9]+quarter[^a-z0-9]+tsuukasa[^a-z0-9]+r$|breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:v|5)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|ps2[^a-z0-9]+breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:v|5)[^a-z0-9]+dragon[^a-z0-9]+quarter$|ps2[^a-z0-9]+breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:v|5)$|ps2[^a-z0-9]+breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:v|5)[^a-z0-9]+dragon[^a-z0-9]+quarter[^a-z0-9]+tsuukasa[^a-z0-9]+r$|ps2[^a-z0-9]+breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:v|5)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Bully",
             "file": "jingles/ps2/CirnoWaifu/Bully (CirnoWaifu).ogg",
             "regex": "(?:bully$|bully[^a-z0-9]+cirnowaifu$|ps2[^a-z0-9]+bully$|ps2[^a-z0-9]+bully[^a-z0-9]+cirnowaifu$)"
         },
         {
+            "game": "Burnout 3 - Takedown",
+            "file": "jingles/ps2/Tsuukasa-R/Burnout 3 - Takedown (Tsuukasa-R).ogg",
+            "regex": "(?:burnout[^a-z0-9]+(?:3|iii)[^a-z0-9]+takedown$|burnout[^a-z0-9]+(?:3|iii)$|burnout[^a-z0-9]+(?:3|iii)[^a-z0-9]+takedown[^a-z0-9]+tsuukasa[^a-z0-9]+r$|burnout[^a-z0-9]+(?:3|iii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|ps2[^a-z0-9]+burnout[^a-z0-9]+(?:3|iii)[^a-z0-9]+takedown$|ps2[^a-z0-9]+burnout[^a-z0-9]+(?:3|iii)$|ps2[^a-z0-9]+burnout[^a-z0-9]+(?:3|iii)[^a-z0-9]+takedown[^a-z0-9]+tsuukasa[^a-z0-9]+r$|ps2[^a-z0-9]+burnout[^a-z0-9]+(?:3|iii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Burnout 3 Takedown",
             "file": "jingles/ps2/RetroWave64/Burnout 3 Takedown (RetroWave64).ogg",
             "regex": "(?:burnout[^a-z0-9]+(?:3|iii)[^a-z0-9]+takedown$|burnout[^a-z0-9]+(?:3|iii)[^a-z0-9]+takedown[^a-z0-9]+retrowave64$|ps2[^a-z0-9]+burnout[^a-z0-9]+(?:3|iii)[^a-z0-9]+takedown$|ps2[^a-z0-9]+burnout[^a-z0-9]+(?:3|iii)[^a-z0-9]+takedown[^a-z0-9]+retrowave64$)"
+        },
+        {
+            "game": "Burnout Revenge",
+            "file": "jingles/ps2/Tsuukasa-R/Burnout Revenge (Tsuukasa-R).ogg",
+            "regex": "(?:burnout[^a-z0-9]+revenge$|burnout[^a-z0-9]+revenge[^a-z0-9]+tsuukasa[^a-z0-9]+r$|ps2[^a-z0-9]+burnout[^a-z0-9]+revenge$|ps2[^a-z0-9]+burnout[^a-z0-9]+revenge[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Capcom vs SNK 2",
@@ -13242,6 +13457,11 @@
             "regex": "(?:mega[^a-z0-9]+man[^a-z0-9]+x8$|mega[^a-z0-9]+man[^a-z0-9]+x8[^a-z0-9]+gracie[^a-z0-9]+failfox$|ps2[^a-z0-9]+mega[^a-z0-9]+man[^a-z0-9]+x8$|ps2[^a-z0-9]+mega[^a-z0-9]+man[^a-z0-9]+x8[^a-z0-9]+gracie[^a-z0-9]+failfox$)"
         },
         {
+            "game": "Megaman X Command Mission",
+            "file": "jingles/ps2/Tsuukasa-R/Megaman X Command Mission (Tsuukasa-R).ogg",
+            "regex": "(?:megaman[^a-z0-9]+(?:x|10)[^a-z0-9]+command[^a-z0-9]+mission$|megaman[^a-z0-9]+(?:x|10)[^a-z0-9]+command[^a-z0-9]+mission[^a-z0-9]+tsuukasa[^a-z0-9]+r$|ps2[^a-z0-9]+megaman[^a-z0-9]+(?:x|10)[^a-z0-9]+command[^a-z0-9]+mission$|ps2[^a-z0-9]+megaman[^a-z0-9]+(?:x|10)[^a-z0-9]+command[^a-z0-9]+mission[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Metal Gear & Metal Gear 2 - Solid Snake",
             "file": "jingles/ps2/Brookenium/Metal Gear & Metal Gear 2 - Solid Snake (Brookenium).ogg",
             "regex": "(?:metal[^a-z0-9]+gear[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+(?:2|ii)[^a-z0-9]+solid[^a-z0-9]+snake$|metal[^a-z0-9]+gear[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+(?:2|ii)$|metal[^a-z0-9]+gear[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+(?:2|ii)[^a-z0-9]+solid[^a-z0-9]+snake[^a-z0-9]+brookenium$|metal[^a-z0-9]+gear[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+(?:2|ii)[^a-z0-9]+brookenium$|ps2[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+(?:2|ii)[^a-z0-9]+solid[^a-z0-9]+snake$|ps2[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+(?:2|ii)$|ps2[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+(?:2|ii)[^a-z0-9]+solid[^a-z0-9]+snake[^a-z0-9]+brookenium$|ps2[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+(?:2|ii)[^a-z0-9]+brookenium$)"
@@ -13425,6 +13645,11 @@
             "game": "Rez",
             "file": "jingles/ps2/Brookenium/Rez (Brookenium).ogg",
             "regex": "(?:rez$|rez[^a-z0-9]+brookenium$|ps2[^a-z0-9]+rez$|ps2[^a-z0-9]+rez[^a-z0-9]+brookenium$)"
+        },
+        {
+            "game": "Rogue Galaxy",
+            "file": "jingles/ps2/Tsuukasa-R/Rogue Galaxy (Tsuukasa-R).ogg",
+            "regex": "(?:rogue[^a-z0-9]+galaxy$|rogue[^a-z0-9]+galaxy[^a-z0-9]+tsuukasa[^a-z0-9]+r$|ps2[^a-z0-9]+rogue[^a-z0-9]+galaxy$|ps2[^a-z0-9]+rogue[^a-z0-9]+galaxy[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Secret Agent Clank",
@@ -13672,6 +13897,11 @@
             "regex": "(?:tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)$|tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)[^a-z0-9]+brookenium$|ps2[^a-z0-9]+tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)$|ps2[^a-z0-9]+tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)[^a-z0-9]+brookenium$)"
         },
         {
+            "game": "Tony Hawks Pro Skater 3",
+            "file": "jingles/ps2/Tsuukasa-R/Tony Hawks Pro Skater 3 (Tsuukasa-R).ogg",
+            "regex": "(?:tony[^a-z0-9]+hawks[^a-z0-9]+pro[^a-z0-9]+skater[^a-z0-9]+(?:3|iii)$|tony[^a-z0-9]+hawks[^a-z0-9]+pro[^a-z0-9]+skater[^a-z0-9]+(?:3|iii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|ps2[^a-z0-9]+tony[^a-z0-9]+hawks[^a-z0-9]+pro[^a-z0-9]+skater[^a-z0-9]+(?:3|iii)$|ps2[^a-z0-9]+tony[^a-z0-9]+hawks[^a-z0-9]+pro[^a-z0-9]+skater[^a-z0-9]+(?:3|iii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Urbz",
             "file": "jingles/ps2/BennyTheFirstHunter/Urbz (BennyTheFirstHunter).ogg",
             "regex": "(?:urbz$|urbz[^a-z0-9]+bennythefirsthunter$|ps2[^a-z0-9]+urbz$|ps2[^a-z0-9]+urbz[^a-z0-9]+bennythefirsthunter$)"
@@ -13724,14 +13954,34 @@
     ],
     "psp": [
         {
+            "game": "Ape Academy",
+            "file": "jingles/psp/Tsuukasa-R/Ape Academy (Tsuukasa-R).ogg",
+            "regex": "(?:ape[^a-z0-9]+academy$|ape[^a-z0-9]+academy[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+ape[^a-z0-9]+academy$|psp[^a-z0-9]+ape[^a-z0-9]+academy[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Bakemonogatari Portable",
             "file": "jingles/psp/CirnoWaifu/Bakemonogatari Portable (CirnoWaifu).ogg",
             "regex": "(?:bakemonogatari[^a-z0-9]+portable$|bakemonogatari[^a-z0-9]+portable[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+bakemonogatari[^a-z0-9]+portable$|psp[^a-z0-9]+bakemonogatari[^a-z0-9]+portable[^a-z0-9]+cirnowaifu$)"
         },
         {
+            "game": "Beaterator",
+            "file": "jingles/psp/Tsuukasa-R/Beaterator (Tsuukasa-R).ogg",
+            "regex": "(?:beaterator$|beaterator[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+beaterator$|psp[^a-z0-9]+beaterator[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Brave Story - New Traveler",
+            "file": "jingles/psp/Tsuukasa-R/Brave Story - New Traveler (Tsuukasa-R).ogg",
+            "regex": "(?:brave[^a-z0-9]+story[^a-z0-9]+new[^a-z0-9]+traveler$|brave[^a-z0-9]+story$|brave[^a-z0-9]+story[^a-z0-9]+new[^a-z0-9]+traveler[^a-z0-9]+tsuukasa[^a-z0-9]+r$|brave[^a-z0-9]+story[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+brave[^a-z0-9]+story[^a-z0-9]+new[^a-z0-9]+traveler$|psp[^a-z0-9]+brave[^a-z0-9]+story$|psp[^a-z0-9]+brave[^a-z0-9]+story[^a-z0-9]+new[^a-z0-9]+traveler[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+brave[^a-z0-9]+story[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Burnout Legends",
             "file": "jingles/psp/Brookenium/Burnout Legends (Brookenium).ogg",
             "regex": "(?:burnout[^a-z0-9]+legends$|burnout[^a-z0-9]+legends[^a-z0-9]+brookenium$|psp[^a-z0-9]+burnout[^a-z0-9]+legends$|psp[^a-z0-9]+burnout[^a-z0-9]+legends[^a-z0-9]+brookenium$)"
+        },
+        {
+            "game": "Burnout Legends",
+            "file": "jingles/psp/Tsuukasa-R/Burnout Legends (Tsuukasa-R).ogg",
+            "regex": "(?:burnout[^a-z0-9]+legends$|burnout[^a-z0-9]+legends[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+burnout[^a-z0-9]+legends$|psp[^a-z0-9]+burnout[^a-z0-9]+legends[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Castlevania - The Dracula X Chronicles",
@@ -13764,6 +14014,16 @@
             "regex": "(?:dead[^a-z0-9]+head[^a-z0-9]+fred$|dead[^a-z0-9]+head[^a-z0-9]+fred[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+dead[^a-z0-9]+head[^a-z0-9]+fred$|psp[^a-z0-9]+dead[^a-z0-9]+head[^a-z0-9]+fred[^a-z0-9]+cirnowaifu$)"
         },
         {
+            "game": "Def Jam Fight for NY - The Takeover",
+            "file": "jingles/psp/Tsuukasa-R/Def Jam Fight for NY - The Takeover (Tsuukasa-R).ogg",
+            "regex": "(?:def[^a-z0-9]+jam[^a-z0-9]+fight[^a-z0-9]+for[^a-z0-9]+ny[^a-z0-9]+the[^a-z0-9]+takeover$|def[^a-z0-9]+jam[^a-z0-9]+fight[^a-z0-9]+for[^a-z0-9]+ny$|def[^a-z0-9]+jam[^a-z0-9]+fight[^a-z0-9]+for[^a-z0-9]+ny[^a-z0-9]+the[^a-z0-9]+takeover[^a-z0-9]+tsuukasa[^a-z0-9]+r$|def[^a-z0-9]+jam[^a-z0-9]+fight[^a-z0-9]+for[^a-z0-9]+ny[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+def[^a-z0-9]+jam[^a-z0-9]+fight[^a-z0-9]+for[^a-z0-9]+ny[^a-z0-9]+the[^a-z0-9]+takeover$|psp[^a-z0-9]+def[^a-z0-9]+jam[^a-z0-9]+fight[^a-z0-9]+for[^a-z0-9]+ny$|psp[^a-z0-9]+def[^a-z0-9]+jam[^a-z0-9]+fight[^a-z0-9]+for[^a-z0-9]+ny[^a-z0-9]+the[^a-z0-9]+takeover[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+def[^a-z0-9]+jam[^a-z0-9]+fight[^a-z0-9]+for[^a-z0-9]+ny[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Digimon Adventure",
+            "file": "jingles/psp/Tsuukasa-R/Digimon Adventure (Tsuukasa-R).ogg",
+            "regex": "(?:digimon[^a-z0-9]+adventure$|digimon[^a-z0-9]+adventure[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+digimon[^a-z0-9]+adventure$|psp[^a-z0-9]+digimon[^a-z0-9]+adventure[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Disgaea Infinite",
             "file": "jingles/psp/CirnoWaifu/Disgaea Infinite (CirnoWaifu).ogg",
             "regex": "(?:disgaea[^a-z0-9]+infinite$|disgaea[^a-z0-9]+infinite[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+disgaea[^a-z0-9]+infinite$|psp[^a-z0-9]+disgaea[^a-z0-9]+infinite[^a-z0-9]+cirnowaifu$)"
@@ -13772,6 +14032,26 @@
             "game": "DJ Max Portable - Black Square",
             "file": "jingles/psp/CirnoWaifu/DJ Max Portable - Black Square (CirnoWaifu).ogg",
             "regex": "(?:dj[^a-z0-9]+max[^a-z0-9]+portable[^a-z0-9]+black[^a-z0-9]+square$|dj[^a-z0-9]+max[^a-z0-9]+portable$|dj[^a-z0-9]+max[^a-z0-9]+portable[^a-z0-9]+black[^a-z0-9]+square[^a-z0-9]+cirnowaifu$|dj[^a-z0-9]+max[^a-z0-9]+portable[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+dj[^a-z0-9]+max[^a-z0-9]+portable[^a-z0-9]+black[^a-z0-9]+square$|psp[^a-z0-9]+dj[^a-z0-9]+max[^a-z0-9]+portable$|psp[^a-z0-9]+dj[^a-z0-9]+max[^a-z0-9]+portable[^a-z0-9]+black[^a-z0-9]+square[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+dj[^a-z0-9]+max[^a-z0-9]+portable[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "DJMax Fever",
+            "file": "jingles/psp/Tsuukasa-R/DJMax Fever (Tsuukasa-R).ogg",
+            "regex": "(?:djmax[^a-z0-9]+fever$|djmax[^a-z0-9]+fever[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+djmax[^a-z0-9]+fever$|psp[^a-z0-9]+djmax[^a-z0-9]+fever[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Dragon Quest & Final Fantasy in Itadaki Street Portable",
+            "file": "jingles/psp/Tsuukasa-R/Dragon Quest & Final Fantasy in Itadaki Street Portable (Tsuukasa-R).ogg",
+            "regex": "(?:dragon[^a-z0-9]+quest[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+in[^a-z0-9]+itadaki[^a-z0-9]+street[^a-z0-9]+portable$|dragon[^a-z0-9]+quest[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+in[^a-z0-9]+itadaki[^a-z0-9]+street[^a-z0-9]+portable[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+dragon[^a-z0-9]+quest[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+in[^a-z0-9]+itadaki[^a-z0-9]+street[^a-z0-9]+portable$|psp[^a-z0-9]+dragon[^a-z0-9]+quest[^a-z0-9]+final[^a-z0-9]+fantasy[^a-z0-9]+in[^a-z0-9]+itadaki[^a-z0-9]+street[^a-z0-9]+portable[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Dragonball Z Shin Budokai",
+            "file": "jingles/psp/Tsuukasa-R/Dragonball Z Shin Budokai (Tsuukasa-R).ogg",
+            "regex": "(?:dragonball[^a-z0-9]+z[^a-z0-9]+shin[^a-z0-9]+budokai$|dragonball[^a-z0-9]+z[^a-z0-9]+shin[^a-z0-9]+budokai[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+dragonball[^a-z0-9]+z[^a-z0-9]+shin[^a-z0-9]+budokai$|psp[^a-z0-9]+dragonball[^a-z0-9]+z[^a-z0-9]+shin[^a-z0-9]+budokai[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Everybodys Stress Buster",
+            "file": "jingles/psp/Tsuukasa-R/Everybodys Stress Buster (Tsuukasa-R).ogg",
+            "regex": "(?:everybodys[^a-z0-9]+stress[^a-z0-9]+buster$|everybodys[^a-z0-9]+stress[^a-z0-9]+buster[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+everybodys[^a-z0-9]+stress[^a-z0-9]+buster$|psp[^a-z0-9]+everybodys[^a-z0-9]+stress[^a-z0-9]+buster[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Final Fantasy - 20th Anniversary",
@@ -13792,6 +14072,11 @@
             "game": "Grand Theft Auto - Vice City Stories",
             "file": "jingles/psp/CirnoWaifu/Grand Theft Auto - Vice City Stories (CirnoWaifu).ogg",
             "regex": "(?:grand[^a-z0-9]+theft[^a-z0-9]+auto[^a-z0-9]+vice[^a-z0-9]+city[^a-z0-9]+stories$|grand[^a-z0-9]+theft[^a-z0-9]+auto$|grand[^a-z0-9]+theft[^a-z0-9]+auto[^a-z0-9]+vice[^a-z0-9]+city[^a-z0-9]+stories[^a-z0-9]+cirnowaifu$|grand[^a-z0-9]+theft[^a-z0-9]+auto[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+grand[^a-z0-9]+theft[^a-z0-9]+auto[^a-z0-9]+vice[^a-z0-9]+city[^a-z0-9]+stories$|psp[^a-z0-9]+grand[^a-z0-9]+theft[^a-z0-9]+auto$|psp[^a-z0-9]+grand[^a-z0-9]+theft[^a-z0-9]+auto[^a-z0-9]+vice[^a-z0-9]+city[^a-z0-9]+stories[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+grand[^a-z0-9]+theft[^a-z0-9]+auto[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "hack Link",
+            "file": "jingles/psp/Tsuukasa-R/hack Link (Tsuukasa-R).ogg",
+            "regex": "(?:hack[^a-z0-9]+link$|hack[^a-z0-9]+link[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+hack[^a-z0-9]+link$|psp[^a-z0-9]+hack[^a-z0-9]+link[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Half-Minute Hero",
@@ -13857,6 +14142,21 @@
             "game": "Kurohyou 2 - Ryu ga Gotoku Ashura-hen",
             "file": "jingles/psp/CirnoWaifu/Kurohyou 2 - Ryu ga Gotoku Ashura-hen (CirnoWaifu).ogg",
             "regex": "(?:kurohyou[^a-z0-9]+(?:2|ii)[^a-z0-9]+ryu[^a-z0-9]+ga[^a-z0-9]+gotoku[^a-z0-9]+ashura[^a-z0-9]+hen$|kurohyou[^a-z0-9]+(?:2|ii)$|kurohyou[^a-z0-9]+(?:2|ii)[^a-z0-9]+ryu[^a-z0-9]+ga[^a-z0-9]+gotoku[^a-z0-9]+ashura[^a-z0-9]+hen[^a-z0-9]+cirnowaifu$|kurohyou[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+kurohyou[^a-z0-9]+(?:2|ii)[^a-z0-9]+ryu[^a-z0-9]+ga[^a-z0-9]+gotoku[^a-z0-9]+ashura[^a-z0-9]+hen$|psp[^a-z0-9]+kurohyou[^a-z0-9]+(?:2|ii)$|psp[^a-z0-9]+kurohyou[^a-z0-9]+(?:2|ii)[^a-z0-9]+ryu[^a-z0-9]+ga[^a-z0-9]+gotoku[^a-z0-9]+ashura[^a-z0-9]+hen[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+kurohyou[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Kurohyou 2 Ryu ga Gotoku Asurahen",
+            "file": "jingles/psp/Tsuukasa-R/Kurohyou 2 Ryu ga Gotoku Asurahen (Tsuukasa-R).ogg",
+            "regex": "(?:kurohyou[^a-z0-9]+(?:2|ii)[^a-z0-9]+ryu[^a-z0-9]+ga[^a-z0-9]+gotoku[^a-z0-9]+asurahen$|kurohyou[^a-z0-9]+(?:2|ii)[^a-z0-9]+ryu[^a-z0-9]+ga[^a-z0-9]+gotoku[^a-z0-9]+asurahen[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+kurohyou[^a-z0-9]+(?:2|ii)[^a-z0-9]+ryu[^a-z0-9]+ga[^a-z0-9]+gotoku[^a-z0-9]+asurahen$|psp[^a-z0-9]+kurohyou[^a-z0-9]+(?:2|ii)[^a-z0-9]+ryu[^a-z0-9]+ga[^a-z0-9]+gotoku[^a-z0-9]+asurahen[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Kurohyou Ryu ga Gotoku Shinsho",
+            "file": "jingles/psp/Tsuukasa-R/Kurohyou Ryu ga Gotoku Shinsho (Tsuukasa-R).ogg",
+            "regex": "(?:kurohyou[^a-z0-9]+ryu[^a-z0-9]+ga[^a-z0-9]+gotoku[^a-z0-9]+shinsho$|kurohyou[^a-z0-9]+ryu[^a-z0-9]+ga[^a-z0-9]+gotoku[^a-z0-9]+shinsho[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+kurohyou[^a-z0-9]+ryu[^a-z0-9]+ga[^a-z0-9]+gotoku[^a-z0-9]+shinsho$|psp[^a-z0-9]+kurohyou[^a-z0-9]+ryu[^a-z0-9]+ga[^a-z0-9]+gotoku[^a-z0-9]+shinsho[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Last Ranker",
+            "file": "jingles/psp/Tsuukasa-R/Last Ranker (Tsuukasa-R).ogg",
+            "regex": "(?:last[^a-z0-9]+ranker$|last[^a-z0-9]+ranker[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+last[^a-z0-9]+ranker$|psp[^a-z0-9]+last[^a-z0-9]+ranker[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "LittleBigPlanet PSP",
@@ -13979,6 +14279,21 @@
             "regex": "(?:midnight[^a-z0-9]+club[^a-z0-9]+(?:3|iii)[^a-z0-9]+dub[^a-z0-9]+edition$|midnight[^a-z0-9]+club[^a-z0-9]+(?:3|iii)$|midnight[^a-z0-9]+club[^a-z0-9]+(?:3|iii)[^a-z0-9]+dub[^a-z0-9]+edition[^a-z0-9]+brookenium$|midnight[^a-z0-9]+club[^a-z0-9]+(?:3|iii)[^a-z0-9]+brookenium$|psp[^a-z0-9]+midnight[^a-z0-9]+club[^a-z0-9]+(?:3|iii)[^a-z0-9]+dub[^a-z0-9]+edition$|psp[^a-z0-9]+midnight[^a-z0-9]+club[^a-z0-9]+(?:3|iii)$|psp[^a-z0-9]+midnight[^a-z0-9]+club[^a-z0-9]+(?:3|iii)[^a-z0-9]+dub[^a-z0-9]+edition[^a-z0-9]+brookenium$|psp[^a-z0-9]+midnight[^a-z0-9]+club[^a-z0-9]+(?:3|iii)[^a-z0-9]+brookenium$)"
         },
         {
+            "game": "NBA Street Showdown",
+            "file": "jingles/psp/Tsuukasa-R/NBA Street Showdown (Tsuukasa-R).ogg",
+            "regex": "(?:nba[^a-z0-9]+street[^a-z0-9]+showdown$|nba[^a-z0-9]+street[^a-z0-9]+showdown[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+nba[^a-z0-9]+street[^a-z0-9]+showdown$|psp[^a-z0-9]+nba[^a-z0-9]+street[^a-z0-9]+showdown[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Need for Speed Most Wanted 5-1-0",
+            "file": "jingles/psp/Tsuukasa-R/Need for Speed Most Wanted 5-1-0 (Tsuukasa-R).ogg",
+            "regex": "(?:need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted[^a-z0-9]+(?:5|v)[^a-z0-9]+(?:1|i)[^a-z0-9]+0$|need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted[^a-z0-9]+(?:5|v)[^a-z0-9]+(?:1|i)[^a-z0-9]+0[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted[^a-z0-9]+(?:5|v)[^a-z0-9]+(?:1|i)[^a-z0-9]+0$|psp[^a-z0-9]+need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted[^a-z0-9]+(?:5|v)[^a-z0-9]+(?:1|i)[^a-z0-9]+0[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "One Piece - Romance Dawn",
+            "file": "jingles/psp/Tsuukasa-R/One Piece - Romance Dawn (Tsuukasa-R).ogg",
+            "regex": "(?:one[^a-z0-9]+piece[^a-z0-9]+romance[^a-z0-9]+dawn$|one[^a-z0-9]+piece$|one[^a-z0-9]+piece[^a-z0-9]+romance[^a-z0-9]+dawn[^a-z0-9]+tsuukasa[^a-z0-9]+r$|one[^a-z0-9]+piece[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+one[^a-z0-9]+piece[^a-z0-9]+romance[^a-z0-9]+dawn$|psp[^a-z0-9]+one[^a-z0-9]+piece$|psp[^a-z0-9]+one[^a-z0-9]+piece[^a-z0-9]+romance[^a-z0-9]+dawn[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+one[^a-z0-9]+piece[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Parappa The Rapper",
             "file": "jingles/psp/somecallmesean/Parappa The Rapper (somecallmesean).ogg",
             "regex": "(?:parappa[^a-z0-9]+the[^a-z0-9]+rapper$|parappa[^a-z0-9]+the[^a-z0-9]+rapper[^a-z0-9]+somecallmesean$|psp[^a-z0-9]+parappa[^a-z0-9]+the[^a-z0-9]+rapper$|psp[^a-z0-9]+parappa[^a-z0-9]+the[^a-z0-9]+rapper[^a-z0-9]+somecallmesean$)"
@@ -14032,6 +14347,11 @@
             "game": "Phantom Brave - The Hermuda Triangle",
             "file": "jingles/psp/CirnoWaifu/Phantom Brave - The Hermuda Triangle (CirnoWaifu).ogg",
             "regex": "(?:phantom[^a-z0-9]+brave[^a-z0-9]+the[^a-z0-9]+hermuda[^a-z0-9]+triangle$|phantom[^a-z0-9]+brave$|phantom[^a-z0-9]+brave[^a-z0-9]+the[^a-z0-9]+hermuda[^a-z0-9]+triangle[^a-z0-9]+cirnowaifu$|phantom[^a-z0-9]+brave[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+phantom[^a-z0-9]+brave[^a-z0-9]+the[^a-z0-9]+hermuda[^a-z0-9]+triangle$|psp[^a-z0-9]+phantom[^a-z0-9]+brave$|psp[^a-z0-9]+phantom[^a-z0-9]+brave[^a-z0-9]+the[^a-z0-9]+hermuda[^a-z0-9]+triangle[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+phantom[^a-z0-9]+brave[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Powerstone Collection",
+            "file": "jingles/psp/Tsuukasa-R/Powerstone Collection (Tsuukasa-R).ogg",
+            "regex": "(?:powerstone[^a-z0-9]+collection$|powerstone[^a-z0-9]+collection[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+powerstone[^a-z0-9]+collection$|psp[^a-z0-9]+powerstone[^a-z0-9]+collection[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Prinny - Can I Really Be the Hero",
@@ -14109,6 +14429,11 @@
             "regex": "(?:tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)[^a-z0-9]+remix$|tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)[^a-z0-9]+remix[^a-z0-9]+brookenium$|psp[^a-z0-9]+tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)[^a-z0-9]+remix$|psp[^a-z0-9]+tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+underground[^a-z0-9]+(?:2|ii)[^a-z0-9]+remix[^a-z0-9]+brookenium$)"
         },
         {
+            "game": "Ys Vs. Sora No Kiseki Alternative Saga",
+            "file": "jingles/psp/Tsuukasa-R/Ys Vs. Sora No Kiseki Alternative Saga (Tsuukasa-R).ogg",
+            "regex": "(?:ys[^a-z0-9]+vs[^a-z0-9]+sora[^a-z0-9]+no[^a-z0-9]+kiseki[^a-z0-9]+alternative[^a-z0-9]+saga$|ys[^a-z0-9]+vs[^a-z0-9]+sora[^a-z0-9]+no[^a-z0-9]+kiseki[^a-z0-9]+alternative[^a-z0-9]+saga[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psp[^a-z0-9]+ys[^a-z0-9]+vs[^a-z0-9]+sora[^a-z0-9]+no[^a-z0-9]+kiseki[^a-z0-9]+alternative[^a-z0-9]+saga$|psp[^a-z0-9]+ys[^a-z0-9]+vs[^a-z0-9]+sora[^a-z0-9]+no[^a-z0-9]+kiseki[^a-z0-9]+alternative[^a-z0-9]+saga[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Yu-Gi-Oh ARC-V Tag Force Special",
             "file": "jingles/psp/CirnoWaifu/Yu-Gi-Oh ARC-V Tag Force Special (CirnoWaifu).ogg",
             "regex": "(?:yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+arc[^a-z0-9]+(?:v|5)[^a-z0-9]+tag[^a-z0-9]+force[^a-z0-9]+special$|yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+arc[^a-z0-9]+(?:v|5)[^a-z0-9]+tag[^a-z0-9]+force[^a-z0-9]+special[^a-z0-9]+cirnowaifu$|psp[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+arc[^a-z0-9]+(?:v|5)[^a-z0-9]+tag[^a-z0-9]+force[^a-z0-9]+special$|psp[^a-z0-9]+yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+arc[^a-z0-9]+(?:v|5)[^a-z0-9]+tag[^a-z0-9]+force[^a-z0-9]+special[^a-z0-9]+cirnowaifu$)"
@@ -14131,19 +14456,29 @@
     ],
     "psv": [
         {
+            "game": "2013 Infected Wars",
+            "file": "jingles/psv/Tsuukasa-R/2013 Infected Wars (Tsuukasa-R).ogg",
+            "regex": "(?:2013[^a-z0-9]+infected[^a-z0-9]+wars$|2013[^a-z0-9]+infected[^a-z0-9]+wars[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+2013[^a-z0-9]+infected[^a-z0-9]+wars$|psv[^a-z0-9]+2013[^a-z0-9]+infected[^a-z0-9]+wars[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Angry Birds Star Wars",
             "file": "jingles/psv/Tsuukasa-R/Angry Birds Star Wars (Tsuukasa-R).ogg",
             "regex": "(?:angry[^a-z0-9]+birds[^a-z0-9]+star[^a-z0-9]+wars$|angry[^a-z0-9]+birds[^a-z0-9]+star[^a-z0-9]+wars[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+star[^a-z0-9]+wars$|psv[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+star[^a-z0-9]+wars[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
-            "game": "Angry Birds Trilohy",
-            "file": "jingles/psv/Tsuukasa-R/Angry Birds Trilohy (Tsuukasa-R).ogg",
-            "regex": "(?:angry[^a-z0-9]+birds[^a-z0-9]+trilohy$|angry[^a-z0-9]+birds[^a-z0-9]+trilohy[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+trilohy$|psv[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+trilohy[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+            "game": "Angry Birds Trilogy",
+            "file": "jingles/psv/Tsuukasa-R/Angry Birds Trilogy (Tsuukasa-R).ogg",
+            "regex": "(?:angry[^a-z0-9]+birds[^a-z0-9]+trilogy$|angry[^a-z0-9]+birds[^a-z0-9]+trilogy[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+trilogy$|psv[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+trilogy[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Asphalt Injection",
             "file": "jingles/psv/Tsuukasa-R/Asphalt Injection (Tsuukasa-R).ogg",
             "regex": "(?:asphalt[^a-z0-9]+injection$|asphalt[^a-z0-9]+injection[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+asphalt[^a-z0-9]+injection$|psv[^a-z0-9]+asphalt[^a-z0-9]+injection[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Assassin's Creed III - Liberation",
+            "file": "jingles/psv/Tsuukasa-R/Assassin's Creed III - Liberation (Tsuukasa-R).ogg",
+            "regex": "(?:assassin[^a-z0-9]+s[^a-z0-9]+creed[^a-z0-9]+(?:iii|3)[^a-z0-9]+liberation$|assassin[^a-z0-9]+s[^a-z0-9]+creed[^a-z0-9]+(?:iii|3)$|assassin[^a-z0-9]+s[^a-z0-9]+creed[^a-z0-9]+(?:iii|3)[^a-z0-9]+liberation[^a-z0-9]+tsuukasa[^a-z0-9]+r$|assassin[^a-z0-9]+s[^a-z0-9]+creed[^a-z0-9]+(?:iii|3)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+assassin[^a-z0-9]+s[^a-z0-9]+creed[^a-z0-9]+(?:iii|3)[^a-z0-9]+liberation$|psv[^a-z0-9]+assassin[^a-z0-9]+s[^a-z0-9]+creed[^a-z0-9]+(?:iii|3)$|psv[^a-z0-9]+assassin[^a-z0-9]+s[^a-z0-9]+creed[^a-z0-9]+(?:iii|3)[^a-z0-9]+liberation[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+assassin[^a-z0-9]+s[^a-z0-9]+creed[^a-z0-9]+(?:iii|3)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Bentley's Hackpack",
@@ -14156,9 +14491,19 @@
             "regex": "(?:borderlands[^a-z0-9]+(?:2|ii)$|borderlands[^a-z0-9]+(?:2|ii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+borderlands[^a-z0-9]+(?:2|ii)$|psv[^a-z0-9]+borderlands[^a-z0-9]+(?:2|ii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
+            "game": "Catherine - Full Body",
+            "file": "jingles/psv/Tsuukasa-R/Catherine - Full Body (Tsuukasa-R).ogg",
+            "regex": "(?:catherine[^a-z0-9]+full[^a-z0-9]+body$|catherine$|catherine[^a-z0-9]+full[^a-z0-9]+body[^a-z0-9]+tsuukasa[^a-z0-9]+r$|catherine[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+catherine[^a-z0-9]+full[^a-z0-9]+body$|psv[^a-z0-9]+catherine$|psv[^a-z0-9]+catherine[^a-z0-9]+full[^a-z0-9]+body[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+catherine[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Chaos Rings III",
             "file": "jingles/psv/Tsuukasa-R/Chaos Rings III (Tsuukasa-R).ogg",
             "regex": "(?:chaos[^a-z0-9]+rings[^a-z0-9]+(?:iii|3)$|chaos[^a-z0-9]+rings[^a-z0-9]+(?:iii|3)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+chaos[^a-z0-9]+rings[^a-z0-9]+(?:iii|3)$|psv[^a-z0-9]+chaos[^a-z0-9]+rings[^a-z0-9]+(?:iii|3)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Cosmic Star Heroine",
+            "file": "jingles/psv/Tsuukasa-R/Cosmic Star Heroine (Tsuukasa-R).ogg",
+            "regex": "(?:cosmic[^a-z0-9]+star[^a-z0-9]+heroine$|cosmic[^a-z0-9]+star[^a-z0-9]+heroine[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+cosmic[^a-z0-9]+star[^a-z0-9]+heroine$|psv[^a-z0-9]+cosmic[^a-z0-9]+star[^a-z0-9]+heroine[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Crazy Market",
@@ -14191,6 +14536,16 @@
             "regex": "(?:dead[^a-z0-9]+nation$|dead[^a-z0-9]+nation[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+dead[^a-z0-9]+nation$|psv[^a-z0-9]+dead[^a-z0-9]+nation[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
+            "game": "Dead or Alive 5 Plus",
+            "file": "jingles/psv/Tsuukasa-R/Dead or Alive 5 Plus (Tsuukasa-R).ogg",
+            "regex": "(?:dead[^a-z0-9]+or[^a-z0-9]+alive[^a-z0-9]+(?:5|v)[^a-z0-9]+plus$|dead[^a-z0-9]+or[^a-z0-9]+alive[^a-z0-9]+(?:5|v)[^a-z0-9]+plus[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+dead[^a-z0-9]+or[^a-z0-9]+alive[^a-z0-9]+(?:5|v)[^a-z0-9]+plus$|psv[^a-z0-9]+dead[^a-z0-9]+or[^a-z0-9]+alive[^a-z0-9]+(?:5|v)[^a-z0-9]+plus[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Dead or Alive Xtreme 3 - Venus",
+            "file": "jingles/psv/Tsuukasa-R/Dead or Alive Xtreme 3 - Venus (Tsuukasa-R).ogg",
+            "regex": "(?:dead[^a-z0-9]+or[^a-z0-9]+alive[^a-z0-9]+xtreme[^a-z0-9]+(?:3|iii)[^a-z0-9]+venus$|dead[^a-z0-9]+or[^a-z0-9]+alive[^a-z0-9]+xtreme[^a-z0-9]+(?:3|iii)$|dead[^a-z0-9]+or[^a-z0-9]+alive[^a-z0-9]+xtreme[^a-z0-9]+(?:3|iii)[^a-z0-9]+venus[^a-z0-9]+tsuukasa[^a-z0-9]+r$|dead[^a-z0-9]+or[^a-z0-9]+alive[^a-z0-9]+xtreme[^a-z0-9]+(?:3|iii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+dead[^a-z0-9]+or[^a-z0-9]+alive[^a-z0-9]+xtreme[^a-z0-9]+(?:3|iii)[^a-z0-9]+venus$|psv[^a-z0-9]+dead[^a-z0-9]+or[^a-z0-9]+alive[^a-z0-9]+xtreme[^a-z0-9]+(?:3|iii)$|psv[^a-z0-9]+dead[^a-z0-9]+or[^a-z0-9]+alive[^a-z0-9]+xtreme[^a-z0-9]+(?:3|iii)[^a-z0-9]+venus[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+dead[^a-z0-9]+or[^a-z0-9]+alive[^a-z0-9]+xtreme[^a-z0-9]+(?:3|iii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Deemo - The Last Recital",
             "file": "jingles/psv/Tsuukasa-R/Deemo - The Last Recital (Tsuukasa-R).ogg",
             "regex": "(?:deemo[^a-z0-9]+the[^a-z0-9]+last[^a-z0-9]+recital$|deemo$|deemo[^a-z0-9]+the[^a-z0-9]+last[^a-z0-9]+recital[^a-z0-9]+tsuukasa[^a-z0-9]+r$|deemo[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+deemo[^a-z0-9]+the[^a-z0-9]+last[^a-z0-9]+recital$|psv[^a-z0-9]+deemo$|psv[^a-z0-9]+deemo[^a-z0-9]+the[^a-z0-9]+last[^a-z0-9]+recital[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+deemo[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
@@ -14199,6 +14554,16 @@
             "game": "Dex",
             "file": "jingles/psv/Tsuukasa-R/Dex (Tsuukasa-R).ogg",
             "regex": "(?:dex$|dex[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+dex$|psv[^a-z0-9]+dex[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Digimon Story Cyber Sleuth",
+            "file": "jingles/psv/Tsuukasa-R/Digimon Story Cyber Sleuth (Tsuukasa-R).ogg",
+            "regex": "(?:digimon[^a-z0-9]+story[^a-z0-9]+cyber[^a-z0-9]+sleuth$|digimon[^a-z0-9]+story[^a-z0-9]+cyber[^a-z0-9]+sleuth[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+digimon[^a-z0-9]+story[^a-z0-9]+cyber[^a-z0-9]+sleuth$|psv[^a-z0-9]+digimon[^a-z0-9]+story[^a-z0-9]+cyber[^a-z0-9]+sleuth[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Digimon Story Cyber Sleuth - Hackers Memory",
+            "file": "jingles/psv/Tsuukasa-R/Digimon Story Cyber Sleuth - Hackers Memory (Tsuukasa-R).ogg",
+            "regex": "(?:digimon[^a-z0-9]+story[^a-z0-9]+cyber[^a-z0-9]+sleuth[^a-z0-9]+hackers[^a-z0-9]+memory$|digimon[^a-z0-9]+story[^a-z0-9]+cyber[^a-z0-9]+sleuth$|digimon[^a-z0-9]+story[^a-z0-9]+cyber[^a-z0-9]+sleuth[^a-z0-9]+hackers[^a-z0-9]+memory[^a-z0-9]+tsuukasa[^a-z0-9]+r$|digimon[^a-z0-9]+story[^a-z0-9]+cyber[^a-z0-9]+sleuth[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+digimon[^a-z0-9]+story[^a-z0-9]+cyber[^a-z0-9]+sleuth[^a-z0-9]+hackers[^a-z0-9]+memory$|psv[^a-z0-9]+digimon[^a-z0-9]+story[^a-z0-9]+cyber[^a-z0-9]+sleuth$|psv[^a-z0-9]+digimon[^a-z0-9]+story[^a-z0-9]+cyber[^a-z0-9]+sleuth[^a-z0-9]+hackers[^a-z0-9]+memory[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+digimon[^a-z0-9]+story[^a-z0-9]+cyber[^a-z0-9]+sleuth[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Disgaea - Afternoon of Darkness",
@@ -14251,6 +14616,11 @@
             "regex": "(?:dragon[^a-z0-9]+s[^a-z0-9]+crown$|dragon[^a-z0-9]+s[^a-z0-9]+crown[^a-z0-9]+brookenium$|psv[^a-z0-9]+dragon[^a-z0-9]+s[^a-z0-9]+crown$|psv[^a-z0-9]+dragon[^a-z0-9]+s[^a-z0-9]+crown[^a-z0-9]+brookenium$)"
         },
         {
+            "game": "Freedom Wars",
+            "file": "jingles/psv/Tsuukasa-R/Freedom Wars (Tsuukasa-R).ogg",
+            "regex": "(?:freedom[^a-z0-9]+wars$|freedom[^a-z0-9]+wars[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+freedom[^a-z0-9]+wars$|psv[^a-z0-9]+freedom[^a-z0-9]+wars[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Frobisher Says!",
             "file": "jingles/psv/Tsuukasa-R/Frobisher Says! (Tsuukasa-R).ogg",
             "regex": "(?:frobisher[^a-z0-9]+says$|frobisher[^a-z0-9]+says[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+frobisher[^a-z0-9]+says$|psv[^a-z0-9]+frobisher[^a-z0-9]+says[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
@@ -14269,6 +14639,11 @@
             "game": "Grim Fandango",
             "file": "jingles/psv/Brookenium/Grim Fandango (Brookenium).ogg",
             "regex": "(?:grim[^a-z0-9]+fandango$|grim[^a-z0-9]+fandango[^a-z0-9]+brookenium$|psv[^a-z0-9]+grim[^a-z0-9]+fandango$|psv[^a-z0-9]+grim[^a-z0-9]+fandango[^a-z0-9]+brookenium$)"
+        },
+        {
+            "game": "Guacamelee!",
+            "file": "jingles/psv/Tsuukasa-R/Guacamelee! (Tsuukasa-R).ogg",
+            "regex": "(?:guacamelee$|guacamelee[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+guacamelee$|psv[^a-z0-9]+guacamelee[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Hatsune Miku Project Diva F",
@@ -14296,24 +14671,19 @@
             "regex": "(?:hyperdimension[^a-z0-9]+neptunia[^a-z0-9]+producing[^a-z0-9]+perfection$|hyperdimension[^a-z0-9]+neptunia$|hyperdimension[^a-z0-9]+neptunia[^a-z0-9]+producing[^a-z0-9]+perfection[^a-z0-9]+cirnowaifu$|hyperdimension[^a-z0-9]+neptunia[^a-z0-9]+cirnowaifu$|psv[^a-z0-9]+hyperdimension[^a-z0-9]+neptunia[^a-z0-9]+producing[^a-z0-9]+perfection$|psv[^a-z0-9]+hyperdimension[^a-z0-9]+neptunia$|psv[^a-z0-9]+hyperdimension[^a-z0-9]+neptunia[^a-z0-9]+producing[^a-z0-9]+perfection[^a-z0-9]+cirnowaifu$|psv[^a-z0-9]+hyperdimension[^a-z0-9]+neptunia[^a-z0-9]+cirnowaifu$)"
         },
         {
-            "game": "Iavt Colorful",
-            "file": "jingles/psv/Tsuukasa-R/Iavt Colorful (Tsuukasa-R).ogg",
+            "game": "IAVT Colorful",
+            "file": "jingles/psv/Tsuukasa-R/IAVT Colorful (Tsuukasa-R).ogg",
             "regex": "(?:iavt[^a-z0-9]+colorful$|iavt[^a-z0-9]+colorful[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+iavt[^a-z0-9]+colorful$|psv[^a-z0-9]+iavt[^a-z0-9]+colorful[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
-            "game": "Littlebigplanet Ps Vita",
-            "file": "jingles/psv/Tsuukasa-R/Littlebigplanet Ps Vita (Tsuukasa-R).ogg",
-            "regex": "(?:littlebigplanet[^a-z0-9]+ps[^a-z0-9]+vita$|littlebigplanet[^a-z0-9]+ps[^a-z0-9]+vita[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+littlebigplanet[^a-z0-9]+ps[^a-z0-9]+vita$|psv[^a-z0-9]+littlebigplanet[^a-z0-9]+ps[^a-z0-9]+vita[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+            "game": "LittleBigPlanet PSVita",
+            "file": "jingles/psv/Tsuukasa-R/LittleBigPlanet PSVita (Tsuukasa-R).ogg",
+            "regex": "(?:littlebigplanet[^a-z0-9]+psvita$|littlebigplanet[^a-z0-9]+psvita[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+littlebigplanet[^a-z0-9]+psvita$|psv[^a-z0-9]+littlebigplanet[^a-z0-9]+psvita[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Metal Gear Solid HD Collection",
             "file": "jingles/psv/Tsuukasa-R/Metal Gear Solid HD Collection (Tsuukasa-R).ogg",
             "regex": "(?:metal[^a-z0-9]+gear[^a-z0-9]+solid[^a-z0-9]+hd[^a-z0-9]+collection$|metal[^a-z0-9]+gear[^a-z0-9]+solid[^a-z0-9]+hd[^a-z0-9]+collection[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+solid[^a-z0-9]+hd[^a-z0-9]+collection$|psv[^a-z0-9]+metal[^a-z0-9]+gear[^a-z0-9]+solid[^a-z0-9]+hd[^a-z0-9]+collection[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
-        },
-        {
-            "game": "Michael Jackson - The Expirience",
-            "file": "jingles/psv/Tsuukasa-R/Michael Jackson - The Expirience (Tsuukasa-R).ogg",
-            "regex": "(?:michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+expirience$|michael[^a-z0-9]+jackson$|michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+expirience[^a-z0-9]+tsuukasa[^a-z0-9]+r$|michael[^a-z0-9]+jackson[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+expirience$|psv[^a-z0-9]+michael[^a-z0-9]+jackson$|psv[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+expirience[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Mortal Kombat 9",
@@ -14331,9 +14701,9 @@
             "regex": "(?:ninja[^a-z0-9]+gaiden[^a-z0-9]+sigma[^a-z0-9]+plus$|ninja[^a-z0-9]+gaiden[^a-z0-9]+sigma[^a-z0-9]+plus[^a-z0-9]+cirnowaifu$|psv[^a-z0-9]+ninja[^a-z0-9]+gaiden[^a-z0-9]+sigma[^a-z0-9]+plus$|psv[^a-z0-9]+ninja[^a-z0-9]+gaiden[^a-z0-9]+sigma[^a-z0-9]+plus[^a-z0-9]+cirnowaifu$)"
         },
         {
-            "game": "OlliOlli Tsuukasa-R)",
-            "file": "jingles/psv/Tsuukasa-R/OlliOlli Tsuukasa-R).ogg",
-            "regex": "(?:olliolli[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+olliolli[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+            "game": "OlliOlli",
+            "file": "jingles/psv/Tsuukasa-R/OlliOlli (Tsuukasa-R).ogg",
+            "regex": "(?:olliolli$|olliolli[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+olliolli$|psv[^a-z0-9]+olliolli[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "OlliOlli2 - Welcome to Olliwood (Tsuukasa-R).",
@@ -14461,14 +14831,14 @@
             "regex": "(?:super[^a-z0-9]+time[^a-z0-9]+force[^a-z0-9]+ultra$|super[^a-z0-9]+time[^a-z0-9]+force[^a-z0-9]+ultra[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+super[^a-z0-9]+time[^a-z0-9]+force[^a-z0-9]+ultra$|psv[^a-z0-9]+super[^a-z0-9]+time[^a-z0-9]+force[^a-z0-9]+ultra[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
+            "game": "Sword Art Online - Hollow Fragment",
+            "file": "jingles/psv/Tsuukasa-R/Sword Art Online - Hollow Fragment (Tsuukasa-R).ogg",
+            "regex": "(?:sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+hollow[^a-z0-9]+fragment$|sword[^a-z0-9]+art[^a-z0-9]+online$|sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+hollow[^a-z0-9]+fragment[^a-z0-9]+tsuukasa[^a-z0-9]+r$|sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+hollow[^a-z0-9]+fragment$|psv[^a-z0-9]+sword[^a-z0-9]+art[^a-z0-9]+online$|psv[^a-z0-9]+sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+hollow[^a-z0-9]+fragment[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Sword Art Online - Hollow Realization",
             "file": "jingles/psv/Tsuukasa-R/Sword Art Online - Hollow Realization (Tsuukasa-R).ogg",
             "regex": "(?:sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+hollow[^a-z0-9]+realization$|sword[^a-z0-9]+art[^a-z0-9]+online$|sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+hollow[^a-z0-9]+realization[^a-z0-9]+tsuukasa[^a-z0-9]+r$|sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+hollow[^a-z0-9]+realization$|psv[^a-z0-9]+sword[^a-z0-9]+art[^a-z0-9]+online$|psv[^a-z0-9]+sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+hollow[^a-z0-9]+realization[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
-        },
-        {
-            "game": "Sword Art Online -Hollow Fragment",
-            "file": "jingles/psv/Tsuukasa-R/Sword Art Online -Hollow Fragment (Tsuukasa-R).ogg",
-            "regex": "(?:sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+hollow[^a-z0-9]+fragment$|sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+hollow[^a-z0-9]+fragment[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+hollow[^a-z0-9]+fragment$|psv[^a-z0-9]+sword[^a-z0-9]+art[^a-z0-9]+online[^a-z0-9]+hollow[^a-z0-9]+fragment[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "The Nonary Games",
@@ -14549,6 +14919,11 @@
             "game": "Ys VIII - Lacrimosa Of Dana",
             "file": "jingles/psv/Tsuukasa-R/Ys VIII - Lacrimosa Of Dana (Tsuukasa-R).ogg",
             "regex": "(?:ys[^a-z0-9]+(?:viii|8)[^a-z0-9]+lacrimosa[^a-z0-9]+of[^a-z0-9]+dana$|ys[^a-z0-9]+(?:viii|8)$|ys[^a-z0-9]+(?:viii|8)[^a-z0-9]+lacrimosa[^a-z0-9]+of[^a-z0-9]+dana[^a-z0-9]+tsuukasa[^a-z0-9]+r$|ys[^a-z0-9]+(?:viii|8)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+ys[^a-z0-9]+(?:viii|8)[^a-z0-9]+lacrimosa[^a-z0-9]+of[^a-z0-9]+dana$|psv[^a-z0-9]+ys[^a-z0-9]+(?:viii|8)$|psv[^a-z0-9]+ys[^a-z0-9]+(?:viii|8)[^a-z0-9]+lacrimosa[^a-z0-9]+of[^a-z0-9]+dana[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+ys[^a-z0-9]+(?:viii|8)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Zen Pinball",
+            "file": "jingles/psv/Tsuukasa-R/Zen Pinball (Tsuukasa.R).ogg",
+            "regex": "(?:zen[^a-z0-9]+pinball$|zen[^a-z0-9]+pinball[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psv[^a-z0-9]+zen[^a-z0-9]+pinball$|psv[^a-z0-9]+zen[^a-z0-9]+pinball[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         }
     ],
     "psx": [
@@ -14556,6 +14931,11 @@
             "game": "Abes Exodus",
             "file": "jingles/psx/flapperultra/Abes Exodus (flapperultra).ogg",
             "regex": "(?:abes[^a-z0-9]+exodus$|abes[^a-z0-9]+exodus[^a-z0-9]+flapperultra$|psx[^a-z0-9]+abes[^a-z0-9]+exodus$|psx[^a-z0-9]+abes[^a-z0-9]+exodus[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Alien Trilogy",
+            "file": "jingles/psx/Tsuukasa-R/Alien Trilogy (Tsuukasa-R).ogg",
+            "regex": "(?:alien[^a-z0-9]+trilogy$|alien[^a-z0-9]+trilogy[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+alien[^a-z0-9]+trilogy$|psx[^a-z0-9]+alien[^a-z0-9]+trilogy[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Alundra",
@@ -14598,6 +14978,16 @@
             "regex": "(?:brave[^a-z0-9]+fencer[^a-z0-9]+musashi$|brave[^a-z0-9]+fencer[^a-z0-9]+musashi[^a-z0-9]+flapperultra$|psx[^a-z0-9]+brave[^a-z0-9]+fencer[^a-z0-9]+musashi$|psx[^a-z0-9]+brave[^a-z0-9]+fencer[^a-z0-9]+musashi[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Breath of Fire 3",
+            "file": "jingles/psx/Tsuukasa-R/Breath of Fire 3 (Tsuukasa-R).ogg",
+            "regex": "(?:breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:3|iii)$|breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:3|iii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:3|iii)$|psx[^a-z0-9]+breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:3|iii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Breath of Fire 3",
+            "file": "jingles/psx/Tsuukasa-R/Breath of Fire 3 (V2) (Tsuukasa-R).ogg",
+            "regex": "(?:breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:3|iii)$|breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:3|iii)[^a-z0-9]+v2$|breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:3|iii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:3|iii)$|psx[^a-z0-9]+breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:3|iii)[^a-z0-9]+v2$|psx[^a-z0-9]+breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:3|iii)[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Breath of Fire III",
             "file": "jingles/psx/flapperultra/Breath of Fire III (flapperultra).ogg",
             "regex": "(?:breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:iii|3)$|breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:iii|3)[^a-z0-9]+flapperultra$|psx[^a-z0-9]+breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:iii|3)$|psx[^a-z0-9]+breath[^a-z0-9]+of[^a-z0-9]+fire[^a-z0-9]+(?:iii|3)[^a-z0-9]+flapperultra$)"
@@ -14611,6 +15001,16 @@
             "game": "Bubsy 3D",
             "file": "jingles/psx/BennyTheFirstHunter/Bubsy 3D (Just Josh).ogg",
             "regex": "(?:bubsy[^a-z0-9]+3d$|bubsy[^a-z0-9]+3d[^a-z0-9]+just[^a-z0-9]+josh$|psx[^a-z0-9]+bubsy[^a-z0-9]+3d$|psx[^a-z0-9]+bubsy[^a-z0-9]+3d[^a-z0-9]+just[^a-z0-9]+josh$)"
+        },
+        {
+            "game": "Bugs Bunny & Taz - Time Busters",
+            "file": "jingles/psx/Tsuukasa-R/Bugs Bunny & Taz - Time Busters (Tsuukasa-R).ogg",
+            "regex": "(?:bugs[^a-z0-9]+bunny[^a-z0-9]+taz[^a-z0-9]+time[^a-z0-9]+busters$|bugs[^a-z0-9]+bunny[^a-z0-9]+taz$|bugs[^a-z0-9]+bunny[^a-z0-9]+taz[^a-z0-9]+time[^a-z0-9]+busters[^a-z0-9]+tsuukasa[^a-z0-9]+r$|bugs[^a-z0-9]+bunny[^a-z0-9]+taz[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+bugs[^a-z0-9]+bunny[^a-z0-9]+taz[^a-z0-9]+time[^a-z0-9]+busters$|psx[^a-z0-9]+bugs[^a-z0-9]+bunny[^a-z0-9]+taz$|psx[^a-z0-9]+bugs[^a-z0-9]+bunny[^a-z0-9]+taz[^a-z0-9]+time[^a-z0-9]+busters[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+bugs[^a-z0-9]+bunny[^a-z0-9]+taz[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Bugs Bunny - Lost in Time",
+            "file": "jingles/psx/Tsuukasa-R/Bugs Bunny - Lost in Time (Tsuukasa-R).ogg",
+            "regex": "(?:bugs[^a-z0-9]+bunny[^a-z0-9]+lost[^a-z0-9]+in[^a-z0-9]+time$|bugs[^a-z0-9]+bunny$|bugs[^a-z0-9]+bunny[^a-z0-9]+lost[^a-z0-9]+in[^a-z0-9]+time[^a-z0-9]+tsuukasa[^a-z0-9]+r$|bugs[^a-z0-9]+bunny[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+bugs[^a-z0-9]+bunny[^a-z0-9]+lost[^a-z0-9]+in[^a-z0-9]+time$|psx[^a-z0-9]+bugs[^a-z0-9]+bunny$|psx[^a-z0-9]+bugs[^a-z0-9]+bunny[^a-z0-9]+lost[^a-z0-9]+in[^a-z0-9]+time[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+bugs[^a-z0-9]+bunny[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Builders Blocks",
@@ -14681,6 +15081,16 @@
             "game": "Crash Bandicoot 3 - Warped",
             "file": "jingles/psx/flapperultra/Crash Bandicoot 3 - Warped (flapperultra).ogg",
             "regex": "(?:crash[^a-z0-9]+bandicoot[^a-z0-9]+(?:3|iii)[^a-z0-9]+warped$|crash[^a-z0-9]+bandicoot[^a-z0-9]+(?:3|iii)$|crash[^a-z0-9]+bandicoot[^a-z0-9]+(?:3|iii)[^a-z0-9]+warped[^a-z0-9]+flapperultra$|crash[^a-z0-9]+bandicoot[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$|psx[^a-z0-9]+crash[^a-z0-9]+bandicoot[^a-z0-9]+(?:3|iii)[^a-z0-9]+warped$|psx[^a-z0-9]+crash[^a-z0-9]+bandicoot[^a-z0-9]+(?:3|iii)$|psx[^a-z0-9]+crash[^a-z0-9]+bandicoot[^a-z0-9]+(?:3|iii)[^a-z0-9]+warped[^a-z0-9]+flapperultra$|psx[^a-z0-9]+crash[^a-z0-9]+bandicoot[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Crash Bash",
+            "file": "jingles/psx/Tsuukasa-R/Crash Bash (Alt) (Tsuukasa-R).ogg",
+            "regex": "(?:crash[^a-z0-9]+bash$|crash[^a-z0-9]+bash[^a-z0-9]+alt$|crash[^a-z0-9]+bash[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+crash[^a-z0-9]+bash$|psx[^a-z0-9]+crash[^a-z0-9]+bash[^a-z0-9]+alt$|psx[^a-z0-9]+crash[^a-z0-9]+bash[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Crash Bash",
+            "file": "jingles/psx/Tsuukasa-R/Crash Bash (Tsuukasa-R).ogg",
+            "regex": "(?:crash[^a-z0-9]+bash$|crash[^a-z0-9]+bash[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+crash[^a-z0-9]+bash$|psx[^a-z0-9]+crash[^a-z0-9]+bash[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Crash Team Racing",
@@ -14818,6 +15228,16 @@
             "regex": "(?:grand[^a-z0-9]+theft[^a-z0-9]+auto[^a-z0-9]+(?:2|ii)$|grand[^a-z0-9]+theft[^a-z0-9]+auto[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$|psx[^a-z0-9]+grand[^a-z0-9]+theft[^a-z0-9]+auto[^a-z0-9]+(?:2|ii)$|psx[^a-z0-9]+grand[^a-z0-9]+theft[^a-z0-9]+auto[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$)"
         },
         {
+            "game": "Grandia",
+            "file": "jingles/psx/Tsuukasa-R/Grandia (Alt) (Tsuukasa-R).ogg",
+            "regex": "(?:grandia$|grandia[^a-z0-9]+alt$|grandia[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+grandia$|psx[^a-z0-9]+grandia[^a-z0-9]+alt$|psx[^a-z0-9]+grandia[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Grandia",
+            "file": "jingles/psx/Tsuukasa-R/Grandia (Tsuukasa-R).ogg",
+            "regex": "(?:grandia$|grandia[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+grandia$|psx[^a-z0-9]+grandia[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Harvest Moon - Back to Nature",
             "file": "jingles/psx/Brookenium/Harvest Moon - Back to Nature (Brookenium).ogg",
             "regex": "(?:harvest[^a-z0-9]+moon[^a-z0-9]+back[^a-z0-9]+to[^a-z0-9]+nature$|harvest[^a-z0-9]+moon$|harvest[^a-z0-9]+moon[^a-z0-9]+back[^a-z0-9]+to[^a-z0-9]+nature[^a-z0-9]+brookenium$|harvest[^a-z0-9]+moon[^a-z0-9]+brookenium$|psx[^a-z0-9]+harvest[^a-z0-9]+moon[^a-z0-9]+back[^a-z0-9]+to[^a-z0-9]+nature$|psx[^a-z0-9]+harvest[^a-z0-9]+moon$|psx[^a-z0-9]+harvest[^a-z0-9]+moon[^a-z0-9]+back[^a-z0-9]+to[^a-z0-9]+nature[^a-z0-9]+brookenium$|psx[^a-z0-9]+harvest[^a-z0-9]+moon[^a-z0-9]+brookenium$)"
@@ -14826,6 +15246,11 @@
             "game": "Jade Cocoon",
             "file": "jingles/psx/flapperultra/Jade Cocoon (flapperultra).ogg",
             "regex": "(?:jade[^a-z0-9]+cocoon$|jade[^a-z0-9]+cocoon[^a-z0-9]+flapperultra$|psx[^a-z0-9]+jade[^a-z0-9]+cocoon$|psx[^a-z0-9]+jade[^a-z0-9]+cocoon[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "JoJo's Bizarre Adventure",
+            "file": "jingles/psx/Tsuukasa-R/JoJo's Bizarre Adventure (Tsuukasa-R).ogg",
+            "regex": "(?:jojo[^a-z0-9]+s[^a-z0-9]+bizarre[^a-z0-9]+adventure$|jojo[^a-z0-9]+s[^a-z0-9]+bizarre[^a-z0-9]+adventure[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+jojo[^a-z0-9]+s[^a-z0-9]+bizarre[^a-z0-9]+adventure$|psx[^a-z0-9]+jojo[^a-z0-9]+s[^a-z0-9]+bizarre[^a-z0-9]+adventure[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Jumping Flash",
@@ -14946,6 +15371,16 @@
             "game": "Mega Man X6",
             "file": "jingles/psx/flapperultra/Mega Man X6 (flapperultra).ogg",
             "regex": "(?:mega[^a-z0-9]+man[^a-z0-9]+x6$|mega[^a-z0-9]+man[^a-z0-9]+x6[^a-z0-9]+flapperultra$|psx[^a-z0-9]+mega[^a-z0-9]+man[^a-z0-9]+x6$|psx[^a-z0-9]+mega[^a-z0-9]+man[^a-z0-9]+x6[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Megaman Battle & Chase",
+            "file": "jingles/psx/Tsuukasa-R/Megaman Battle & Chase (Alt) (Tsuukasa-R).ogg",
+            "regex": "(?:megaman[^a-z0-9]+battle[^a-z0-9]+chase$|megaman[^a-z0-9]+battle[^a-z0-9]+chase[^a-z0-9]+alt$|megaman[^a-z0-9]+battle[^a-z0-9]+chase[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+megaman[^a-z0-9]+battle[^a-z0-9]+chase$|psx[^a-z0-9]+megaman[^a-z0-9]+battle[^a-z0-9]+chase[^a-z0-9]+alt$|psx[^a-z0-9]+megaman[^a-z0-9]+battle[^a-z0-9]+chase[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Megaman Battle & Chase",
+            "file": "jingles/psx/Tsuukasa-R/Megaman Battle & Chase (Tsuukasa-R).ogg",
+            "regex": "(?:megaman[^a-z0-9]+battle[^a-z0-9]+chase$|megaman[^a-z0-9]+battle[^a-z0-9]+chase[^a-z0-9]+tsuukasa[^a-z0-9]+r$|psx[^a-z0-9]+megaman[^a-z0-9]+battle[^a-z0-9]+chase$|psx[^a-z0-9]+megaman[^a-z0-9]+battle[^a-z0-9]+chase[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "metal gear solid",
@@ -16599,6 +17034,11 @@
             "regex": "(?:gang[^a-z0-9]+beasts$|gang[^a-z0-9]+beasts[^a-z0-9]+v2$|gang[^a-z0-9]+beasts[^a-z0-9]+sjh$|switch[^a-z0-9]+gang[^a-z0-9]+beasts$|switch[^a-z0-9]+gang[^a-z0-9]+beasts[^a-z0-9]+v2$|switch[^a-z0-9]+gang[^a-z0-9]+beasts[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Golf Story",
+            "file": "jingles/switch/Tsuukasa-R/Golf Story (Tsuukasa-R).ogg",
+            "regex": "(?:golf[^a-z0-9]+story$|golf[^a-z0-9]+story[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+golf[^a-z0-9]+story$|switch[^a-z0-9]+golf[^a-z0-9]+story[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Golf With Your Friends",
             "file": "jingles/switch/SJH/Golf With Your Friends (V1) (SJH).ogg",
             "regex": "(?:golf[^a-z0-9]+with[^a-z0-9]+your[^a-z0-9]+friends$|golf[^a-z0-9]+with[^a-z0-9]+your[^a-z0-9]+friends[^a-z0-9]+v1$|golf[^a-z0-9]+with[^a-z0-9]+your[^a-z0-9]+friends[^a-z0-9]+sjh$|switch[^a-z0-9]+golf[^a-z0-9]+with[^a-z0-9]+your[^a-z0-9]+friends$|switch[^a-z0-9]+golf[^a-z0-9]+with[^a-z0-9]+your[^a-z0-9]+friends[^a-z0-9]+v1$|switch[^a-z0-9]+golf[^a-z0-9]+with[^a-z0-9]+your[^a-z0-9]+friends[^a-z0-9]+sjh$)"
@@ -16894,6 +17334,21 @@
             "regex": "(?:nintendo[^a-z0-9]+switch$|nintendo[^a-z0-9]+switch[^a-z0-9]+v5$|nintendo[^a-z0-9]+switch[^a-z0-9]+sjh$|switch[^a-z0-9]+nintendo[^a-z0-9]+switch$|switch[^a-z0-9]+nintendo[^a-z0-9]+switch[^a-z0-9]+v5$|switch[^a-z0-9]+nintendo[^a-z0-9]+switch[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Nintendo World Championships NES Edition",
+            "file": "jingles/switch/Tsuukasa-R/Nintendo World Championships NES Edition (Alt)(Tsuukasa-R).ogg",
+            "regex": "(?:nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition$|nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition[^a-z0-9]+alt$|nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition$|switch[^a-z0-9]+nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition[^a-z0-9]+alt$|switch[^a-z0-9]+nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Nintendo World Championships NES Edition",
+            "file": "jingles/switch/Tsuukasa-R/Nintendo World Championships NES Edition (Alt2) (Tsuukasa-R).ogg",
+            "regex": "(?:nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition$|nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition[^a-z0-9]+alt2$|nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition$|switch[^a-z0-9]+nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition[^a-z0-9]+alt2$|switch[^a-z0-9]+nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Nintendo World Championships NES Edition",
+            "file": "jingles/switch/Tsuukasa-R/Nintendo World Championships NES Edition (Tsuukasa-R).ogg",
+            "regex": "(?:nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition$|nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition$|switch[^a-z0-9]+nintendo[^a-z0-9]+world[^a-z0-9]+championships[^a-z0-9]+nes[^a-z0-9]+edition[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "No More Heroes",
             "file": "jingles/switch/SJH/No More Heroes (V1) (SJH).ogg",
             "regex": "(?:no[^a-z0-9]+more[^a-z0-9]+heroes$|no[^a-z0-9]+more[^a-z0-9]+heroes[^a-z0-9]+v1$|no[^a-z0-9]+more[^a-z0-9]+heroes[^a-z0-9]+sjh$|switch[^a-z0-9]+no[^a-z0-9]+more[^a-z0-9]+heroes$|switch[^a-z0-9]+no[^a-z0-9]+more[^a-z0-9]+heroes[^a-z0-9]+v1$|switch[^a-z0-9]+no[^a-z0-9]+more[^a-z0-9]+heroes[^a-z0-9]+sjh$)"
@@ -16947,6 +17402,11 @@
             "game": "Octopath Traveler II",
             "file": "jingles/switch/flapperultra/Octopath Traveler II (flapperultra).ogg",
             "regex": "(?:octopath[^a-z0-9]+traveler[^a-z0-9]+(?:ii|2)$|octopath[^a-z0-9]+traveler[^a-z0-9]+(?:ii|2)[^a-z0-9]+flapperultra$|switch[^a-z0-9]+octopath[^a-z0-9]+traveler[^a-z0-9]+(?:ii|2)$|switch[^a-z0-9]+octopath[^a-z0-9]+traveler[^a-z0-9]+(?:ii|2)[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "OlliOlli - Switch Stance",
+            "file": "jingles/switch/Tsuukasa-R/OlliOlli - Switch Stance (Tsuukasa-R).ogg",
+            "regex": "(?:olliolli[^a-z0-9]+switch[^a-z0-9]+stance$|olliolli$|olliolli[^a-z0-9]+switch[^a-z0-9]+stance[^a-z0-9]+tsuukasa[^a-z0-9]+r$|olliolli[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+olliolli[^a-z0-9]+switch[^a-z0-9]+stance$|switch[^a-z0-9]+olliolli$|switch[^a-z0-9]+olliolli[^a-z0-9]+switch[^a-z0-9]+stance[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+olliolli[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Ori And The Blind Forest",
@@ -17334,9 +17794,34 @@
             "regex": "(?:pokemon[^a-z0-9]+violet$|pokemon[^a-z0-9]+violet[^a-z0-9]+cirnowaifu$|switch[^a-z0-9]+pokemon[^a-z0-9]+violet$|switch[^a-z0-9]+pokemon[^a-z0-9]+violet[^a-z0-9]+cirnowaifu$)"
         },
         {
+            "game": "Pokémon Let's Go, Eevee!",
+            "file": "jingles/switch/Tsuukasa-R/Pokémon Let's Go, Eevee! (Alt) (Tsuukasa-R).ogg",
+            "regex": "(?:pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+eevee$|pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+eevee[^a-z0-9]+alt$|pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+eevee[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+eevee$|switch[^a-z0-9]+pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+eevee[^a-z0-9]+alt$|switch[^a-z0-9]+pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+eevee[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Pokémon Let's Go, Eevee!",
+            "file": "jingles/switch/Tsuukasa-R/Pokémon Let's Go, Eevee! (Tsuukasa-R).ogg",
+            "regex": "(?:pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+eevee$|pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+eevee[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+eevee$|switch[^a-z0-9]+pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+eevee[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Pokémon Let's Go, Pikachu!",
+            "file": "jingles/switch/Tsuukasa-R/Pokémon Let's Go, Pikachu! (Tsuukasa-R).ogg",
+            "regex": "(?:pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+pikachu$|pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+pikachu[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+pikachu$|switch[^a-z0-9]+pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+pikachu[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Pokémon Let's Go, Pikachu! (Alt))",
+            "file": "jingles/switch/Tsuukasa-R/Pokémon Let's Go, Pikachu! (Alt)) (Tsuukasa-R).ogg",
+            "regex": "(?:pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+pikachu[^a-z0-9]+alt$|pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+pikachu[^a-z0-9]+alt[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+pikachu[^a-z0-9]+alt$|switch[^a-z0-9]+pok[^a-z0-9]+mon[^a-z0-9]+let[^a-z0-9]+s[^a-z0-9]+go[^a-z0-9]+pikachu[^a-z0-9]+alt[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Princess Peach Showtime",
             "file": "jingles/switch/flapperultra/Princess Peach Showtime (flapperultra).ogg",
             "regex": "(?:princess[^a-z0-9]+peach[^a-z0-9]+showtime$|princess[^a-z0-9]+peach[^a-z0-9]+showtime[^a-z0-9]+flapperultra$|switch[^a-z0-9]+princess[^a-z0-9]+peach[^a-z0-9]+showtime$|switch[^a-z0-9]+princess[^a-z0-9]+peach[^a-z0-9]+showtime[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Rhythm Heaven Groove",
+            "file": "jingles/switch/Tsuukasa-R/Rhythm Heaven Groove (Tsuukasa-R).ogg",
+            "regex": "(?:rhythm[^a-z0-9]+heaven[^a-z0-9]+groove$|rhythm[^a-z0-9]+heaven[^a-z0-9]+groove[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+rhythm[^a-z0-9]+heaven[^a-z0-9]+groove$|switch[^a-z0-9]+rhythm[^a-z0-9]+heaven[^a-z0-9]+groove[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Risk Of Rain",
@@ -17589,6 +18074,11 @@
             "regex": "(?:splatoon[^a-z0-9]+(?:3|iii)$|splatoon[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$|switch[^a-z0-9]+splatoon[^a-z0-9]+(?:3|iii)$|switch[^a-z0-9]+splatoon[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Sports Story",
+            "file": "jingles/switch/Tsuukasa-R/Sports Story (Tsuukasa-R).ogg",
+            "regex": "(?:sports[^a-z0-9]+story$|sports[^a-z0-9]+story[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+sports[^a-z0-9]+story$|switch[^a-z0-9]+sports[^a-z0-9]+story[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
             "game": "Super Mario Bros. Wonder",
             "file": "jingles/switch/CirnoWaifu/Super Mario Bros. Wonder (CirnoWaifu).ogg",
             "regex": "(?:super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+wonder$|super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+wonder[^a-z0-9]+cirnowaifu$|switch[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+wonder$|switch[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+wonder[^a-z0-9]+cirnowaifu$)"
@@ -17772,6 +18262,11 @@
             "game": "Super Smash Bros. Ultimate",
             "file": "jingles/switch/CirnoWaifu/Super Smash Bros. Ultimate (CirnoWaifu).ogg",
             "regex": "(?:super[^a-z0-9]+smash[^a-z0-9]+bros[^a-z0-9]+ultimate$|super[^a-z0-9]+smash[^a-z0-9]+bros[^a-z0-9]+ultimate[^a-z0-9]+cirnowaifu$|switch[^a-z0-9]+super[^a-z0-9]+smash[^a-z0-9]+bros[^a-z0-9]+ultimate$|switch[^a-z0-9]+super[^a-z0-9]+smash[^a-z0-9]+bros[^a-z0-9]+ultimate[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Taiko no Tatsujin - Drum 'n' Fun!",
+            "file": "jingles/switch/Tsuukasa-R/Taiko no Tatsujin - Drum 'n' Fun! (Tsuukasa-R).ogg",
+            "regex": "(?:taiko[^a-z0-9]+no[^a-z0-9]+tatsujin[^a-z0-9]+drum[^a-z0-9]+n[^a-z0-9]+fun$|taiko[^a-z0-9]+no[^a-z0-9]+tatsujin$|taiko[^a-z0-9]+no[^a-z0-9]+tatsujin[^a-z0-9]+drum[^a-z0-9]+n[^a-z0-9]+fun[^a-z0-9]+tsuukasa[^a-z0-9]+r$|taiko[^a-z0-9]+no[^a-z0-9]+tatsujin[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+taiko[^a-z0-9]+no[^a-z0-9]+tatsujin[^a-z0-9]+drum[^a-z0-9]+n[^a-z0-9]+fun$|switch[^a-z0-9]+taiko[^a-z0-9]+no[^a-z0-9]+tatsujin$|switch[^a-z0-9]+taiko[^a-z0-9]+no[^a-z0-9]+tatsujin[^a-z0-9]+drum[^a-z0-9]+n[^a-z0-9]+fun[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch[^a-z0-9]+taiko[^a-z0-9]+no[^a-z0-9]+tatsujin[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
         },
         {
             "game": "Tetris 99",
