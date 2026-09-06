@@ -7609,6 +7609,11 @@
             "regex": "(?:pokemon[^a-z0-9]+link$|pokemon[^a-z0-9]+link[^a-z0-9]+v3$|pokemon[^a-z0-9]+link[^a-z0-9]+sjh$|nds[^a-z0-9]+pokemon[^a-z0-9]+link$|nds[^a-z0-9]+pokemon[^a-z0-9]+link[^a-z0-9]+v3$|nds[^a-z0-9]+pokemon[^a-z0-9]+link[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Pokemon Mystery Dungeon - Blue Rescue Team",
+            "file": "jingles/nds/Gunsparce98/Pokemon Mystery Dungeon - Blue Rescue Team (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+blue[^a-z0-9]+rescue[^a-z0-9]+team$|pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon$|pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+blue[^a-z0-9]+rescue[^a-z0-9]+team[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+blue[^a-z0-9]+rescue[^a-z0-9]+team$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+blue[^a-z0-9]+rescue[^a-z0-9]+team[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "Pokemon Mystery Dungeon - Explorers of Sky",
             "file": "jingles/nds/Gunsparce98/Pokemon Mystery Dungeon - Explorers of Sky (Gunsparce98).ogg",
             "regex": "(?:pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+explorers[^a-z0-9]+of[^a-z0-9]+sky$|pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon$|pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+explorers[^a-z0-9]+of[^a-z0-9]+sky[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+explorers[^a-z0-9]+of[^a-z0-9]+sky$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+explorers[^a-z0-9]+of[^a-z0-9]+sky[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+gunsparce98$)"
@@ -7624,6 +7629,21 @@
             "regex": "(?:pokemon[^a-z0-9]+ranger$|pokemon[^a-z0-9]+ranger[^a-z0-9]+flapperultra$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Pokemon Ranger",
+            "file": "jingles/nds/Gunsparce98/Pokemon Ranger (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+ranger$|pokemon[^a-z0-9]+ranger[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+gunsparce98$)"
+        },
+        {
+            "game": "Pokemon Ranger - Guardian Signs",
+            "file": "jingles/nds/Gunsparce98/Pokemon Ranger - Guardian Signs (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+ranger[^a-z0-9]+guardian[^a-z0-9]+signs$|pokemon[^a-z0-9]+ranger$|pokemon[^a-z0-9]+ranger[^a-z0-9]+guardian[^a-z0-9]+signs[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+ranger[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+guardian[^a-z0-9]+signs$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+guardian[^a-z0-9]+signs[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+gunsparce98$)"
+        },
+        {
+            "game": "Pokemon Ranger - Shadows of Almia",
+            "file": "jingles/nds/Gunsparce98/Pokemon Ranger - Shadows of Almia (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+ranger[^a-z0-9]+shadows[^a-z0-9]+of[^a-z0-9]+almia$|pokemon[^a-z0-9]+ranger$|pokemon[^a-z0-9]+ranger[^a-z0-9]+shadows[^a-z0-9]+of[^a-z0-9]+almia[^a-z0-9]+gunsparce98$|pokemon[^a-z0-9]+ranger[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+shadows[^a-z0-9]+of[^a-z0-9]+almia$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+shadows[^a-z0-9]+of[^a-z0-9]+almia[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "Pokemon Ranger 2 - Shadow of Almia",
             "file": "jingles/nds/flapperultra/Pokemon Ranger 2 - Shadow of Almia (flapperultra).ogg",
             "regex": "(?:pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:2|ii)[^a-z0-9]+shadow[^a-z0-9]+of[^a-z0-9]+almia$|pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:2|ii)$|pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:2|ii)[^a-z0-9]+shadow[^a-z0-9]+of[^a-z0-9]+almia[^a-z0-9]+flapperultra$|pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:2|ii)[^a-z0-9]+flapperultra$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:2|ii)[^a-z0-9]+shadow[^a-z0-9]+of[^a-z0-9]+almia$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:2|ii)$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:2|ii)[^a-z0-9]+shadow[^a-z0-9]+of[^a-z0-9]+almia[^a-z0-9]+flapperultra$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:2|ii)[^a-z0-9]+flapperultra$)"
@@ -7632,6 +7652,11 @@
             "game": "Pokemon Ranger 3 - Guardian Signs",
             "file": "jingles/nds/flapperultra/Pokemon Ranger 3 - Guardian Signs (flapperultra).ogg",
             "regex": "(?:pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+guardian[^a-z0-9]+signs$|pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)$|pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+guardian[^a-z0-9]+signs[^a-z0-9]+flapperultra$|pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+guardian[^a-z0-9]+signs$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+guardian[^a-z0-9]+signs[^a-z0-9]+flapperultra$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Pokemon Trozei!",
+            "file": "jingles/nds/Gunsparce98/Pokemon Trozei! (Gunsparce98).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+trozei$|pokemon[^a-z0-9]+trozei[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+pokemon[^a-z0-9]+trozei$|nds[^a-z0-9]+pokemon[^a-z0-9]+trozei[^a-z0-9]+gunsparce98$)"
         },
         {
             "game": "Prism Light The Way",
@@ -7687,6 +7712,11 @@
             "game": "Radiant Historia",
             "file": "jingles/nds/Jalmoc/Radiant Historia (Jalmoc).ogg",
             "regex": "(?:radiant[^a-z0-9]+historia$|radiant[^a-z0-9]+historia[^a-z0-9]+jalmoc$|nds[^a-z0-9]+radiant[^a-z0-9]+historia$|nds[^a-z0-9]+radiant[^a-z0-9]+historia[^a-z0-9]+jalmoc$)"
+        },
+        {
+            "game": "Resident Evil - Deadly Silence",
+            "file": "jingles/nds/Gunsparce98/Resident Evil - Deadly Silence (Gunsparce98).ogg",
+            "regex": "(?:resident[^a-z0-9]+evil[^a-z0-9]+deadly[^a-z0-9]+silence$|resident[^a-z0-9]+evil$|resident[^a-z0-9]+evil[^a-z0-9]+deadly[^a-z0-9]+silence[^a-z0-9]+gunsparce98$|resident[^a-z0-9]+evil[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+resident[^a-z0-9]+evil[^a-z0-9]+deadly[^a-z0-9]+silence$|nds[^a-z0-9]+resident[^a-z0-9]+evil$|nds[^a-z0-9]+resident[^a-z0-9]+evil[^a-z0-9]+deadly[^a-z0-9]+silence[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+resident[^a-z0-9]+evil[^a-z0-9]+gunsparce98$)"
         },
         {
             "game": "Rondo of Swords",
@@ -7959,9 +7989,19 @@
             "regex": "(?:urbz$|urbz[^a-z0-9]+bennythefirsthunter$|nds[^a-z0-9]+urbz$|nds[^a-z0-9]+urbz[^a-z0-9]+bennythefirsthunter$)"
         },
         {
+            "game": "Viva Pinata - Pocket Paradise",
+            "file": "jingles/nds/Gunsparce98/Viva Pinata - Pocket Paradise (Gunsparce98).ogg",
+            "regex": "(?:viva[^a-z0-9]+pinata[^a-z0-9]+pocket[^a-z0-9]+paradise$|viva[^a-z0-9]+pinata$|viva[^a-z0-9]+pinata[^a-z0-9]+pocket[^a-z0-9]+paradise[^a-z0-9]+gunsparce98$|viva[^a-z0-9]+pinata[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+viva[^a-z0-9]+pinata[^a-z0-9]+pocket[^a-z0-9]+paradise$|nds[^a-z0-9]+viva[^a-z0-9]+pinata$|nds[^a-z0-9]+viva[^a-z0-9]+pinata[^a-z0-9]+pocket[^a-z0-9]+paradise[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+viva[^a-z0-9]+pinata[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "Viva Pinata Pocket Paradise",
             "file": "jingles/nds/flapperultra/Viva Pinata Pocket Paradise (flapperultra).ogg",
             "regex": "(?:viva[^a-z0-9]+pinata[^a-z0-9]+pocket[^a-z0-9]+paradise$|viva[^a-z0-9]+pinata[^a-z0-9]+pocket[^a-z0-9]+paradise[^a-z0-9]+flapperultra$|nds[^a-z0-9]+viva[^a-z0-9]+pinata[^a-z0-9]+pocket[^a-z0-9]+paradise$|nds[^a-z0-9]+viva[^a-z0-9]+pinata[^a-z0-9]+pocket[^a-z0-9]+paradise[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Wario - Master of Disguise",
+            "file": "jingles/nds/Gunsparce98/Wario - Master of Disguise (Gunsparce98).ogg",
+            "regex": "(?:wario[^a-z0-9]+master[^a-z0-9]+of[^a-z0-9]+disguise$|wario$|wario[^a-z0-9]+master[^a-z0-9]+of[^a-z0-9]+disguise[^a-z0-9]+gunsparce98$|wario[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+wario[^a-z0-9]+master[^a-z0-9]+of[^a-z0-9]+disguise$|nds[^a-z0-9]+wario$|nds[^a-z0-9]+wario[^a-z0-9]+master[^a-z0-9]+of[^a-z0-9]+disguise[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+wario[^a-z0-9]+gunsparce98$)"
         },
         {
             "game": "Wario Ware DIY",
@@ -7969,14 +8009,29 @@
             "regex": "(?:wario[^a-z0-9]+ware[^a-z0-9]+diy$|wario[^a-z0-9]+ware[^a-z0-9]+diy[^a-z0-9]+flapperultra$|nds[^a-z0-9]+wario[^a-z0-9]+ware[^a-z0-9]+diy$|nds[^a-z0-9]+wario[^a-z0-9]+ware[^a-z0-9]+diy[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "WarioWare - D.I.Y.",
+            "file": "jingles/nds/Gunsparce98/WarioWare - D.I.Y. (Gunsparce98).ogg",
+            "regex": "(?:warioware[^a-z0-9]+d[^a-z0-9]+(?:i|1)[^a-z0-9]+y$|warioware$|warioware[^a-z0-9]+d[^a-z0-9]+(?:i|1)[^a-z0-9]+y[^a-z0-9]+gunsparce98$|warioware[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+warioware[^a-z0-9]+d[^a-z0-9]+(?:i|1)[^a-z0-9]+y$|nds[^a-z0-9]+warioware$|nds[^a-z0-9]+warioware[^a-z0-9]+d[^a-z0-9]+(?:i|1)[^a-z0-9]+y[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+warioware[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "WarioWare - Touched",
             "file": "jingles/nds/CirnoWaifu/WarioWare - Touched (CirnoWaifu).ogg",
             "regex": "(?:warioware[^a-z0-9]+touched$|warioware$|warioware[^a-z0-9]+touched[^a-z0-9]+cirnowaifu$|warioware[^a-z0-9]+cirnowaifu$|nds[^a-z0-9]+warioware[^a-z0-9]+touched$|nds[^a-z0-9]+warioware$|nds[^a-z0-9]+warioware[^a-z0-9]+touched[^a-z0-9]+cirnowaifu$|nds[^a-z0-9]+warioware[^a-z0-9]+cirnowaifu$)"
         },
         {
+            "game": "WarioWare - Touched!",
+            "file": "jingles/nds/Gunsparce98/WarioWare - Touched! (Gunsparce98).ogg",
+            "regex": "(?:warioware[^a-z0-9]+touched$|warioware$|warioware[^a-z0-9]+touched[^a-z0-9]+gunsparce98$|warioware[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+warioware[^a-z0-9]+touched$|nds[^a-z0-9]+warioware$|nds[^a-z0-9]+warioware[^a-z0-9]+touched[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+warioware[^a-z0-9]+gunsparce98$)"
+        },
+        {
             "game": "Worms Open Warfare 2",
             "file": "jingles/nds/CirnoWaifu/Worms Open Warfare 2 (CirnoWaifu).ogg",
             "regex": "(?:worms[^a-z0-9]+open[^a-z0-9]+warfare[^a-z0-9]+(?:2|ii)$|worms[^a-z0-9]+open[^a-z0-9]+warfare[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$|nds[^a-z0-9]+worms[^a-z0-9]+open[^a-z0-9]+warfare[^a-z0-9]+(?:2|ii)$|nds[^a-z0-9]+worms[^a-z0-9]+open[^a-z0-9]+warfare[^a-z0-9]+(?:2|ii)[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Yoshi's Island DS",
+            "file": "jingles/nds/Gunsparce98/Yoshi's Island DS (Gunsparce98).ogg",
+            "regex": "(?:yoshi[^a-z0-9]+s[^a-z0-9]+island[^a-z0-9]+ds$|yoshi[^a-z0-9]+s[^a-z0-9]+island[^a-z0-9]+ds[^a-z0-9]+gunsparce98$|nds[^a-z0-9]+yoshi[^a-z0-9]+s[^a-z0-9]+island[^a-z0-9]+ds$|nds[^a-z0-9]+yoshi[^a-z0-9]+s[^a-z0-9]+island[^a-z0-9]+ds[^a-z0-9]+gunsparce98$)"
         },
         {
             "game": "yoshis island DS",
