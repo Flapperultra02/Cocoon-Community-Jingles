@@ -17859,6 +17859,11 @@
             "game": "Cirno! Lifts a Boulder",
             "file": "jingles/touhou project/CirnoWaifu/Cirno! Lifts a Boulder (CirnoWaifu).ogg",
             "regex": "(?:cirno[^a-z0-9]+lifts[^a-z0-9]+a[^a-z0-9]+boulder$|cirno[^a-z0-9]+lifts[^a-z0-9]+a[^a-z0-9]+boulder[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+cirno[^a-z0-9]+lifts[^a-z0-9]+a[^a-z0-9]+boulder$|touhou[^a-z0-9]+project[^a-z0-9]+cirno[^a-z0-9]+lifts[^a-z0-9]+a[^a-z0-9]+boulder[^a-z0-9]+cirnowaifu$)"
+        },
+        {
+            "game": "Fantasy Maiden Wars - Dream of the Stray Dreamer",
+            "file": "jingles/touhou project/CirnoWaifu/Fantasy Maiden Wars - Dream of the Stray Dreamer (CirnoWaifu).ogg",
+            "regex": "(?:fantasy[^a-z0-9]+maiden[^a-z0-9]+wars[^a-z0-9]+dream[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+stray[^a-z0-9]+dreamer$|fantasy[^a-z0-9]+maiden[^a-z0-9]+wars$|fantasy[^a-z0-9]+maiden[^a-z0-9]+wars[^a-z0-9]+dream[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+stray[^a-z0-9]+dreamer[^a-z0-9]+cirnowaifu$|fantasy[^a-z0-9]+maiden[^a-z0-9]+wars[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+fantasy[^a-z0-9]+maiden[^a-z0-9]+wars[^a-z0-9]+dream[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+stray[^a-z0-9]+dreamer$|touhou[^a-z0-9]+project[^a-z0-9]+fantasy[^a-z0-9]+maiden[^a-z0-9]+wars$|touhou[^a-z0-9]+project[^a-z0-9]+fantasy[^a-z0-9]+maiden[^a-z0-9]+wars[^a-z0-9]+dream[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+stray[^a-z0-9]+dreamer[^a-z0-9]+cirnowaifu$|touhou[^a-z0-9]+project[^a-z0-9]+fantasy[^a-z0-9]+maiden[^a-z0-9]+wars[^a-z0-9]+cirnowaifu$)"
         }
     ],
     "vb": [
