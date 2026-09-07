@@ -10829,6 +10829,26 @@
             "regex": "(?:luxor[^a-z0-9]+5th[^a-z0-9]+passage$|luxor[^a-z0-9]+5th[^a-z0-9]+passage[^a-z0-9]+v4$|luxor[^a-z0-9]+5th[^a-z0-9]+passage[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+5th[^a-z0-9]+passage$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+5th[^a-z0-9]+passage[^a-z0-9]+v4$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+5th[^a-z0-9]+passage[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Luxor Adventures",
+            "file": "jingles/pc steam & multiplat/SJH/Luxor Adventures (V1) (SJH).ogg",
+            "regex": "(?:luxor[^a-z0-9]+adventures$|luxor[^a-z0-9]+adventures[^a-z0-9]+v1$|luxor[^a-z0-9]+adventures[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+adventures$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+adventures[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+adventures[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Luxor Adventures",
+            "file": "jingles/pc steam & multiplat/SJH/Luxor Adventures (V2) (SJH).ogg",
+            "regex": "(?:luxor[^a-z0-9]+adventures$|luxor[^a-z0-9]+adventures[^a-z0-9]+v2$|luxor[^a-z0-9]+adventures[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+adventures$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+adventures[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+adventures[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Luxor Adventures",
+            "file": "jingles/pc steam & multiplat/SJH/Luxor Adventures (V3) (SJH).ogg",
+            "regex": "(?:luxor[^a-z0-9]+adventures$|luxor[^a-z0-9]+adventures[^a-z0-9]+v3$|luxor[^a-z0-9]+adventures[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+adventures$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+adventures[^a-z0-9]+v3$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+adventures[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Luxor Adventures",
+            "file": "jingles/pc steam & multiplat/SJH/Luxor Adventures (V4) (SJH).ogg",
+            "regex": "(?:luxor[^a-z0-9]+adventures$|luxor[^a-z0-9]+adventures[^a-z0-9]+v4$|luxor[^a-z0-9]+adventures[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+adventures$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+adventures[^a-z0-9]+v4$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+adventures[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Luxor Amun Rising",
             "file": "jingles/pc steam & multiplat/SJH/Luxor Amun Rising (V1) (SJH).mp3",
             "regex": "(?:luxor[^a-z0-9]+amun[^a-z0-9]+rising$|luxor[^a-z0-9]+amun[^a-z0-9]+rising[^a-z0-9]+v1$|luxor[^a-z0-9]+amun[^a-z0-9]+rising[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+amun[^a-z0-9]+rising$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+amun[^a-z0-9]+rising[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+amun[^a-z0-9]+rising[^a-z0-9]+sjh$)"
