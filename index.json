@@ -10859,6 +10859,36 @@
             "regex": "(?:luxor[^a-z0-9]+evolved$|luxor[^a-z0-9]+evolved[^a-z0-9]+v3$|luxor[^a-z0-9]+evolved[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+evolved$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+evolved[^a-z0-9]+v3$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+evolved[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Luxor Mahjong",
+            "file": "jingles/pc steam & multiplat/SJH/Luxor Mahjong (V1) (SJH).ogg",
+            "regex": "(?:luxor[^a-z0-9]+mahjong$|luxor[^a-z0-9]+mahjong[^a-z0-9]+v1$|luxor[^a-z0-9]+mahjong[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Luxor Mahjong",
+            "file": "jingles/pc steam & multiplat/SJH/Luxor Mahjong (V2) (SJH).ogg",
+            "regex": "(?:luxor[^a-z0-9]+mahjong$|luxor[^a-z0-9]+mahjong[^a-z0-9]+v2$|luxor[^a-z0-9]+mahjong[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Luxor Mahjong",
+            "file": "jingles/pc steam & multiplat/SJH/Luxor Mahjong (V3) (SJH).ogg",
+            "regex": "(?:luxor[^a-z0-9]+mahjong$|luxor[^a-z0-9]+mahjong[^a-z0-9]+v3$|luxor[^a-z0-9]+mahjong[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong[^a-z0-9]+v3$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Luxor Mahjong",
+            "file": "jingles/pc steam & multiplat/SJH/Luxor Mahjong (V4) (SJH).ogg",
+            "regex": "(?:luxor[^a-z0-9]+mahjong$|luxor[^a-z0-9]+mahjong[^a-z0-9]+v4$|luxor[^a-z0-9]+mahjong[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong[^a-z0-9]+v4$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Luxor Mahjong",
+            "file": "jingles/pc steam & multiplat/SJH/Luxor Mahjong (V5) (SJH).ogg",
+            "regex": "(?:luxor[^a-z0-9]+mahjong$|luxor[^a-z0-9]+mahjong[^a-z0-9]+v5$|luxor[^a-z0-9]+mahjong[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong[^a-z0-9]+v5$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Luxor Mahjong",
+            "file": "jingles/pc steam & multiplat/SJH/Luxor Mahjong (V6) (SJH).ogg",
+            "regex": "(?:luxor[^a-z0-9]+mahjong$|luxor[^a-z0-9]+mahjong[^a-z0-9]+v6$|luxor[^a-z0-9]+mahjong[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong[^a-z0-9]+v6$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+mahjong[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Luxor Quest For The Afterlife",
             "file": "jingles/pc steam & multiplat/SJH/Luxor Quest For The Afterlife (V1) (SJH).mp3",
             "regex": "(?:luxor[^a-z0-9]+quest[^a-z0-9]+for[^a-z0-9]+the[^a-z0-9]+afterlife$|luxor[^a-z0-9]+quest[^a-z0-9]+for[^a-z0-9]+the[^a-z0-9]+afterlife[^a-z0-9]+v1$|luxor[^a-z0-9]+quest[^a-z0-9]+for[^a-z0-9]+the[^a-z0-9]+afterlife[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+quest[^a-z0-9]+for[^a-z0-9]+the[^a-z0-9]+afterlife$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+quest[^a-z0-9]+for[^a-z0-9]+the[^a-z0-9]+afterlife[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+luxor[^a-z0-9]+quest[^a-z0-9]+for[^a-z0-9]+the[^a-z0-9]+afterlife[^a-z0-9]+sjh$)"
