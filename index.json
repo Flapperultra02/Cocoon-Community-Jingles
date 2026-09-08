@@ -2436,6 +2436,11 @@
             "regex": "(?:angry[^a-z0-9]+birds[^a-z0-9]+mcdonald[^a-z0-9]+s$|angry[^a-z0-9]+birds[^a-z0-9]+mcdonald[^a-z0-9]+s[^a-z0-9]+felipne87r$|flash[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+mcdonald[^a-z0-9]+s$|flash[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+mcdonald[^a-z0-9]+s[^a-z0-9]+felipne87r$)"
         },
         {
+            "game": "Bunny Bon Bon",
+            "file": "jingles/flash/SJH/Bunny Bon Bon (SJH).mp3",
+            "regex": "(?:bunny[^a-z0-9]+bon[^a-z0-9]+bon$|bunny[^a-z0-9]+bon[^a-z0-9]+bon[^a-z0-9]+sjh$|flash[^a-z0-9]+bunny[^a-z0-9]+bon[^a-z0-9]+bon$|flash[^a-z0-9]+bunny[^a-z0-9]+bon[^a-z0-9]+bon[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Fireboy and Watergirl",
             "file": "jingles/flash/Felipne87r/Fireboy and Watergirl (Felipne87r).ogg",
             "regex": "(?:fireboy[^a-z0-9]+and[^a-z0-9]+watergirl$|fireboy[^a-z0-9]+and[^a-z0-9]+watergirl[^a-z0-9]+felipne87r$|flash[^a-z0-9]+fireboy[^a-z0-9]+and[^a-z0-9]+watergirl$|flash[^a-z0-9]+fireboy[^a-z0-9]+and[^a-z0-9]+watergirl[^a-z0-9]+felipne87r$)"
