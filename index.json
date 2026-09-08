@@ -9569,6 +9569,11 @@
             "regex": "(?:club[^a-z0-9]+penguin$|club[^a-z0-9]+penguin[^a-z0-9]+v7$|club[^a-z0-9]+penguin[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+club[^a-z0-9]+penguin$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+club[^a-z0-9]+penguin[^a-z0-9]+v7$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+club[^a-z0-9]+penguin[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Club Penguin Island",
+            "file": "jingles/pc steam & multiplat/SJH/Club Penguin Island (V1) (SJH).ogg",
+            "regex": "(?:club[^a-z0-9]+penguin[^a-z0-9]+island$|club[^a-z0-9]+penguin[^a-z0-9]+island[^a-z0-9]+v1$|club[^a-z0-9]+penguin[^a-z0-9]+island[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+club[^a-z0-9]+penguin[^a-z0-9]+island$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+club[^a-z0-9]+penguin[^a-z0-9]+island[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+club[^a-z0-9]+penguin[^a-z0-9]+island[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Cold Fear",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Cold Fear (CirnoWaifu).ogg",
             "regex": "(?:cold[^a-z0-9]+fear$|cold[^a-z0-9]+fear[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+cold[^a-z0-9]+fear$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+cold[^a-z0-9]+fear[^a-z0-9]+cirnowaifu$)"
