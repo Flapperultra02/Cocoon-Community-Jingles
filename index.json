@@ -9494,6 +9494,16 @@
             "regex": "(?:call[^a-z0-9]+of[^a-z0-9]+duty[^a-z0-9]+modern[^a-z0-9]+warfare$|call[^a-z0-9]+of[^a-z0-9]+duty$|call[^a-z0-9]+of[^a-z0-9]+duty[^a-z0-9]+modern[^a-z0-9]+warfare[^a-z0-9]+2019$|call[^a-z0-9]+of[^a-z0-9]+duty[^a-z0-9]+2019$|call[^a-z0-9]+of[^a-z0-9]+duty[^a-z0-9]+modern[^a-z0-9]+warfare[^a-z0-9]+rayanair$|call[^a-z0-9]+of[^a-z0-9]+duty[^a-z0-9]+rayanair$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+call[^a-z0-9]+of[^a-z0-9]+duty[^a-z0-9]+modern[^a-z0-9]+warfare$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+call[^a-z0-9]+of[^a-z0-9]+duty$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+call[^a-z0-9]+of[^a-z0-9]+duty[^a-z0-9]+modern[^a-z0-9]+warfare[^a-z0-9]+2019$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+call[^a-z0-9]+of[^a-z0-9]+duty[^a-z0-9]+2019$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+call[^a-z0-9]+of[^a-z0-9]+duty[^a-z0-9]+modern[^a-z0-9]+warfare[^a-z0-9]+rayanair$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+call[^a-z0-9]+of[^a-z0-9]+duty[^a-z0-9]+rayanair$)"
         },
         {
+            "game": "Candy Crush",
+            "file": "jingles/pc steam & multiplat/SJH/Candy Crush (V1) (SJH).ogg",
+            "regex": "(?:candy[^a-z0-9]+crush$|candy[^a-z0-9]+crush[^a-z0-9]+v1$|candy[^a-z0-9]+crush[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Candy Crush",
+            "file": "jingles/pc steam & multiplat/SJH/Candy Crush (V2) (SJH).ogg",
+            "regex": "(?:candy[^a-z0-9]+crush$|candy[^a-z0-9]+crush[^a-z0-9]+v2$|candy[^a-z0-9]+crush[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Cave Story",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Cave Story (CirnoWaifu).ogg",
             "regex": "(?:cave[^a-z0-9]+story$|cave[^a-z0-9]+story[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+cave[^a-z0-9]+story$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+cave[^a-z0-9]+story[^a-z0-9]+cirnowaifu$)"
