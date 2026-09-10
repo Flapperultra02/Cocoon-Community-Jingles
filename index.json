@@ -7704,6 +7704,16 @@
             "regex": "(?:pokemon[^a-z0-9]+conquest$|pokemon[^a-z0-9]+conquest[^a-z0-9]+flapperultra$|nds[^a-z0-9]+pokemon[^a-z0-9]+conquest$|nds[^a-z0-9]+pokemon[^a-z0-9]+conquest[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Pokemon Diamond",
+            "file": "jingles/nds/SJH/Pokemon Diamond (V1) (SJH).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+diamond$|pokemon[^a-z0-9]+diamond[^a-z0-9]+v1$|pokemon[^a-z0-9]+diamond[^a-z0-9]+sjh$|nds[^a-z0-9]+pokemon[^a-z0-9]+diamond$|nds[^a-z0-9]+pokemon[^a-z0-9]+diamond[^a-z0-9]+v1$|nds[^a-z0-9]+pokemon[^a-z0-9]+diamond[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Pokemon Heart Gold",
+            "file": "jingles/nds/SJH/Pokemon Heart Gold (V1) (SJH).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+heart[^a-z0-9]+gold$|pokemon[^a-z0-9]+heart[^a-z0-9]+gold[^a-z0-9]+v1$|pokemon[^a-z0-9]+heart[^a-z0-9]+gold[^a-z0-9]+sjh$|nds[^a-z0-9]+pokemon[^a-z0-9]+heart[^a-z0-9]+gold$|nds[^a-z0-9]+pokemon[^a-z0-9]+heart[^a-z0-9]+gold[^a-z0-9]+v1$|nds[^a-z0-9]+pokemon[^a-z0-9]+heart[^a-z0-9]+gold[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Pokemon Link",
             "file": "jingles/nds/SJH/Pokemon Link (V1) (SJH).mp3",
             "regex": "(?:pokemon[^a-z0-9]+link$|pokemon[^a-z0-9]+link[^a-z0-9]+v1$|pokemon[^a-z0-9]+link[^a-z0-9]+sjh$|nds[^a-z0-9]+pokemon[^a-z0-9]+link$|nds[^a-z0-9]+pokemon[^a-z0-9]+link[^a-z0-9]+v1$|nds[^a-z0-9]+pokemon[^a-z0-9]+link[^a-z0-9]+sjh$)"
@@ -7734,6 +7744,11 @@
             "regex": "(?:pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+explorers[^a-z0-9]+of[^a-z0-9]+sky$|pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+explorers[^a-z0-9]+of[^a-z0-9]+sky[^a-z0-9]+flapperultra$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+explorers[^a-z0-9]+of[^a-z0-9]+sky$|nds[^a-z0-9]+pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+explorers[^a-z0-9]+of[^a-z0-9]+sky[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Pokemon Pearl",
+            "file": "jingles/nds/SJH/Pokemon Pearl (V1) (SJH).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+pearl$|pokemon[^a-z0-9]+pearl[^a-z0-9]+v1$|pokemon[^a-z0-9]+pearl[^a-z0-9]+sjh$|nds[^a-z0-9]+pokemon[^a-z0-9]+pearl$|nds[^a-z0-9]+pokemon[^a-z0-9]+pearl[^a-z0-9]+v1$|nds[^a-z0-9]+pokemon[^a-z0-9]+pearl[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Pokemon Ranger",
             "file": "jingles/nds/flapperultra/Pokemon Ranger (flapperultra).ogg",
             "regex": "(?:pokemon[^a-z0-9]+ranger$|pokemon[^a-z0-9]+ranger[^a-z0-9]+flapperultra$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+flapperultra$)"
@@ -7762,6 +7777,11 @@
             "game": "Pokemon Ranger 3 - Guardian Signs",
             "file": "jingles/nds/flapperultra/Pokemon Ranger 3 - Guardian Signs (flapperultra).ogg",
             "regex": "(?:pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+guardian[^a-z0-9]+signs$|pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)$|pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+guardian[^a-z0-9]+signs[^a-z0-9]+flapperultra$|pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+guardian[^a-z0-9]+signs$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+guardian[^a-z0-9]+signs[^a-z0-9]+flapperultra$|nds[^a-z0-9]+pokemon[^a-z0-9]+ranger[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Pokemon Soul Silver",
+            "file": "jingles/nds/SJH/Pokemon Soul Silver (V1) (SJH).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+soul[^a-z0-9]+silver$|pokemon[^a-z0-9]+soul[^a-z0-9]+silver[^a-z0-9]+v1$|pokemon[^a-z0-9]+soul[^a-z0-9]+silver[^a-z0-9]+sjh$|nds[^a-z0-9]+pokemon[^a-z0-9]+soul[^a-z0-9]+silver$|nds[^a-z0-9]+pokemon[^a-z0-9]+soul[^a-z0-9]+silver[^a-z0-9]+v1$|nds[^a-z0-9]+pokemon[^a-z0-9]+soul[^a-z0-9]+silver[^a-z0-9]+sjh$)"
         },
         {
             "game": "Pokemon Trozei!",
