@@ -6744,6 +6744,26 @@
             "regex": "(?:big[^a-z0-9]+brain[^a-z0-9]+academy$|big[^a-z0-9]+brain[^a-z0-9]+academy[^a-z0-9]+v2$|big[^a-z0-9]+brain[^a-z0-9]+academy[^a-z0-9]+sjh$|nds[^a-z0-9]+big[^a-z0-9]+brain[^a-z0-9]+academy$|nds[^a-z0-9]+big[^a-z0-9]+brain[^a-z0-9]+academy[^a-z0-9]+v2$|nds[^a-z0-9]+big[^a-z0-9]+brain[^a-z0-9]+academy[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Bloxavoid",
+            "file": "jingles/nds/SJH/Bloxavoid (V1) (SJH).ogg",
+            "regex": "(?:bloxavoid$|bloxavoid[^a-z0-9]+v1$|bloxavoid[^a-z0-9]+sjh$|nds[^a-z0-9]+bloxavoid$|nds[^a-z0-9]+bloxavoid[^a-z0-9]+v1$|nds[^a-z0-9]+bloxavoid[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Bloxavoid",
+            "file": "jingles/nds/SJH/Bloxavoid (V2) (SJH).ogg",
+            "regex": "(?:bloxavoid$|bloxavoid[^a-z0-9]+v2$|bloxavoid[^a-z0-9]+sjh$|nds[^a-z0-9]+bloxavoid$|nds[^a-z0-9]+bloxavoid[^a-z0-9]+v2$|nds[^a-z0-9]+bloxavoid[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Bloxavoid",
+            "file": "jingles/nds/SJH/Bloxavoid (V3) (SJH).ogg",
+            "regex": "(?:bloxavoid$|bloxavoid[^a-z0-9]+v3$|bloxavoid[^a-z0-9]+sjh$|nds[^a-z0-9]+bloxavoid$|nds[^a-z0-9]+bloxavoid[^a-z0-9]+v3$|nds[^a-z0-9]+bloxavoid[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Bloxavoid",
+            "file": "jingles/nds/SJH/Bloxavoid (V4) (SJH).ogg",
+            "regex": "(?:bloxavoid$|bloxavoid[^a-z0-9]+v4$|bloxavoid[^a-z0-9]+sjh$|nds[^a-z0-9]+bloxavoid$|nds[^a-z0-9]+bloxavoid[^a-z0-9]+v4$|nds[^a-z0-9]+bloxavoid[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Blue Dragon Plus",
             "file": "jingles/nds/flapperultra/Blue Dragon Plus (flapperultra).ogg",
             "regex": "(?:blue[^a-z0-9]+dragon[^a-z0-9]+plus$|blue[^a-z0-9]+dragon[^a-z0-9]+plus[^a-z0-9]+flapperultra$|nds[^a-z0-9]+blue[^a-z0-9]+dragon[^a-z0-9]+plus$|nds[^a-z0-9]+blue[^a-z0-9]+dragon[^a-z0-9]+plus[^a-z0-9]+flapperultra$)"
