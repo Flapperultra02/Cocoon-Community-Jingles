@@ -1971,6 +1971,21 @@
             "regex": "(?:nintendo[^a-z0-9]+today$|nintendo[^a-z0-9]+today[^a-z0-9]+felipne87r$|android[^a-z0-9]+nintendo[^a-z0-9]+today$|android[^a-z0-9]+nintendo[^a-z0-9]+today[^a-z0-9]+felipne87r$)"
         },
         {
+            "game": "Papa Pear Saga",
+            "file": "jingles/android/SJH/Papa Pear Saga (V1) (SJH).ogg",
+            "regex": "(?:papa[^a-z0-9]+pear[^a-z0-9]+saga$|papa[^a-z0-9]+pear[^a-z0-9]+saga[^a-z0-9]+v1$|papa[^a-z0-9]+pear[^a-z0-9]+saga[^a-z0-9]+sjh$|android[^a-z0-9]+papa[^a-z0-9]+pear[^a-z0-9]+saga$|android[^a-z0-9]+papa[^a-z0-9]+pear[^a-z0-9]+saga[^a-z0-9]+v1$|android[^a-z0-9]+papa[^a-z0-9]+pear[^a-z0-9]+saga[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Papa Pear Saga",
+            "file": "jingles/android/SJH/Papa Pear Saga (V2) (SJH).ogg",
+            "regex": "(?:papa[^a-z0-9]+pear[^a-z0-9]+saga$|papa[^a-z0-9]+pear[^a-z0-9]+saga[^a-z0-9]+v2$|papa[^a-z0-9]+pear[^a-z0-9]+saga[^a-z0-9]+sjh$|android[^a-z0-9]+papa[^a-z0-9]+pear[^a-z0-9]+saga$|android[^a-z0-9]+papa[^a-z0-9]+pear[^a-z0-9]+saga[^a-z0-9]+v2$|android[^a-z0-9]+papa[^a-z0-9]+pear[^a-z0-9]+saga[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Papa Pear Saga",
+            "file": "jingles/android/SJH/Papa Pear Saga (V3) (SJH).ogg",
+            "regex": "(?:papa[^a-z0-9]+pear[^a-z0-9]+saga$|papa[^a-z0-9]+pear[^a-z0-9]+saga[^a-z0-9]+v3$|papa[^a-z0-9]+pear[^a-z0-9]+saga[^a-z0-9]+sjh$|android[^a-z0-9]+papa[^a-z0-9]+pear[^a-z0-9]+saga$|android[^a-z0-9]+papa[^a-z0-9]+pear[^a-z0-9]+saga[^a-z0-9]+v3$|android[^a-z0-9]+papa[^a-z0-9]+pear[^a-z0-9]+saga[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Persona 5 The Phantom X",
             "file": "jingles/android/CirnoWaifu/Persona 5 The Phantom X (CirnoWaifu).ogg",
             "regex": "(?:persona[^a-z0-9]+(?:5|v)[^a-z0-9]+the[^a-z0-9]+phantom[^a-z0-9]+(?:x|10)$|persona[^a-z0-9]+(?:5|v)[^a-z0-9]+the[^a-z0-9]+phantom[^a-z0-9]+(?:x|10)[^a-z0-9]+cirnowaifu$|android[^a-z0-9]+persona[^a-z0-9]+(?:5|v)[^a-z0-9]+the[^a-z0-9]+phantom[^a-z0-9]+(?:x|10)$|android[^a-z0-9]+persona[^a-z0-9]+(?:5|v)[^a-z0-9]+the[^a-z0-9]+phantom[^a-z0-9]+(?:x|10)[^a-z0-9]+cirnowaifu$)"
