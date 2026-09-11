@@ -9559,6 +9559,16 @@
             "regex": "(?:candy[^a-z0-9]+crush$|candy[^a-z0-9]+crush[^a-z0-9]+v2$|candy[^a-z0-9]+crush[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Candy Crush Jelly Saga",
+            "file": "jingles/pc steam & multiplat/SJH/Candy Crush Jelly Saga (V1) (SJH).ogg",
+            "regex": "(?:candy[^a-z0-9]+crush[^a-z0-9]+jelly[^a-z0-9]+saga$|candy[^a-z0-9]+crush[^a-z0-9]+jelly[^a-z0-9]+saga[^a-z0-9]+v1$|candy[^a-z0-9]+crush[^a-z0-9]+jelly[^a-z0-9]+saga[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+jelly[^a-z0-9]+saga$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+jelly[^a-z0-9]+saga[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+jelly[^a-z0-9]+saga[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Candy Crush Jelly Saga",
+            "file": "jingles/pc steam & multiplat/SJH/Candy Crush Jelly Saga (V2) (SJH).ogg",
+            "regex": "(?:candy[^a-z0-9]+crush[^a-z0-9]+jelly[^a-z0-9]+saga$|candy[^a-z0-9]+crush[^a-z0-9]+jelly[^a-z0-9]+saga[^a-z0-9]+v2$|candy[^a-z0-9]+crush[^a-z0-9]+jelly[^a-z0-9]+saga[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+jelly[^a-z0-9]+saga$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+jelly[^a-z0-9]+saga[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+jelly[^a-z0-9]+saga[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Candy Crush Soda Saga",
             "file": "jingles/pc steam & multiplat/SJH/Candy Crush Soda Saga (V1) (SJH).ogg",
             "regex": "(?:candy[^a-z0-9]+crush[^a-z0-9]+soda[^a-z0-9]+saga$|candy[^a-z0-9]+crush[^a-z0-9]+soda[^a-z0-9]+saga[^a-z0-9]+v1$|candy[^a-z0-9]+crush[^a-z0-9]+soda[^a-z0-9]+saga[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+soda[^a-z0-9]+saga$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+soda[^a-z0-9]+saga[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+candy[^a-z0-9]+crush[^a-z0-9]+soda[^a-z0-9]+saga[^a-z0-9]+sjh$)"
