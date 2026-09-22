@@ -9274,6 +9274,26 @@
             "regex": "(?:2ship2harkinian$|majora[^a-z0-9]+s[^a-z0-9]+mask$|majora[^a-z0-9]+mask$|majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+3d$|majora[^a-z0-9]+mask[^a-z0-9]+3d$|majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+hd$|majora[^a-z0-9]+mask[^a-z0-9]+hd$|zelda[^a-z0-9]+recompiled$|2ship2harkinian[^a-z0-9]+natalie$|majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+natalie$|majora[^a-z0-9]+mask[^a-z0-9]+natalie$|majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+3d[^a-z0-9]+natalie$|majora[^a-z0-9]+mask[^a-z0-9]+3d[^a-z0-9]+natalie$|majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+hd[^a-z0-9]+natalie$|majora[^a-z0-9]+mask[^a-z0-9]+hd[^a-z0-9]+natalie$|zelda[^a-z0-9]+recompiled[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+2ship2harkinian$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+mask$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+3d$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+mask[^a-z0-9]+3d$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+hd$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+mask[^a-z0-9]+hd$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zelda[^a-z0-9]+recompiled$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+2ship2harkinian[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+mask[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+3d[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+mask[^a-z0-9]+3d[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+hd[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+majora[^a-z0-9]+mask[^a-z0-9]+hd[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+zelda[^a-z0-9]+recompiled[^a-z0-9]+natalie$)"
         },
         {
+            "game": "3D Aqua Slider 1",
+            "file": "jingles/pc steam & multiplat/SJH/3D Aqua Slider 1.ogg",
+            "regex": "(?:3d[^a-z0-9]+aqua[^a-z0-9]+slider[^a-z0-9]+(?:1|i)$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+3d[^a-z0-9]+aqua[^a-z0-9]+slider[^a-z0-9]+(?:1|i)$)"
+        },
+        {
+            "game": "3D Aqua Slider 2",
+            "file": "jingles/pc steam & multiplat/SJH/3D Aqua Slider 2.ogg",
+            "regex": "(?:3d[^a-z0-9]+aqua[^a-z0-9]+slider[^a-z0-9]+(?:2|ii)$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+3d[^a-z0-9]+aqua[^a-z0-9]+slider[^a-z0-9]+(?:2|ii)$)"
+        },
+        {
+            "game": "3D Aqua Slider 3",
+            "file": "jingles/pc steam & multiplat/SJH/3D Aqua Slider 3.ogg",
+            "regex": "(?:3d[^a-z0-9]+aqua[^a-z0-9]+slider[^a-z0-9]+(?:3|iii)$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+3d[^a-z0-9]+aqua[^a-z0-9]+slider[^a-z0-9]+(?:3|iii)$)"
+        },
+        {
+            "game": "3D Aqua Slider 4",
+            "file": "jingles/pc steam & multiplat/SJH/3D Aqua Slider 4.ogg",
+            "regex": "(?:3d[^a-z0-9]+aqua[^a-z0-9]+slider[^a-z0-9]+(?:4|iv)$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+3d[^a-z0-9]+aqua[^a-z0-9]+slider[^a-z0-9]+(?:4|iv)$)"
+        },
+        {
             "game": "9 Years of Shadows",
             "file": "jingles/pc steam & multiplat/Tsuukasa-R/9 Years of Shadows (Tsuukasa-R).ogg",
             "regex": "(?:(?:9|ix)[^a-z0-9]+years[^a-z0-9]+of[^a-z0-9]+shadows$|(?:9|ix)[^a-z0-9]+years[^a-z0-9]+of[^a-z0-9]+shadows[^a-z0-9]+tsuukasa[^a-z0-9]+r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+(?:9|ix)[^a-z0-9]+years[^a-z0-9]+of[^a-z0-9]+shadows$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+(?:9|ix)[^a-z0-9]+years[^a-z0-9]+of[^a-z0-9]+shadows[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
