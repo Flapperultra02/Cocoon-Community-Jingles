@@ -2001,6 +2001,26 @@
             "regex": "(?:pokemmo$|pokemmo[^a-z0-9]+v2$|pokemmo[^a-z0-9]+sjh$|android[^a-z0-9]+pokemmo$|android[^a-z0-9]+pokemmo[^a-z0-9]+v2$|android[^a-z0-9]+pokemmo[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Pokemon TCG Pocket",
+            "file": "jingles/android/SJH/Pokemon TCG Pocket (V1) (SJH).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket$|pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+v1$|pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+sjh$|android[^a-z0-9]+pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket$|android[^a-z0-9]+pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+v1$|android[^a-z0-9]+pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Pokemon TCG Pocket",
+            "file": "jingles/android/SJH/Pokemon TCG Pocket (V2) (SJH).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket$|pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+v2$|pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+sjh$|android[^a-z0-9]+pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket$|android[^a-z0-9]+pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+v2$|android[^a-z0-9]+pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Pokemon TCG Pocket",
+            "file": "jingles/android/SJH/Pokemon TCG Pocket (V3) (SJH).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket$|pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+v3$|pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+sjh$|android[^a-z0-9]+pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket$|android[^a-z0-9]+pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+v3$|android[^a-z0-9]+pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Pokemon TCG Pocket",
+            "file": "jingles/android/SJH/Pokemon TCG Pocket (V4) (SJH).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket$|pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+v4$|pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+sjh$|android[^a-z0-9]+pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket$|android[^a-z0-9]+pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+v4$|android[^a-z0-9]+pokemon[^a-z0-9]+tcg[^a-z0-9]+pocket[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Pokémon Masters EX",
             "file": "jingles/android/Felipne87r/Pokémon Masters EX (Felipne87r).ogg",
             "regex": "(?:pok[^a-z0-9]+mon[^a-z0-9]+masters[^a-z0-9]+ex$|pok[^a-z0-9]+mon[^a-z0-9]+masters[^a-z0-9]+ex[^a-z0-9]+felipne87r$|android[^a-z0-9]+pok[^a-z0-9]+mon[^a-z0-9]+masters[^a-z0-9]+ex$|android[^a-z0-9]+pok[^a-z0-9]+mon[^a-z0-9]+masters[^a-z0-9]+ex[^a-z0-9]+felipne87r$)"
