@@ -11649,6 +11649,36 @@
             "regex": "(?:phoenix[^a-z0-9]+wright[^a-z0-9]+trilogy$|phoenix[^a-z0-9]+wright[^a-z0-9]+trilogy[^a-z0-9]+gracie[^a-z0-9]+failfox$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+phoenix[^a-z0-9]+wright[^a-z0-9]+trilogy$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+phoenix[^a-z0-9]+wright[^a-z0-9]+trilogy[^a-z0-9]+gracie[^a-z0-9]+failfox$)"
         },
         {
+            "game": "Pickcrafter",
+            "file": "jingles/pc steam & multiplat/SJH/Pickcrafter (V1) (SJH).ogg",
+            "regex": "(?:pickcrafter$|pickcrafter[^a-z0-9]+v1$|pickcrafter[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Pickcrafter",
+            "file": "jingles/pc steam & multiplat/SJH/Pickcrafter (V2) (SJH).ogg",
+            "regex": "(?:pickcrafter$|pickcrafter[^a-z0-9]+v2$|pickcrafter[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Pickcrafter",
+            "file": "jingles/pc steam & multiplat/SJH/Pickcrafter (V3) (SJH).ogg",
+            "regex": "(?:pickcrafter$|pickcrafter[^a-z0-9]+v3$|pickcrafter[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter[^a-z0-9]+v3$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Pickcrafter",
+            "file": "jingles/pc steam & multiplat/SJH/Pickcrafter (V4) (SJH).ogg",
+            "regex": "(?:pickcrafter$|pickcrafter[^a-z0-9]+v4$|pickcrafter[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter[^a-z0-9]+v4$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Pickcrafter",
+            "file": "jingles/pc steam & multiplat/SJH/Pickcrafter (V5) (SJH).ogg",
+            "regex": "(?:pickcrafter$|pickcrafter[^a-z0-9]+v5$|pickcrafter[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter[^a-z0-9]+v5$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Pickcrafter",
+            "file": "jingles/pc steam & multiplat/SJH/Pickcrafter (V6) (SJH).ogg",
+            "regex": "(?:pickcrafter$|pickcrafter[^a-z0-9]+v6$|pickcrafter[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter[^a-z0-9]+v6$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pickcrafter[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Pizza Tower",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Pizza Tower (BennyTheFirstHunter).ogg",
             "regex": "(?:pizza[^a-z0-9]+tower$|pizza[^a-z0-9]+tower[^a-z0-9]+bennythefirsthunter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pizza[^a-z0-9]+tower$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+pizza[^a-z0-9]+tower[^a-z0-9]+bennythefirsthunter$)"
