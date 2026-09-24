@@ -2091,9 +2091,39 @@
             "regex": "(?:super[^a-z0-9]+mario[^a-z0-9]+run$|super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+felipne87r$|android[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+run$|android[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+felipne87r$)"
         },
         {
+            "game": "Super Mario Run",
+            "file": "jingles/android/SJH/Super Mario Run (V1) (SJH).ogg",
+            "regex": "(?:super[^a-z0-9]+mario[^a-z0-9]+run$|super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+v1$|super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+sjh$|android[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+run$|android[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+v1$|android[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Super Mario Run",
+            "file": "jingles/android/SJH/Super Mario Run (V2) (SJH).ogg",
+            "regex": "(?:super[^a-z0-9]+mario[^a-z0-9]+run$|super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+v2$|super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+sjh$|android[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+run$|android[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+v2$|android[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Super Mario Run",
+            "file": "jingles/android/SJH/Super Mario Run (V23) (SJH).ogg",
+            "regex": "(?:super[^a-z0-9]+mario[^a-z0-9]+run$|super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+v23$|super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+sjh$|android[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+run$|android[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+v23$|android[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+run[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Super Monkey Ball Sakura Edition",
             "file": "jingles/android/Brookenium/Super Monkey Ball Sakura Edition (Brookenium).ogg",
             "regex": "(?:super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+sakura[^a-z0-9]+edition$|super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+sakura[^a-z0-9]+edition[^a-z0-9]+brookenium$|android[^a-z0-9]+super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+sakura[^a-z0-9]+edition$|android[^a-z0-9]+super[^a-z0-9]+monkey[^a-z0-9]+ball[^a-z0-9]+sakura[^a-z0-9]+edition[^a-z0-9]+brookenium$)"
+        },
+        {
+            "game": "Temple Run",
+            "file": "jingles/android/SJH/Temple Run (V1) (SJH).ogg",
+            "regex": "(?:temple[^a-z0-9]+run$|temple[^a-z0-9]+run[^a-z0-9]+v1$|temple[^a-z0-9]+run[^a-z0-9]+sjh$|android[^a-z0-9]+temple[^a-z0-9]+run$|android[^a-z0-9]+temple[^a-z0-9]+run[^a-z0-9]+v1$|android[^a-z0-9]+temple[^a-z0-9]+run[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Temple Run",
+            "file": "jingles/android/SJH/Temple Run (V2) (SJH).ogg",
+            "regex": "(?:temple[^a-z0-9]+run$|temple[^a-z0-9]+run[^a-z0-9]+v2$|temple[^a-z0-9]+run[^a-z0-9]+sjh$|android[^a-z0-9]+temple[^a-z0-9]+run$|android[^a-z0-9]+temple[^a-z0-9]+run[^a-z0-9]+v2$|android[^a-z0-9]+temple[^a-z0-9]+run[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Temple Run",
+            "file": "jingles/android/SJH/Temple Run (V3) (SJH).ogg",
+            "regex": "(?:temple[^a-z0-9]+run$|temple[^a-z0-9]+run[^a-z0-9]+v3$|temple[^a-z0-9]+run[^a-z0-9]+sjh$|android[^a-z0-9]+temple[^a-z0-9]+run$|android[^a-z0-9]+temple[^a-z0-9]+run[^a-z0-9]+v3$|android[^a-z0-9]+temple[^a-z0-9]+run[^a-z0-9]+sjh$)"
         },
         {
             "game": "Umamusume Pretty Derby",
