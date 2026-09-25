@@ -2051,6 +2051,11 @@
             "regex": "(?:rollercoaster[^a-z0-9]+tycoon[^a-z0-9]+classic$|rollercoaster[^a-z0-9]+tycoon[^a-z0-9]+classic[^a-z0-9]+rct[^a-z0-9]+classic$|rollercoaster[^a-z0-9]+tycoon[^a-z0-9]+classic[^a-z0-9]+brookenium$|android[^a-z0-9]+rollercoaster[^a-z0-9]+tycoon[^a-z0-9]+classic$|android[^a-z0-9]+rollercoaster[^a-z0-9]+tycoon[^a-z0-9]+classic[^a-z0-9]+rct[^a-z0-9]+classic$|android[^a-z0-9]+rollercoaster[^a-z0-9]+tycoon[^a-z0-9]+classic[^a-z0-9]+brookenium$)"
         },
         {
+            "game": "Royal Match",
+            "file": "jingles/android/SJH/Royal Match (V1) (SJH).ogg",
+            "regex": "(?:royal[^a-z0-9]+match$|royal[^a-z0-9]+match[^a-z0-9]+v1$|royal[^a-z0-9]+match[^a-z0-9]+sjh$|android[^a-z0-9]+royal[^a-z0-9]+match$|android[^a-z0-9]+royal[^a-z0-9]+match[^a-z0-9]+v1$|android[^a-z0-9]+royal[^a-z0-9]+match[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Samsung Unlock Sound",
             "file": "jingles/android/Felipne87r/Samsung Unlock Sound (older) (Felipne87r).ogg",
             "regex": "(?:samsung[^a-z0-9]+unlock[^a-z0-9]+sound$|samsung[^a-z0-9]+unlock[^a-z0-9]+sound[^a-z0-9]+older$|samsung[^a-z0-9]+unlock[^a-z0-9]+sound[^a-z0-9]+felipne87r$|android[^a-z0-9]+samsung[^a-z0-9]+unlock[^a-z0-9]+sound$|android[^a-z0-9]+samsung[^a-z0-9]+unlock[^a-z0-9]+sound[^a-z0-9]+older$|android[^a-z0-9]+samsung[^a-z0-9]+unlock[^a-z0-9]+sound[^a-z0-9]+felipne87r$)"
