@@ -2061,6 +2061,16 @@
             "regex": "(?:samsung[^a-z0-9]+unlock[^a-z0-9]+sound$|samsung[^a-z0-9]+unlock[^a-z0-9]+sound[^a-z0-9]+older$|samsung[^a-z0-9]+unlock[^a-z0-9]+sound[^a-z0-9]+felipne87r$|android[^a-z0-9]+samsung[^a-z0-9]+unlock[^a-z0-9]+sound$|android[^a-z0-9]+samsung[^a-z0-9]+unlock[^a-z0-9]+sound[^a-z0-9]+older$|android[^a-z0-9]+samsung[^a-z0-9]+unlock[^a-z0-9]+sound[^a-z0-9]+felipne87r$)"
         },
         {
+            "game": "Smash Hit",
+            "file": "jingles/android/SJH/Smash Hit (V1) (SJH).ogg",
+            "regex": "(?:smash[^a-z0-9]+hit$|smash[^a-z0-9]+hit[^a-z0-9]+v1$|smash[^a-z0-9]+hit[^a-z0-9]+sjh$|android[^a-z0-9]+smash[^a-z0-9]+hit$|android[^a-z0-9]+smash[^a-z0-9]+hit[^a-z0-9]+v1$|android[^a-z0-9]+smash[^a-z0-9]+hit[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Smash Hit",
+            "file": "jingles/android/SJH/Smash Hit (V2) (SJH).ogg",
+            "regex": "(?:smash[^a-z0-9]+hit$|smash[^a-z0-9]+hit[^a-z0-9]+v2$|smash[^a-z0-9]+hit[^a-z0-9]+sjh$|android[^a-z0-9]+smash[^a-z0-9]+hit$|android[^a-z0-9]+smash[^a-z0-9]+hit[^a-z0-9]+v2$|android[^a-z0-9]+smash[^a-z0-9]+hit[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Sonic Dash",
             "file": "jingles/android/Felipne87r/Sonic Dash (Felipne87r).ogg",
             "regex": "(?:sonic[^a-z0-9]+dash$|sonic[^a-z0-9]+dash[^a-z0-9]+felipne87r$|android[^a-z0-9]+sonic[^a-z0-9]+dash$|android[^a-z0-9]+sonic[^a-z0-9]+dash[^a-z0-9]+felipne87r$)"
