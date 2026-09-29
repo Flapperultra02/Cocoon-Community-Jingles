@@ -9409,6 +9409,11 @@
             "regex": "(?:angry[^a-z0-9]+birds[^a-z0-9]+space$|angry[^a-z0-9]+birds[^a-z0-9]+space[^a-z0-9]+v2$|angry[^a-z0-9]+birds[^a-z0-9]+space[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+space$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+space[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+space[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Angry Birds Starwars",
+            "file": "jingles/pc steam & multiplat/SJH/Angry Birds Starwars (V1) (SJH).ogg",
+            "regex": "(?:angry[^a-z0-9]+birds[^a-z0-9]+starwars$|angry[^a-z0-9]+birds[^a-z0-9]+starwars[^a-z0-9]+v1$|angry[^a-z0-9]+birds[^a-z0-9]+starwars[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+starwars$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+starwars[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+starwars[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "animal well",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/animal well (BennyTheFirstHunter).ogg",
             "regex": "(?:animal[^a-z0-9]+well$|animal[^a-z0-9]+well[^a-z0-9]+bennythefirsthunter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+animal[^a-z0-9]+well$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+animal[^a-z0-9]+well[^a-z0-9]+bennythefirsthunter$)"
