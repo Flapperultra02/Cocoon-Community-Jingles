@@ -2171,6 +2171,16 @@
             "regex": "(?:winlator$|winlator[^a-z0-9]+felipne87r$|android[^a-z0-9]+winlator$|android[^a-z0-9]+winlator[^a-z0-9]+felipne87r$)"
         },
         {
+            "game": "Wordscapes",
+            "file": "jingles/android/SJH/Wordscapes (V1) (SJH).ogg",
+            "regex": "(?:wordscapes$|wordscapes[^a-z0-9]+v1$|wordscapes[^a-z0-9]+sjh$|android[^a-z0-9]+wordscapes$|android[^a-z0-9]+wordscapes[^a-z0-9]+v1$|android[^a-z0-9]+wordscapes[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Wordscapes",
+            "file": "jingles/android/SJH/Wordscapes (V2) (SJH).ogg",
+            "regex": "(?:wordscapes$|wordscapes[^a-z0-9]+v2$|wordscapes[^a-z0-9]+sjh$|android[^a-z0-9]+wordscapes$|android[^a-z0-9]+wordscapes[^a-z0-9]+v2$|android[^a-z0-9]+wordscapes[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Yo-Kai Watch Gerapo Rhythm",
             "file": "jingles/android/Felipne87r/Yo-Kai Watch Gerapo Rhythm (Felipne87r).ogg",
             "regex": "(?:yo[^a-z0-9]+kai[^a-z0-9]+watch[^a-z0-9]+gerapo[^a-z0-9]+rhythm$|yo[^a-z0-9]+kai[^a-z0-9]+watch[^a-z0-9]+gerapo[^a-z0-9]+rhythm[^a-z0-9]+felipne87r$|android[^a-z0-9]+yo[^a-z0-9]+kai[^a-z0-9]+watch[^a-z0-9]+gerapo[^a-z0-9]+rhythm$|android[^a-z0-9]+yo[^a-z0-9]+kai[^a-z0-9]+watch[^a-z0-9]+gerapo[^a-z0-9]+rhythm[^a-z0-9]+felipne87r$)"
