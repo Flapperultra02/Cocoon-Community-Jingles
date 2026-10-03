@@ -10754,6 +10754,21 @@
             "regex": "(?:freedom[^a-z0-9]+planet[^a-z0-9]+(?:2|ii)$|freedom[^a-z0-9]+planet[^a-z0-9]+(?:2|ii)[^a-z0-9]+dj[^a-z0-9]+ki[^a-z0-9]+sikil$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+freedom[^a-z0-9]+planet[^a-z0-9]+(?:2|ii)$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+freedom[^a-z0-9]+planet[^a-z0-9]+(?:2|ii)[^a-z0-9]+dj[^a-z0-9]+ki[^a-z0-9]+sikil$)"
         },
         {
+            "game": "Frutiger Home",
+            "file": "jingles/pc steam & multiplat/SJH/Frutiger Home (V1) (SJH).ogg",
+            "regex": "(?:frutiger[^a-z0-9]+home$|frutiger[^a-z0-9]+home[^a-z0-9]+v1$|frutiger[^a-z0-9]+home[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+frutiger[^a-z0-9]+home$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+frutiger[^a-z0-9]+home[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+frutiger[^a-z0-9]+home[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Frutiger Home",
+            "file": "jingles/pc steam & multiplat/SJH/Frutiger Home (V2) (SJH).ogg",
+            "regex": "(?:frutiger[^a-z0-9]+home$|frutiger[^a-z0-9]+home[^a-z0-9]+v2$|frutiger[^a-z0-9]+home[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+frutiger[^a-z0-9]+home$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+frutiger[^a-z0-9]+home[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+frutiger[^a-z0-9]+home[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Frutiger Home",
+            "file": "jingles/pc steam & multiplat/SJH/Frutiger Home (V3) (SJH).ogg",
+            "regex": "(?:frutiger[^a-z0-9]+home$|frutiger[^a-z0-9]+home[^a-z0-9]+v3$|frutiger[^a-z0-9]+home[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+frutiger[^a-z0-9]+home$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+frutiger[^a-z0-9]+home[^a-z0-9]+v3$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+frutiger[^a-z0-9]+home[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "FUBUKI - zero in on Holoearth",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/FUBUKI - zero in on Holoearth (CirnoWaifu).ogg",
             "regex": "(?:fubuki[^a-z0-9]+zero[^a-z0-9]+in[^a-z0-9]+on[^a-z0-9]+holoearth$|fubuki$|fubuki[^a-z0-9]+zero[^a-z0-9]+in[^a-z0-9]+on[^a-z0-9]+holoearth[^a-z0-9]+cirnowaifu$|fubuki[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fubuki[^a-z0-9]+zero[^a-z0-9]+in[^a-z0-9]+on[^a-z0-9]+holoearth$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fubuki$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fubuki[^a-z0-9]+zero[^a-z0-9]+in[^a-z0-9]+on[^a-z0-9]+holoearth[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+fubuki[^a-z0-9]+cirnowaifu$)"
