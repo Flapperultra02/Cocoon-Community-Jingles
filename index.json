@@ -10064,6 +10064,31 @@
             "regex": "(?:chrono[^a-z0-9]+gear[^a-z0-9]+warden[^a-z0-9]+of[^a-z0-9]+time$|chrono[^a-z0-9]+gear$|chrono[^a-z0-9]+gear[^a-z0-9]+warden[^a-z0-9]+of[^a-z0-9]+time[^a-z0-9]+cirnowaifu$|chrono[^a-z0-9]+gear[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chrono[^a-z0-9]+gear[^a-z0-9]+warden[^a-z0-9]+of[^a-z0-9]+time$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chrono[^a-z0-9]+gear$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chrono[^a-z0-9]+gear[^a-z0-9]+warden[^a-z0-9]+of[^a-z0-9]+time[^a-z0-9]+cirnowaifu$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chrono[^a-z0-9]+gear[^a-z0-9]+cirnowaifu$)"
         },
         {
+            "game": "Chuzzle Deluxe",
+            "file": "jingles/pc steam & multiplat/SJH/Chuzzle Deluxe (V1) (SJH).ogg",
+            "regex": "(?:chuzzle[^a-z0-9]+deluxe$|chuzzle[^a-z0-9]+deluxe[^a-z0-9]+v1$|chuzzle[^a-z0-9]+deluxe[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Chuzzle Deluxe",
+            "file": "jingles/pc steam & multiplat/SJH/Chuzzle Deluxe (V2) (SJH).ogg",
+            "regex": "(?:chuzzle[^a-z0-9]+deluxe$|chuzzle[^a-z0-9]+deluxe[^a-z0-9]+v2$|chuzzle[^a-z0-9]+deluxe[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe[^a-z0-9]+v2$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Chuzzle Deluxe",
+            "file": "jingles/pc steam & multiplat/SJH/Chuzzle Deluxe (V3) (SJH).ogg",
+            "regex": "(?:chuzzle[^a-z0-9]+deluxe$|chuzzle[^a-z0-9]+deluxe[^a-z0-9]+v3$|chuzzle[^a-z0-9]+deluxe[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe[^a-z0-9]+v3$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Chuzzle Deluxe",
+            "file": "jingles/pc steam & multiplat/SJH/Chuzzle Deluxe (V4) (SJH).ogg",
+            "regex": "(?:chuzzle[^a-z0-9]+deluxe$|chuzzle[^a-z0-9]+deluxe[^a-z0-9]+v4$|chuzzle[^a-z0-9]+deluxe[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe[^a-z0-9]+v4$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Chuzzle Deluxe",
+            "file": "jingles/pc steam & multiplat/SJH/Chuzzle Deluxe (V5) (SJH).ogg",
+            "regex": "(?:chuzzle[^a-z0-9]+deluxe$|chuzzle[^a-z0-9]+deluxe[^a-z0-9]+v5$|chuzzle[^a-z0-9]+deluxe[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe[^a-z0-9]+v5$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Cloverpit",
             "file": "jingles/pc steam & multiplat/Natalie/Cloverpit (Natalie).ogg",
             "regex": "(?:cloverpit$|cloverpit[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+cloverpit$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+cloverpit[^a-z0-9]+natalie$)"
