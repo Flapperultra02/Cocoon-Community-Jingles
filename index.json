@@ -21431,6 +21431,13 @@
             "regex": "(?:youtube$|youtube[^a-z0-9]+sjh$|switch[^a-z0-9]+youtube$|switch[^a-z0-9]+youtube[^a-z0-9]+sjh$)"
         }
     ],
+    "switch2": [
+        {
+            "game": "The Legend of Zelda - Ocarina Of Time Remake",
+            "file": "jingles/switch2/SJH/The Legend of Zelda - Ocarina Of Time Remake (V1) (SJH).ogg",
+            "regex": "(?:the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+ocarina[^a-z0-9]+of[^a-z0-9]+time[^a-z0-9]+remake$|the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda$|the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+ocarina[^a-z0-9]+of[^a-z0-9]+time[^a-z0-9]+remake[^a-z0-9]+v1$|the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+v1$|the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+ocarina[^a-z0-9]+of[^a-z0-9]+time[^a-z0-9]+remake[^a-z0-9]+sjh$|the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+sjh$|switch2[^a-z0-9]+the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+ocarina[^a-z0-9]+of[^a-z0-9]+time[^a-z0-9]+remake$|switch2[^a-z0-9]+the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda$|switch2[^a-z0-9]+the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+ocarina[^a-z0-9]+of[^a-z0-9]+time[^a-z0-9]+remake[^a-z0-9]+v1$|switch2[^a-z0-9]+the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+v1$|switch2[^a-z0-9]+the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+ocarina[^a-z0-9]+of[^a-z0-9]+time[^a-z0-9]+remake[^a-z0-9]+sjh$|switch2[^a-z0-9]+the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+sjh$)"
+        }
+    ],
     "touhou project": [
         {
             "game": "Cirno! Lifts a Boulder",
