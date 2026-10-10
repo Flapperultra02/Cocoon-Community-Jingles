@@ -14077,6 +14077,11 @@
             "regex": "(?:kingdom[^a-z0-9]+hearts$|kingdom[^a-z0-9]+hearts[^a-z0-9]+hikari$|kingdom[^a-z0-9]+hearts[^a-z0-9]+retrowave64$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+hikari$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+retrowave64$)"
         },
         {
+            "game": "Kingdom Hearts",
+            "file": "jingles/ps2/Somecallmesean/Kingdom Hearts (somecallmesean).ogg",
+            "regex": "(?:kingdom[^a-z0-9]+hearts$|kingdom[^a-z0-9]+hearts[^a-z0-9]+somecallmesean$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+somecallmesean$)"
+        },
+        {
             "game": "Kingdom Hearts - RE-Chain of Memories",
             "file": "jingles/ps2/Brookenium/Kingdom Hearts - RE-Chain of Memories (Brookenium).ogg",
             "regex": "(?:kingdom[^a-z0-9]+hearts[^a-z0-9]+re[^a-z0-9]+chain[^a-z0-9]+of[^a-z0-9]+memories$|kingdom[^a-z0-9]+hearts$|kingdom[^a-z0-9]+hearts[^a-z0-9]+re[^a-z0-9]+chain[^a-z0-9]+of[^a-z0-9]+memories[^a-z0-9]+brookenium$|kingdom[^a-z0-9]+hearts[^a-z0-9]+brookenium$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+re[^a-z0-9]+chain[^a-z0-9]+of[^a-z0-9]+memories$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+re[^a-z0-9]+chain[^a-z0-9]+of[^a-z0-9]+memories[^a-z0-9]+brookenium$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+brookenium$)"
@@ -14090,6 +14095,11 @@
             "game": "Kingdom Hearts II",
             "file": "jingles/ps2/RetroWave64/Kingdom Hearts II (Dearly Beloved) (RetroWave64).ogg",
             "regex": "(?:kingdom[^a-z0-9]+hearts[^a-z0-9]+(?:ii|2)$|kingdom[^a-z0-9]+hearts[^a-z0-9]+(?:ii|2)[^a-z0-9]+dearly[^a-z0-9]+beloved$|kingdom[^a-z0-9]+hearts[^a-z0-9]+(?:ii|2)[^a-z0-9]+retrowave64$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+(?:ii|2)$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+(?:ii|2)[^a-z0-9]+dearly[^a-z0-9]+beloved$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+(?:ii|2)[^a-z0-9]+retrowave64$)"
+        },
+        {
+            "game": "Kingdom Hearts II",
+            "file": "jingles/ps2/Somecallmesean/Kingdom Hearts II (somecallmesean).ogg",
+            "regex": "(?:kingdom[^a-z0-9]+hearts[^a-z0-9]+(?:ii|2)$|kingdom[^a-z0-9]+hearts[^a-z0-9]+(?:ii|2)[^a-z0-9]+somecallmesean$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+(?:ii|2)$|ps2[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+(?:ii|2)[^a-z0-9]+somecallmesean$)"
         },
         {
             "game": "Kingdom Hearts Ⅱ",
