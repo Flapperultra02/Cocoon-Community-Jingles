@@ -10089,6 +10089,11 @@
             "regex": "(?:chuzzle[^a-z0-9]+deluxe$|chuzzle[^a-z0-9]+deluxe[^a-z0-9]+v5$|chuzzle[^a-z0-9]+deluxe[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe[^a-z0-9]+v5$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+chuzzle[^a-z0-9]+deluxe[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Click The Button",
+            "file": "jingles/pc steam & multiplat/SJH/Click The Button (V1) (SJH).ogg",
+            "regex": "(?:click[^a-z0-9]+the[^a-z0-9]+button$|click[^a-z0-9]+the[^a-z0-9]+button[^a-z0-9]+v1$|click[^a-z0-9]+the[^a-z0-9]+button[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+click[^a-z0-9]+the[^a-z0-9]+button$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+click[^a-z0-9]+the[^a-z0-9]+button[^a-z0-9]+v1$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+click[^a-z0-9]+the[^a-z0-9]+button[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Cloverpit",
             "file": "jingles/pc steam & multiplat/Natalie/Cloverpit (Natalie).ogg",
             "regex": "(?:cloverpit$|cloverpit[^a-z0-9]+natalie$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+cloverpit$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+cloverpit[^a-z0-9]+natalie$)"
