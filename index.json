@@ -2231,6 +2231,11 @@
             "regex": "(?:whatsapp$|whatsapp[^a-z0-9]+whistle$|whatsapp[^a-z0-9]+felipne87r$|android[^a-z0-9]+whatsapp$|android[^a-z0-9]+whatsapp[^a-z0-9]+whistle$|android[^a-z0-9]+whatsapp[^a-z0-9]+felipne87r$)"
         },
         {
+            "game": "Wild Ones Battle Stadium",
+            "file": "jingles/android/Felipne87r/Wild Ones Battle Stadium (Felipne87r).ogg",
+            "regex": "(?:wild[^a-z0-9]+ones[^a-z0-9]+battle[^a-z0-9]+stadium$|wild[^a-z0-9]+ones[^a-z0-9]+battle[^a-z0-9]+stadium[^a-z0-9]+felipne87r$|android[^a-z0-9]+wild[^a-z0-9]+ones[^a-z0-9]+battle[^a-z0-9]+stadium$|android[^a-z0-9]+wild[^a-z0-9]+ones[^a-z0-9]+battle[^a-z0-9]+stadium[^a-z0-9]+felipne87r$)"
+        },
+        {
             "game": "Winlator",
             "file": "jingles/android/Felipne87r/Winlator (Felipne87r).ogg",
             "regex": "(?:winlator$|winlator[^a-z0-9]+felipne87r$|android[^a-z0-9]+winlator$|android[^a-z0-9]+winlator[^a-z0-9]+felipne87r$)"
