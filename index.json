@@ -39,6 +39,61 @@
     ],
     "3ds": [
         {
+            "game": "(3DS) Ambassador Certificate",
+            "file": "jingles/3ds/Felipne87r/(3DS) Ambassador Certificate (Official) (Felipne87r).ogg",
+            "regex": "(?:3ds[^a-z0-9]+ambassador[^a-z0-9]+certificate$|3ds[^a-z0-9]+ambassador[^a-z0-9]+certificate[^a-z0-9]+official$|3ds[^a-z0-9]+ambassador[^a-z0-9]+certificate[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+3ds[^a-z0-9]+ambassador[^a-z0-9]+certificate$|3ds[^a-z0-9]+3ds[^a-z0-9]+ambassador[^a-z0-9]+certificate[^a-z0-9]+official$|3ds[^a-z0-9]+3ds[^a-z0-9]+ambassador[^a-z0-9]+certificate[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "(3DS) AR Games",
+            "file": "jingles/3ds/Felipne87r/(3DS) AR Games (Official) (Felipne87r).ogg",
+            "regex": "(?:3ds[^a-z0-9]+ar[^a-z0-9]+games$|3ds[^a-z0-9]+ar[^a-z0-9]+games[^a-z0-9]+official$|3ds[^a-z0-9]+ar[^a-z0-9]+games[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+3ds[^a-z0-9]+ar[^a-z0-9]+games$|3ds[^a-z0-9]+3ds[^a-z0-9]+ar[^a-z0-9]+games[^a-z0-9]+official$|3ds[^a-z0-9]+3ds[^a-z0-9]+ar[^a-z0-9]+games[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "(3DS) DevMenu",
+            "file": "jingles/3ds/Felipne87r/(3DS) DevMenu (Official) (Felipne87r).ogg",
+            "regex": "(?:3ds[^a-z0-9]+devmenu$|3ds[^a-z0-9]+devmenu[^a-z0-9]+official$|3ds[^a-z0-9]+devmenu[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+3ds[^a-z0-9]+devmenu$|3ds[^a-z0-9]+3ds[^a-z0-9]+devmenu[^a-z0-9]+official$|3ds[^a-z0-9]+3ds[^a-z0-9]+devmenu[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "(3DS) FBI",
+            "file": "jingles/3ds/Felipne87r/(3DS) FBI (Official) (Felipne87r).ogg",
+            "regex": "(?:3ds[^a-z0-9]+fbi$|3ds[^a-z0-9]+fbi[^a-z0-9]+official$|3ds[^a-z0-9]+fbi[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+3ds[^a-z0-9]+fbi$|3ds[^a-z0-9]+3ds[^a-z0-9]+fbi[^a-z0-9]+official$|3ds[^a-z0-9]+3ds[^a-z0-9]+fbi[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "(3DS) Friday Night Funkin' Snake Engine",
+            "file": "jingles/3ds/Felipne87r/(3DS) Friday Night Funkin' Snake Engine (Official) (Felipne87r).ogg",
+            "regex": "(?:3ds[^a-z0-9]+friday[^a-z0-9]+night[^a-z0-9]+funkin[^a-z0-9]+snake[^a-z0-9]+engine$|3ds[^a-z0-9]+friday[^a-z0-9]+night[^a-z0-9]+funkin[^a-z0-9]+snake[^a-z0-9]+engine[^a-z0-9]+official$|3ds[^a-z0-9]+friday[^a-z0-9]+night[^a-z0-9]+funkin[^a-z0-9]+snake[^a-z0-9]+engine[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+3ds[^a-z0-9]+friday[^a-z0-9]+night[^a-z0-9]+funkin[^a-z0-9]+snake[^a-z0-9]+engine$|3ds[^a-z0-9]+3ds[^a-z0-9]+friday[^a-z0-9]+night[^a-z0-9]+funkin[^a-z0-9]+snake[^a-z0-9]+engine[^a-z0-9]+official$|3ds[^a-z0-9]+3ds[^a-z0-9]+friday[^a-z0-9]+night[^a-z0-9]+funkin[^a-z0-9]+snake[^a-z0-9]+engine[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "(3DS) Health & Safety",
+            "file": "jingles/3ds/Felipne87r/(3DS) Health & Safety (Official) (Felipne87r).ogg",
+            "regex": "(?:3ds[^a-z0-9]+health[^a-z0-9]+safety$|3ds[^a-z0-9]+health[^a-z0-9]+safety[^a-z0-9]+official$|3ds[^a-z0-9]+health[^a-z0-9]+safety[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+3ds[^a-z0-9]+health[^a-z0-9]+safety$|3ds[^a-z0-9]+3ds[^a-z0-9]+health[^a-z0-9]+safety[^a-z0-9]+official$|3ds[^a-z0-9]+3ds[^a-z0-9]+health[^a-z0-9]+safety[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "(3DS) hShop",
+            "file": "jingles/3ds/Felipne87r/(3DS) hShop (Official) (Felipne87r).ogg",
+            "regex": "(?:3ds[^a-z0-9]+hshop$|3ds[^a-z0-9]+hshop[^a-z0-9]+official$|3ds[^a-z0-9]+hshop[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+3ds[^a-z0-9]+hshop$|3ds[^a-z0-9]+3ds[^a-z0-9]+hshop[^a-z0-9]+official$|3ds[^a-z0-9]+3ds[^a-z0-9]+hshop[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "(3DS) LumaUpdater",
+            "file": "jingles/3ds/Felipne87r/(3DS) LumaUpdater (Official) (Felipne87r).ogg",
+            "regex": "(?:3ds[^a-z0-9]+lumaupdater$|3ds[^a-z0-9]+lumaupdater[^a-z0-9]+official$|3ds[^a-z0-9]+lumaupdater[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+3ds[^a-z0-9]+lumaupdater$|3ds[^a-z0-9]+3ds[^a-z0-9]+lumaupdater[^a-z0-9]+official$|3ds[^a-z0-9]+3ds[^a-z0-9]+lumaupdater[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "(3DS) Moonlight",
+            "file": "jingles/3ds/Felipne87r/(3DS) Moonlight (Official) (Felipne87r).ogg",
+            "regex": "(?:3ds[^a-z0-9]+moonlight$|3ds[^a-z0-9]+moonlight[^a-z0-9]+official$|3ds[^a-z0-9]+moonlight[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+3ds[^a-z0-9]+moonlight$|3ds[^a-z0-9]+3ds[^a-z0-9]+moonlight[^a-z0-9]+official$|3ds[^a-z0-9]+3ds[^a-z0-9]+moonlight[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "(3DS) Red Viper",
+            "file": "jingles/3ds/Felipne87r/(3DS) Red Viper (Official) (Felipne87r).ogg",
+            "regex": "(?:3ds[^a-z0-9]+red[^a-z0-9]+viper$|3ds[^a-z0-9]+red[^a-z0-9]+viper[^a-z0-9]+official$|3ds[^a-z0-9]+red[^a-z0-9]+viper[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+3ds[^a-z0-9]+red[^a-z0-9]+viper$|3ds[^a-z0-9]+3ds[^a-z0-9]+red[^a-z0-9]+viper[^a-z0-9]+official$|3ds[^a-z0-9]+3ds[^a-z0-9]+red[^a-z0-9]+viper[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "(3DS) Universal Updater",
+            "file": "jingles/3ds/Felipne87r/(3DS) Universal Updater (Official) (Felipne87r).ogg",
+            "regex": "(?:3ds[^a-z0-9]+universal[^a-z0-9]+updater$|3ds[^a-z0-9]+universal[^a-z0-9]+updater[^a-z0-9]+official$|3ds[^a-z0-9]+universal[^a-z0-9]+updater[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+3ds[^a-z0-9]+universal[^a-z0-9]+updater$|3ds[^a-z0-9]+3ds[^a-z0-9]+universal[^a-z0-9]+updater[^a-z0-9]+official$|3ds[^a-z0-9]+3ds[^a-z0-9]+universal[^a-z0-9]+updater[^a-z0-9]+felipne87r$)"
+        },
+        {
             "game": "3DS Activity Log",
             "file": "jingles/3ds/SJH/3DS Activity Log (SJH).mp3",
             "regex": "(?:3ds[^a-z0-9]+activity[^a-z0-9]+log$|3ds[^a-z0-9]+activity[^a-z0-9]+log[^a-z0-9]+sjh$|3ds[^a-z0-9]+3ds[^a-z0-9]+activity[^a-z0-9]+log$|3ds[^a-z0-9]+3ds[^a-z0-9]+activity[^a-z0-9]+log[^a-z0-9]+sjh$)"
@@ -74,6 +129,11 @@
             "regex": "(?:3ds[^a-z0-9]+settings$|3ds[^a-z0-9]+settings[^a-z0-9]+sjh$|3ds[^a-z0-9]+3ds[^a-z0-9]+settings$|3ds[^a-z0-9]+3ds[^a-z0-9]+settings[^a-z0-9]+sjh$)"
         },
         {
+            "game": "3DShell",
+            "file": "jingles/3ds/Felipne87r/3DShell (Official) (Felipne87r).ogg",
+            "regex": "(?:3dshell$|3dshell[^a-z0-9]+official$|3dshell[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+3dshell$|3ds[^a-z0-9]+3dshell[^a-z0-9]+official$|3ds[^a-z0-9]+3dshell[^a-z0-9]+felipne87r$)"
+        },
+        {
             "game": "7th Dragon III - Code VFD",
             "file": "jingles/3ds/RayanAIR/7th Dragon III - Code VFD (RayanAIR).ogg",
             "regex": "(?:7th[^a-z0-9]+dragon[^a-z0-9]+(?:iii|3)[^a-z0-9]+code[^a-z0-9]+vfd$|7th[^a-z0-9]+dragon[^a-z0-9]+(?:iii|3)$|7th[^a-z0-9]+dragon[^a-z0-9]+(?:iii|3)[^a-z0-9]+code[^a-z0-9]+vfd[^a-z0-9]+rayanair$|7th[^a-z0-9]+dragon[^a-z0-9]+(?:iii|3)[^a-z0-9]+rayanair$|3ds[^a-z0-9]+7th[^a-z0-9]+dragon[^a-z0-9]+(?:iii|3)[^a-z0-9]+code[^a-z0-9]+vfd$|3ds[^a-z0-9]+7th[^a-z0-9]+dragon[^a-z0-9]+(?:iii|3)$|3ds[^a-z0-9]+7th[^a-z0-9]+dragon[^a-z0-9]+(?:iii|3)[^a-z0-9]+code[^a-z0-9]+vfd[^a-z0-9]+rayanair$|3ds[^a-z0-9]+7th[^a-z0-9]+dragon[^a-z0-9]+(?:iii|3)[^a-z0-9]+rayanair$)"
@@ -107,6 +167,11 @@
             "game": "Adventures of Tintin, The - The Game",
             "file": "jingles/3ds/EatsDirt/Adventures of Tintin, The - The Game (EatsDirt).ogg",
             "regex": "(?:adventures[^a-z0-9]+of[^a-z0-9]+tintin[^a-z0-9]+the[^a-z0-9]+the[^a-z0-9]+game$|adventures[^a-z0-9]+of[^a-z0-9]+tintin[^a-z0-9]+the$|adventures[^a-z0-9]+of[^a-z0-9]+tintin[^a-z0-9]+the[^a-z0-9]+the[^a-z0-9]+game[^a-z0-9]+eatsdirt$|adventures[^a-z0-9]+of[^a-z0-9]+tintin[^a-z0-9]+the[^a-z0-9]+eatsdirt$|3ds[^a-z0-9]+adventures[^a-z0-9]+of[^a-z0-9]+tintin[^a-z0-9]+the[^a-z0-9]+the[^a-z0-9]+game$|3ds[^a-z0-9]+adventures[^a-z0-9]+of[^a-z0-9]+tintin[^a-z0-9]+the$|3ds[^a-z0-9]+adventures[^a-z0-9]+of[^a-z0-9]+tintin[^a-z0-9]+the[^a-z0-9]+the[^a-z0-9]+game[^a-z0-9]+eatsdirt$|3ds[^a-z0-9]+adventures[^a-z0-9]+of[^a-z0-9]+tintin[^a-z0-9]+the[^a-z0-9]+eatsdirt$)"
+        },
+        {
+            "game": "Anemone3ds",
+            "file": "jingles/3ds/Felipne87r/Anemone3ds (Official) (Felipne87r).ogg",
+            "regex": "(?:anemone3ds$|anemone3ds[^a-z0-9]+official$|anemone3ds[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+anemone3ds$|3ds[^a-z0-9]+anemone3ds[^a-z0-9]+official$|3ds[^a-z0-9]+anemone3ds[^a-z0-9]+felipne87r$)"
         },
         {
             "game": "Angry Birds Star Wars",
@@ -197,6 +262,11 @@
             "game": "BlazBlue - Continuum Shift II",
             "file": "jingles/3ds/RayanAIR/BlazBlue - Continuum Shift II (RayanAIR).ogg",
             "regex": "(?:blazblue[^a-z0-9]+continuum[^a-z0-9]+shift[^a-z0-9]+(?:ii|2)$|blazblue$|blazblue[^a-z0-9]+continuum[^a-z0-9]+shift[^a-z0-9]+(?:ii|2)[^a-z0-9]+rayanair$|blazblue[^a-z0-9]+rayanair$|3ds[^a-z0-9]+blazblue[^a-z0-9]+continuum[^a-z0-9]+shift[^a-z0-9]+(?:ii|2)$|3ds[^a-z0-9]+blazblue$|3ds[^a-z0-9]+blazblue[^a-z0-9]+continuum[^a-z0-9]+shift[^a-z0-9]+(?:ii|2)[^a-z0-9]+rayanair$|3ds[^a-z0-9]+blazblue[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "BootNTRSelector",
+            "file": "jingles/3ds/Felipne87r/BootNTRSelector (Official) (Felipne87r).ogg",
+            "regex": "(?:bootntrselector$|bootntrselector[^a-z0-9]+official$|bootntrselector[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+bootntrselector$|3ds[^a-z0-9]+bootntrselector[^a-z0-9]+official$|3ds[^a-z0-9]+bootntrselector[^a-z0-9]+felipne87r$)"
         },
         {
             "game": "BOXBOY!",
@@ -469,6 +539,11 @@
             "regex": "(?:ever[^a-z0-9]+oasis$|ever[^a-z0-9]+oasis[^a-z0-9]+rayanair$|3ds[^a-z0-9]+ever[^a-z0-9]+oasis$|3ds[^a-z0-9]+ever[^a-z0-9]+oasis[^a-z0-9]+rayanair$)"
         },
         {
+            "game": "Face Raiders",
+            "file": "jingles/3ds/Felipne87r/Face Raiders (Official) (Felipne87r).ogg",
+            "regex": "(?:face[^a-z0-9]+raiders$|face[^a-z0-9]+raiders[^a-z0-9]+official$|face[^a-z0-9]+raiders[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+face[^a-z0-9]+raiders$|3ds[^a-z0-9]+face[^a-z0-9]+raiders[^a-z0-9]+official$|3ds[^a-z0-9]+face[^a-z0-9]+raiders[^a-z0-9]+felipne87r$)"
+        },
+        {
             "game": "Fantasy Life",
             "file": "jingles/3ds/RayanAIR/Fantasy Life (RayanAIR).ogg",
             "regex": "(?:fantasy[^a-z0-9]+life$|fantasy[^a-z0-9]+life[^a-z0-9]+rayanair$|3ds[^a-z0-9]+fantasy[^a-z0-9]+life$|3ds[^a-z0-9]+fantasy[^a-z0-9]+life[^a-z0-9]+rayanair$)"
@@ -537,6 +612,11 @@
             "game": "Fire Emblem Warriors",
             "file": "jingles/3ds/RayanAIR/Fire Emblem Warriors (RayanAIR).ogg",
             "regex": "(?:fire[^a-z0-9]+emblem[^a-z0-9]+warriors$|fire[^a-z0-9]+emblem[^a-z0-9]+warriors[^a-z0-9]+rayanair$|3ds[^a-z0-9]+fire[^a-z0-9]+emblem[^a-z0-9]+warriors$|3ds[^a-z0-9]+fire[^a-z0-9]+emblem[^a-z0-9]+warriors[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Flipnote Studio 3D",
+            "file": "jingles/3ds/Felipne87r/Flipnote Studio 3D (Official) (Felipne87r).ogg",
+            "regex": "(?:flipnote[^a-z0-9]+studio[^a-z0-9]+3d$|flipnote[^a-z0-9]+studio[^a-z0-9]+3d[^a-z0-9]+official$|flipnote[^a-z0-9]+studio[^a-z0-9]+3d[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+flipnote[^a-z0-9]+studio[^a-z0-9]+3d$|3ds[^a-z0-9]+flipnote[^a-z0-9]+studio[^a-z0-9]+3d[^a-z0-9]+official$|3ds[^a-z0-9]+flipnote[^a-z0-9]+studio[^a-z0-9]+3d[^a-z0-9]+felipne87r$)"
         },
         {
             "game": "Fossil Fighters Frontier",
@@ -939,9 +1019,29 @@
             "regex": "(?:new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+(?:2|ii)$|new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+(?:2|ii)[^a-z0-9]+eatsdirt$|3ds[^a-z0-9]+new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+(?:2|ii)$|3ds[^a-z0-9]+new[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+bros[^a-z0-9]+(?:2|ii)[^a-z0-9]+eatsdirt$)"
         },
         {
+            "game": "Nintendo 3DS Sound",
+            "file": "jingles/3ds/Felipne87r/Nintendo 3DS Sound (Official) (Felipne87r).ogg",
+            "regex": "(?:nintendo[^a-z0-9]+3ds[^a-z0-9]+sound$|nintendo[^a-z0-9]+3ds[^a-z0-9]+sound[^a-z0-9]+official$|nintendo[^a-z0-9]+3ds[^a-z0-9]+sound[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+nintendo[^a-z0-9]+3ds[^a-z0-9]+sound$|3ds[^a-z0-9]+nintendo[^a-z0-9]+3ds[^a-z0-9]+sound[^a-z0-9]+official$|3ds[^a-z0-9]+nintendo[^a-z0-9]+3ds[^a-z0-9]+sound[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "Nintendo Anime Channel",
+            "file": "jingles/3ds/Felipne87r/Nintendo Anime Channel (Official) (Felipne87r).ogg",
+            "regex": "(?:nintendo[^a-z0-9]+anime[^a-z0-9]+channel$|nintendo[^a-z0-9]+anime[^a-z0-9]+channel[^a-z0-9]+official$|nintendo[^a-z0-9]+anime[^a-z0-9]+channel[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+nintendo[^a-z0-9]+anime[^a-z0-9]+channel$|3ds[^a-z0-9]+nintendo[^a-z0-9]+anime[^a-z0-9]+channel[^a-z0-9]+official$|3ds[^a-z0-9]+nintendo[^a-z0-9]+anime[^a-z0-9]+channel[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "Nintendo Badge Arcade",
+            "file": "jingles/3ds/Felipne87r/Nintendo Badge Arcade (Official) (Felipne87r).ogg",
+            "regex": "(?:nintendo[^a-z0-9]+badge[^a-z0-9]+arcade$|nintendo[^a-z0-9]+badge[^a-z0-9]+arcade[^a-z0-9]+official$|nintendo[^a-z0-9]+badge[^a-z0-9]+arcade[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+nintendo[^a-z0-9]+badge[^a-z0-9]+arcade$|3ds[^a-z0-9]+nintendo[^a-z0-9]+badge[^a-z0-9]+arcade[^a-z0-9]+official$|3ds[^a-z0-9]+nintendo[^a-z0-9]+badge[^a-z0-9]+arcade[^a-z0-9]+felipne87r$)"
+        },
+        {
             "game": "Nintendo Pocket Football Club",
             "file": "jingles/3ds/RayanAIR/Nintendo Pocket Football Club (RayanAIR).ogg",
             "regex": "(?:nintendo[^a-z0-9]+pocket[^a-z0-9]+football[^a-z0-9]+club$|nintendo[^a-z0-9]+pocket[^a-z0-9]+football[^a-z0-9]+club[^a-z0-9]+rayanair$|3ds[^a-z0-9]+nintendo[^a-z0-9]+pocket[^a-z0-9]+football[^a-z0-9]+club$|3ds[^a-z0-9]+nintendo[^a-z0-9]+pocket[^a-z0-9]+football[^a-z0-9]+club[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "Nintendo Video",
+            "file": "jingles/3ds/Felipne87r/Nintendo Video (Official) (Felipne87r).ogg",
+            "regex": "(?:nintendo[^a-z0-9]+video$|nintendo[^a-z0-9]+video[^a-z0-9]+official$|nintendo[^a-z0-9]+video[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+nintendo[^a-z0-9]+video$|3ds[^a-z0-9]+nintendo[^a-z0-9]+video[^a-z0-9]+official$|3ds[^a-z0-9]+nintendo[^a-z0-9]+video[^a-z0-9]+felipne87r$)"
         },
         {
             "game": "One Piece - Dai Kaizoku Colosseum",
@@ -1459,6 +1559,11 @@
             "regex": "(?:rune[^a-z0-9]+factory[^a-z0-9]+(?:4|iv)$|rune[^a-z0-9]+factory[^a-z0-9]+(?:4|iv)[^a-z0-9]+rayanair$|3ds[^a-z0-9]+rune[^a-z0-9]+factory[^a-z0-9]+(?:4|iv)$|3ds[^a-z0-9]+rune[^a-z0-9]+factory[^a-z0-9]+(?:4|iv)[^a-z0-9]+rayanair$)"
         },
         {
+            "game": "Rusty's Real Deal Baseball",
+            "file": "jingles/3ds/Felipne87r/Rusty's Real Deal Baseball (Official) (Felipne87r).ogg",
+            "regex": "(?:rusty[^a-z0-9]+s[^a-z0-9]+real[^a-z0-9]+deal[^a-z0-9]+baseball$|rusty[^a-z0-9]+s[^a-z0-9]+real[^a-z0-9]+deal[^a-z0-9]+baseball[^a-z0-9]+official$|rusty[^a-z0-9]+s[^a-z0-9]+real[^a-z0-9]+deal[^a-z0-9]+baseball[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+rusty[^a-z0-9]+s[^a-z0-9]+real[^a-z0-9]+deal[^a-z0-9]+baseball$|3ds[^a-z0-9]+rusty[^a-z0-9]+s[^a-z0-9]+real[^a-z0-9]+deal[^a-z0-9]+baseball[^a-z0-9]+official$|3ds[^a-z0-9]+rusty[^a-z0-9]+s[^a-z0-9]+real[^a-z0-9]+deal[^a-z0-9]+baseball[^a-z0-9]+felipne87r$)"
+        },
+        {
             "game": "Scribblenauts Unlimited",
             "file": "jingles/3ds/EatsDirt/Scribblenauts Unlimited (EatsDirt).ogg",
             "regex": "(?:scribblenauts[^a-z0-9]+unlimited$|scribblenauts[^a-z0-9]+unlimited[^a-z0-9]+eatsdirt$|3ds[^a-z0-9]+scribblenauts[^a-z0-9]+unlimited$|3ds[^a-z0-9]+scribblenauts[^a-z0-9]+unlimited[^a-z0-9]+eatsdirt$)"
@@ -1574,6 +1679,11 @@
             "regex": "(?:stella[^a-z0-9]+glow$|stella[^a-z0-9]+glow[^a-z0-9]+rayanair$|3ds[^a-z0-9]+stella[^a-z0-9]+glow$|3ds[^a-z0-9]+stella[^a-z0-9]+glow[^a-z0-9]+rayanair$)"
         },
         {
+            "game": "StreetPass Mii Plaza",
+            "file": "jingles/3ds/Felipne87r/StreetPass Mii Plaza (Official) (Felipne87r).ogg",
+            "regex": "(?:streetpass[^a-z0-9]+mii[^a-z0-9]+plaza$|streetpass[^a-z0-9]+mii[^a-z0-9]+plaza[^a-z0-9]+official$|streetpass[^a-z0-9]+mii[^a-z0-9]+plaza[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+streetpass[^a-z0-9]+mii[^a-z0-9]+plaza$|3ds[^a-z0-9]+streetpass[^a-z0-9]+mii[^a-z0-9]+plaza[^a-z0-9]+official$|3ds[^a-z0-9]+streetpass[^a-z0-9]+mii[^a-z0-9]+plaza[^a-z0-9]+felipne87r$)"
+        },
+        {
             "game": "Super Mario 3D Land",
             "file": "jingles/3ds/EatsDirt/Super Mario 3D Land (EatsDirt).ogg",
             "regex": "(?:super[^a-z0-9]+mario[^a-z0-9]+3d[^a-z0-9]+land$|super[^a-z0-9]+mario[^a-z0-9]+3d[^a-z0-9]+land[^a-z0-9]+eatsdirt$|3ds[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+3d[^a-z0-9]+land$|3ds[^a-z0-9]+super[^a-z0-9]+mario[^a-z0-9]+3d[^a-z0-9]+land[^a-z0-9]+eatsdirt$)"
@@ -1607,6 +1717,16 @@
             "game": "Sushi Striker - The Way of Sushido",
             "file": "jingles/3ds/RayanAIR/Sushi Striker - The Way of Sushido (RayanAIR).ogg",
             "regex": "(?:sushi[^a-z0-9]+striker[^a-z0-9]+the[^a-z0-9]+way[^a-z0-9]+of[^a-z0-9]+sushido$|sushi[^a-z0-9]+striker$|sushi[^a-z0-9]+striker[^a-z0-9]+the[^a-z0-9]+way[^a-z0-9]+of[^a-z0-9]+sushido[^a-z0-9]+rayanair$|sushi[^a-z0-9]+striker[^a-z0-9]+rayanair$|3ds[^a-z0-9]+sushi[^a-z0-9]+striker[^a-z0-9]+the[^a-z0-9]+way[^a-z0-9]+of[^a-z0-9]+sushido$|3ds[^a-z0-9]+sushi[^a-z0-9]+striker$|3ds[^a-z0-9]+sushi[^a-z0-9]+striker[^a-z0-9]+the[^a-z0-9]+way[^a-z0-9]+of[^a-z0-9]+sushido[^a-z0-9]+rayanair$|3ds[^a-z0-9]+sushi[^a-z0-9]+striker[^a-z0-9]+rayanair$)"
+        },
+        {
+            "game": "SwapDoodle",
+            "file": "jingles/3ds/Felipne87r/SwapDoodle (Official) (Felipne87r).ogg",
+            "regex": "(?:swapdoodle$|swapdoodle[^a-z0-9]+official$|swapdoodle[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+swapdoodle$|3ds[^a-z0-9]+swapdoodle[^a-z0-9]+official$|3ds[^a-z0-9]+swapdoodle[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "SwapNote",
+            "file": "jingles/3ds/Felipne87r/SwapNote (Official) (Felipne87r).ogg",
+            "regex": "(?:swapnote$|swapnote[^a-z0-9]+official$|swapnote[^a-z0-9]+felipne87r$|3ds[^a-z0-9]+swapnote$|3ds[^a-z0-9]+swapnote[^a-z0-9]+official$|3ds[^a-z0-9]+swapnote[^a-z0-9]+felipne87r$)"
         },
         {
             "game": "Taiko no Tatsujin - Doko Don! Mystery Adventure",
