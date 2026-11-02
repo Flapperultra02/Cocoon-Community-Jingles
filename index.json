@@ -1861,6 +1861,11 @@
             "regex": "(?:angry[^a-z0-9]+birds[^a-z0-9]+seasons$|angry[^a-z0-9]+birds[^a-z0-9]+seasons[^a-z0-9]+cherry[^a-z0-9]+blossom$|angry[^a-z0-9]+birds[^a-z0-9]+seasons[^a-z0-9]+felipne87r$|android[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+seasons$|android[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+seasons[^a-z0-9]+cherry[^a-z0-9]+blossom$|android[^a-z0-9]+angry[^a-z0-9]+birds[^a-z0-9]+seasons[^a-z0-9]+felipne87r$)"
         },
         {
+            "game": "Bad Piggies",
+            "file": "jingles/android/Felipne87r/Bad Piggies (Felipne87r).ogg",
+            "regex": "(?:bad[^a-z0-9]+piggies$|bad[^a-z0-9]+piggies[^a-z0-9]+felipne87r$|android[^a-z0-9]+bad[^a-z0-9]+piggies$|android[^a-z0-9]+bad[^a-z0-9]+piggies[^a-z0-9]+felipne87r$)"
+        },
+        {
             "game": "Blue Archive",
             "file": "jingles/android/CirnoWaifu/Blue Archive (CirnoWaifu).ogg",
             "regex": "(?:blue[^a-z0-9]+archive$|blue[^a-z0-9]+archive[^a-z0-9]+cirnowaifu$|android[^a-z0-9]+blue[^a-z0-9]+archive$|android[^a-z0-9]+blue[^a-z0-9]+archive[^a-z0-9]+cirnowaifu$)"
@@ -1941,6 +1946,11 @@
             "regex": "(?:doodle[^a-z0-9]+jump$|doodle[^a-z0-9]+jump[^a-z0-9]+v2$|doodle[^a-z0-9]+jump[^a-z0-9]+sjh$|android[^a-z0-9]+doodle[^a-z0-9]+jump$|android[^a-z0-9]+doodle[^a-z0-9]+jump[^a-z0-9]+v2$|android[^a-z0-9]+doodle[^a-z0-9]+jump[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Dr. Mario World",
+            "file": "jingles/android/Felipne87r/Dr. Mario World (Felipne87r).ogg",
+            "regex": "(?:dr[^a-z0-9]+mario[^a-z0-9]+world$|dr[^a-z0-9]+mario[^a-z0-9]+world[^a-z0-9]+felipne87r$|android[^a-z0-9]+dr[^a-z0-9]+mario[^a-z0-9]+world$|android[^a-z0-9]+dr[^a-z0-9]+mario[^a-z0-9]+world[^a-z0-9]+felipne87r$)"
+        },
+        {
             "game": "Dragalia Lost -",
             "file": "jingles/android/Fynaleth/Dragalia Lost - (Because of You) (Fynaleth).ogg",
             "regex": "(?:dragalia[^a-z0-9]+lost$|dragalia[^a-z0-9]+lost[^a-z0-9]+because[^a-z0-9]+of[^a-z0-9]+you$|dragalia[^a-z0-9]+lost[^a-z0-9]+fynaleth$|android[^a-z0-9]+dragalia[^a-z0-9]+lost$|android[^a-z0-9]+dragalia[^a-z0-9]+lost[^a-z0-9]+because[^a-z0-9]+of[^a-z0-9]+you$|android[^a-z0-9]+dragalia[^a-z0-9]+lost[^a-z0-9]+fynaleth$)"
@@ -1994,6 +2004,11 @@
             "game": "Mario Kart Tour",
             "file": "jingles/android/Felipne87r/Mario Kart Tour (Felipne87r).ogg",
             "regex": "(?:mario[^a-z0-9]+kart[^a-z0-9]+tour$|mario[^a-z0-9]+kart[^a-z0-9]+tour[^a-z0-9]+felipne87r$|android[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+tour$|android[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+tour[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "Minion Rush",
+            "file": "jingles/android/Felipne87r/Minion Rush (Felipne87r).ogg",
+            "regex": "(?:minion[^a-z0-9]+rush$|minion[^a-z0-9]+rush[^a-z0-9]+felipne87r$|android[^a-z0-9]+minion[^a-z0-9]+rush$|android[^a-z0-9]+minion[^a-z0-9]+rush[^a-z0-9]+felipne87r$)"
         },
         {
             "game": "Netflix",
@@ -2104,6 +2119,11 @@
             "game": "Samsung Unlock Sound",
             "file": "jingles/android/Felipne87r/Samsung Unlock Sound (older) (Felipne87r).ogg",
             "regex": "(?:samsung[^a-z0-9]+unlock[^a-z0-9]+sound$|samsung[^a-z0-9]+unlock[^a-z0-9]+sound[^a-z0-9]+older$|samsung[^a-z0-9]+unlock[^a-z0-9]+sound[^a-z0-9]+felipne87r$|android[^a-z0-9]+samsung[^a-z0-9]+unlock[^a-z0-9]+sound$|android[^a-z0-9]+samsung[^a-z0-9]+unlock[^a-z0-9]+sound[^a-z0-9]+older$|android[^a-z0-9]+samsung[^a-z0-9]+unlock[^a-z0-9]+sound[^a-z0-9]+felipne87r$)"
+        },
+        {
+            "game": "SEGA Heroes",
+            "file": "jingles/android/Felipne87r/SEGA Heroes (Felipne87r).ogg",
+            "regex": "(?:sega[^a-z0-9]+heroes$|sega[^a-z0-9]+heroes[^a-z0-9]+felipne87r$|android[^a-z0-9]+sega[^a-z0-9]+heroes$|android[^a-z0-9]+sega[^a-z0-9]+heroes[^a-z0-9]+felipne87r$)"
         },
         {
             "game": "Smash Hit",
