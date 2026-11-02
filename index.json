@@ -12609,6 +12609,11 @@
             "regex": "(?:sonic[^a-z0-9]+(?:4|iv)[^a-z0-9]+episode[^a-z0-9]+(?:2|ii)$|sonic[^a-z0-9]+(?:4|iv)[^a-z0-9]+episode[^a-z0-9]+(?:2|ii)[^a-z0-9]+felipne87r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+sonic[^a-z0-9]+(?:4|iv)[^a-z0-9]+episode[^a-z0-9]+(?:2|ii)$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+sonic[^a-z0-9]+(?:4|iv)[^a-z0-9]+episode[^a-z0-9]+(?:2|ii)[^a-z0-9]+felipne87r$)"
         },
         {
+            "game": "Sonic Dream Team",
+            "file": "jingles/pc steam & multiplat/Felipne87r/Sonic Dream Team (Felipne87r).ogg",
+            "regex": "(?:sonic[^a-z0-9]+dream[^a-z0-9]+team$|sonic[^a-z0-9]+dream[^a-z0-9]+team[^a-z0-9]+felipne87r$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+sonic[^a-z0-9]+dream[^a-z0-9]+team$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+sonic[^a-z0-9]+dream[^a-z0-9]+team[^a-z0-9]+felipne87r$)"
+        },
+        {
             "game": "Sonic Frontiers",
             "file": "jingles/pc steam & multiplat/RayanAIR/Sonic Frontiers (RayanAIR).ogg",
             "regex": "(?:sonic[^a-z0-9]+frontiers$|sonic[^a-z0-9]+frontiers[^a-z0-9]+rayanair$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+sonic[^a-z0-9]+frontiers$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+sonic[^a-z0-9]+frontiers[^a-z0-9]+rayanair$)"
