@@ -11514,6 +11514,11 @@
             "regex": "(?:limbo$|limbo[^a-z0-9]+bennythefirsthunter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+limbo$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+limbo[^a-z0-9]+bennythefirsthunter$)"
         },
         {
+            "game": "Little Nightmares",
+            "file": "jingles/pc steam & multiplat/EvilMain/Little Nightmares (EvilMain).ogg",
+            "regex": "(?:little[^a-z0-9]+nightmares$|little[^a-z0-9]+nightmares[^a-z0-9]+evilmain$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+little[^a-z0-9]+nightmares$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+little[^a-z0-9]+nightmares[^a-z0-9]+evilmain$)"
+        },
+        {
             "game": "Look Outside",
             "file": "jingles/pc steam & multiplat/RayanAIR/Look Outside (RayanAIR).ogg",
             "regex": "(?:look[^a-z0-9]+outside$|look[^a-z0-9]+outside[^a-z0-9]+rayanair$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+look[^a-z0-9]+outside$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+look[^a-z0-9]+outside[^a-z0-9]+rayanair$)"
@@ -18410,6 +18415,16 @@
             "regex": "(?:die[^a-z0-9]+hard[^a-z0-9]+trilogy$|die[^a-z0-9]+hard[^a-z0-9]+trilogy[^a-z0-9]+flapperultra$|psx[^a-z0-9]+die[^a-z0-9]+hard[^a-z0-9]+trilogy$|psx[^a-z0-9]+die[^a-z0-9]+hard[^a-z0-9]+trilogy[^a-z0-9]+flapperultra$)"
         },
         {
+            "game": "Digimon Rumble Arena",
+            "file": "jingles/psx/EvilMain/Digimon Rumble Arena (EvilMain).ogg",
+            "regex": "(?:digimon[^a-z0-9]+rumble[^a-z0-9]+arena$|digimon[^a-z0-9]+rumble[^a-z0-9]+arena[^a-z0-9]+evilmain$|psx[^a-z0-9]+digimon[^a-z0-9]+rumble[^a-z0-9]+arena$|psx[^a-z0-9]+digimon[^a-z0-9]+rumble[^a-z0-9]+arena[^a-z0-9]+evilmain$)"
+        },
+        {
+            "game": "Digimon Rumble Arena Alt",
+            "file": "jingles/psx/EvilMain/Digimon Rumble Arena Alt (EvilMain).ogg",
+            "regex": "(?:digimon[^a-z0-9]+rumble[^a-z0-9]+arena[^a-z0-9]+alt$|digimon[^a-z0-9]+rumble[^a-z0-9]+arena[^a-z0-9]+alt[^a-z0-9]+evilmain$|psx[^a-z0-9]+digimon[^a-z0-9]+rumble[^a-z0-9]+arena[^a-z0-9]+alt$|psx[^a-z0-9]+digimon[^a-z0-9]+rumble[^a-z0-9]+arena[^a-z0-9]+alt[^a-z0-9]+evilmain$)"
+        },
+        {
             "game": "Digimon World",
             "file": "jingles/psx/flapperultra/Digimon World (flapperultra).ogg",
             "regex": "(?:digimon[^a-z0-9]+world$|digimon[^a-z0-9]+world[^a-z0-9]+flapperultra$|psx[^a-z0-9]+digimon[^a-z0-9]+world$|psx[^a-z0-9]+digimon[^a-z0-9]+world[^a-z0-9]+flapperultra$)"
@@ -18528,6 +18543,11 @@
             "game": "Harvest Moon - Back to Nature",
             "file": "jingles/psx/Brookenium/Harvest Moon - Back to Nature (Brookenium).ogg",
             "regex": "(?:harvest[^a-z0-9]+moon[^a-z0-9]+back[^a-z0-9]+to[^a-z0-9]+nature$|harvest[^a-z0-9]+moon$|harvest[^a-z0-9]+moon[^a-z0-9]+back[^a-z0-9]+to[^a-z0-9]+nature[^a-z0-9]+brookenium$|harvest[^a-z0-9]+moon[^a-z0-9]+brookenium$|psx[^a-z0-9]+harvest[^a-z0-9]+moon[^a-z0-9]+back[^a-z0-9]+to[^a-z0-9]+nature$|psx[^a-z0-9]+harvest[^a-z0-9]+moon$|psx[^a-z0-9]+harvest[^a-z0-9]+moon[^a-z0-9]+back[^a-z0-9]+to[^a-z0-9]+nature[^a-z0-9]+brookenium$|psx[^a-z0-9]+harvest[^a-z0-9]+moon[^a-z0-9]+brookenium$)"
+        },
+        {
+            "game": "Hercs Adventure",
+            "file": "jingles/psx/EvilMain/Hercs Adventure (EvilMain).ogg",
+            "regex": "(?:hercs[^a-z0-9]+adventure$|hercs[^a-z0-9]+adventure[^a-z0-9]+evilmain$|psx[^a-z0-9]+hercs[^a-z0-9]+adventure$|psx[^a-z0-9]+hercs[^a-z0-9]+adventure[^a-z0-9]+evilmain$)"
         },
         {
             "game": "Jade Cocoon",
@@ -20356,6 +20376,11 @@
             "game": "Enter The Gungeon",
             "file": "jingles/switch/SJH/Enter The Gungeon (V3) (SJH).ogg",
             "regex": "(?:enter[^a-z0-9]+the[^a-z0-9]+gungeon$|enter[^a-z0-9]+the[^a-z0-9]+gungeon[^a-z0-9]+v3$|enter[^a-z0-9]+the[^a-z0-9]+gungeon[^a-z0-9]+sjh$|switch[^a-z0-9]+enter[^a-z0-9]+the[^a-z0-9]+gungeon$|switch[^a-z0-9]+enter[^a-z0-9]+the[^a-z0-9]+gungeon[^a-z0-9]+v3$|switch[^a-z0-9]+enter[^a-z0-9]+the[^a-z0-9]+gungeon[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Fantasy Life i",
+            "file": "jingles/switch/EvilMain/Fantasy Life i (EvilMain).ogg",
+            "regex": "(?:fantasy[^a-z0-9]+life[^a-z0-9]+(?:i|1)$|fantasy[^a-z0-9]+life[^a-z0-9]+(?:i|1)[^a-z0-9]+evilmain$|switch[^a-z0-9]+fantasy[^a-z0-9]+life[^a-z0-9]+(?:i|1)$|switch[^a-z0-9]+fantasy[^a-z0-9]+life[^a-z0-9]+(?:i|1)[^a-z0-9]+evilmain$)"
         },
         {
             "game": "Fire Emblem",
