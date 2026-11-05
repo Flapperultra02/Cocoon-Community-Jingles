@@ -10339,6 +10339,11 @@
             "regex": "(?:crab[^a-z0-9]+champions$|crab[^a-z0-9]+champions[^a-z0-9]+v7$|crab[^a-z0-9]+champions[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+crab[^a-z0-9]+champions$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+crab[^a-z0-9]+champions[^a-z0-9]+v7$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+crab[^a-z0-9]+champions[^a-z0-9]+sjh$)"
         },
         {
+            "game": "Crab Champions",
+            "file": "jingles/pc steam & multiplat/SJH/Crab Champions (V8) (SJH).ogg",
+            "regex": "(?:crab[^a-z0-9]+champions$|crab[^a-z0-9]+champions[^a-z0-9]+v8$|crab[^a-z0-9]+champions[^a-z0-9]+sjh$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+crab[^a-z0-9]+champions$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+crab[^a-z0-9]+champions[^a-z0-9]+v8$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+crab[^a-z0-9]+champions[^a-z0-9]+sjh$)"
+        },
+        {
             "game": "Crash Bandicoot - Back in Time",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Crash Bandicoot - Back in Time (BennyTheFirstHunter).ogg",
             "regex": "(?:crash[^a-z0-9]+bandicoot[^a-z0-9]+back[^a-z0-9]+in[^a-z0-9]+time$|crash[^a-z0-9]+bandicoot$|crash[^a-z0-9]+bandicoot[^a-z0-9]+back[^a-z0-9]+in[^a-z0-9]+time[^a-z0-9]+bennythefirsthunter$|crash[^a-z0-9]+bandicoot[^a-z0-9]+bennythefirsthunter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+crash[^a-z0-9]+bandicoot[^a-z0-9]+back[^a-z0-9]+in[^a-z0-9]+time$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+crash[^a-z0-9]+bandicoot$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+crash[^a-z0-9]+bandicoot[^a-z0-9]+back[^a-z0-9]+in[^a-z0-9]+time[^a-z0-9]+bennythefirsthunter$|pc[^a-z0-9]+steam[^a-z0-9]+multiplat[^a-z0-9]+crash[^a-z0-9]+bandicoot[^a-z0-9]+bennythefirsthunter$)"
@@ -21833,6 +21838,16 @@
             "game": "Mario Kart World",
             "file": "jingles/switch2/Tsuukasa-R/Mario Kart World (Tsuukasa-R).ogg",
             "regex": "(?:mario[^a-z0-9]+kart[^a-z0-9]+world$|mario[^a-z0-9]+kart[^a-z0-9]+world[^a-z0-9]+tsuukasa[^a-z0-9]+r$|switch2[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+world$|switch2[^a-z0-9]+mario[^a-z0-9]+kart[^a-z0-9]+world[^a-z0-9]+tsuukasa[^a-z0-9]+r$)"
+        },
+        {
+            "game": "Pokemon Pokopia",
+            "file": "jingles/switch2/SJH/Pokemon Pokopia (V1) (SJH).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+pokopia$|pokemon[^a-z0-9]+pokopia[^a-z0-9]+v1$|pokemon[^a-z0-9]+pokopia[^a-z0-9]+sjh$|switch2[^a-z0-9]+pokemon[^a-z0-9]+pokopia$|switch2[^a-z0-9]+pokemon[^a-z0-9]+pokopia[^a-z0-9]+v1$|switch2[^a-z0-9]+pokemon[^a-z0-9]+pokopia[^a-z0-9]+sjh$)"
+        },
+        {
+            "game": "Pokemon Pokopia",
+            "file": "jingles/switch2/SJH/Pokemon Pokopia (V2) (SJH).ogg",
+            "regex": "(?:pokemon[^a-z0-9]+pokopia$|pokemon[^a-z0-9]+pokopia[^a-z0-9]+v2$|pokemon[^a-z0-9]+pokopia[^a-z0-9]+sjh$|switch2[^a-z0-9]+pokemon[^a-z0-9]+pokopia$|switch2[^a-z0-9]+pokemon[^a-z0-9]+pokopia[^a-z0-9]+v2$|switch2[^a-z0-9]+pokemon[^a-z0-9]+pokopia[^a-z0-9]+sjh$)"
         },
         {
             "game": "The Legend of Zelda - Ocarina Of Time Remake",
